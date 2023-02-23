@@ -1,2 +1,2 @@
-# Language-Pack-PR-BR
-A pr-br language pack for DNN Platform 
+# Language-Pack-PT-BR
+A pt-br language pack for DNN Platform 
