@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="$this.DefaultModifiers" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Privado</value>
+  </data>
+  <data name="$this.TrayAutoArrange" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Sí</value>
+  </data>
+  <data name="$this.TrayLargeIcon" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Não</value>
+  </data>
+  <data name="AddRowBreakLabel.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Adicionar salto de fila</value>
+  </data>
+  <data name="AddRowBreakTitle.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Adicionar um salto de fila na barra de herramientas</value>
+  </data>
+  <data name="AddToolbar.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Adicionar uma nova barra de herramientas</value>
+  </data>
+  <data name="AllPortals.Text" lastModified="2018-03-24 10:23:01">
+    <value xml:space="preserve">Todos os portales</value>
+  </data>
+  <data name="BadImportXml.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Arquivo XML incorreto.</value>
+  </data>
+  <data name="BlanktextTT.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Texto que se muestra quando o módulo não tem conteúdo.</value>
+  </data>
+  <data name="BrowserRootFolder.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Directorio raiz:</value>
+  </data>
+  <data name="btnCancel.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Cerrar</value>
+  </data>
+  <data name="btnOK.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Guardar</value>
+  </data>
+  <data name="CancelToolbar.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Cancelar edição</value>
+  </data>
+  <data name="CodeMirrorLabel.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Tema para CodeMirror (resalta a sintaxis de código-fonte):</value>
+  </data>
+  <data name="CopyPageChild.Help" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Copiar a configuração da página a todas a páginas descendientes.</value>
+  </data>
+  <data name="CopyPageChild.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Copiar configuração a descendientes</value>
+  </data>
+  <data name="CreateGroupLabel.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">criar um novo grupo</value>
+  </data>
+  <data name="CreateGroupTitle.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">¿Adicionar grupo a barra de herramientas?</value>
+  </data>
+  <data name="CustomJsFileLabel.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Arquivo JS personalizado:</value>
+  </data>
+  <data name="DefaultLinkMode0.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">URL relativa</value>
+  </data>
+  <data name="DefaultLinkMode1.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">URL absoluta</value>
+  </data>
+  <data name="DefaultLinkMode2.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">URL relativa segura</value>
+  </data>
+  <data name="DefaultLinkMode3.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">URL absoluta segura</value>
+  </data>
+  <data name="DefaultLinkModeLabel.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Tipo de enlace predeterminado:</value>
+  </data>
+  <data name="DeleteGroup.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">¿Eliminar o grupo de a barra de herramientas?</value>
+  </data>
+  <data name="DeleteToolbar.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Eliminar o grupo selecionado</value>
+  </data>
+  <data name="DeleteToolbarButton.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">¿Eliminar o botão de a barra de herramientas?</value>
+  </data>
+  <data name="DetailView.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Vista de detalle</value>
+  </data>
+  <data name="EditGroupName.Text" lastModified="2015-12-27 04:10:55">
+    <value xml:space="preserve">Clicar para editar em nome do grupo</value>
+  </data>
+  <data name="EditorConfigWarning.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">&lt;strong&gt;Atenção:&lt;/strong&gt; Os seguintes parámetros son para usuarios expertos, não os toque si não está seguro de o que está haciendo. Pode encontrar más informação em a página de &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;documentação de a API JavaScript de CKEditor&lt;/strong&gt;&lt;/a&gt;. Pode dejar a configuração em branco para utilizar a configuração predeterminada quando se cargue o editor.</value>
+  </data>
+  <data name="EditToolbar.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Editar a barra de herramientas seleccionada</value>
+  </data>
+  <data name="Error1.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Não tem permissões para ver esta página.</value>
+  </data>
+  <data name="Export.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">foin exportado os parámetros de configuração actuales</value>
+  </data>
+  <data name="ExportNow.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Exportar</value>
+  </data>
+  <data name="FileListPageSizeLabel.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Tamaño de página de a lista (0 = sin paginação):</value>
+  </data>
+  <data name="FileListViewModeLabel.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Vista predeterminada de a lista de Arquivos:</value>
+  </data>
+  <data name="HostHasSettingLabel.Text" lastModified="2018-03-24 10:23:01">
+    <value xml:space="preserve">Tem configuração de sistema</value>
+  </data>
+  <data name="HostNoSettingLabel.Text" lastModified="2018-03-24 10:23:01">
+    <value xml:space="preserve">Não tem configuração de sistema</value>
+  </data>
+  <data name="IconLegendLabel.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Leyenda de iconos</value>
+  </data>
+  <data name="IconsView.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Vista de iconos</value>
+  </data>
+  <data name="Imported.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">foin importado os parámetros de configuração de </value>
+  </data>
+  <data name="ImportNow.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Importar</value>
+  </data>
+  <data name="lblAutoCreateFileThumbNails.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">criar miniaturas de imágenes para previsualização:</value>
+  </data>
+  <data name="lblBlanktext.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Texto predeterminado:</value>
+  </data>
+  <data name="lblBrowAllow.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Roles permitidos:</value>
+  </data>
+  <data name="lblBrowser.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Explorador de Arquivos:</value>
+  </data>
+  <data name="lblBrowserDirs.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Utilizar subpastas para usuarios não administradores (..\Portals\0\userfiles\username):</value>
+  </data>
+  <data name="lblBrowsSec.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Configuração do explorador de Arquivos</value>
+  </data>
+  <data name="lblCSSURL.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Editor CSS:</value>
+  </data>
+  <data name="lblCustomConfig.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Arquivo de configuração personalizado:</value>
+  </data>
+  <data name="lblCustomToolbars.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Barras herramientas personalizadas</value>
+  </data>
+  <data name="lblEditorConfig.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Configuração do editor</value>
+  </data>
+  <data name="lblHeader.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Informação</value>
+  </data>
+  <data name="lblHeight.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Altura editor (px o %):</value>
+  </data>
+  <data name="lblImExport.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Importar/exportar configuração atual</value>
+  </data>
+  <data name="lblInfo.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Configuração guardada. Actualice o editor o recargue a página para ver os cambios.</value>
+  </data>
+  <data name="lblInfoCopyAll.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">A configuração foi copiado a as páginas descendientes.</value>
+  </data>
+  <data name="lblInfoDel.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Configuração eliminada</value>
+  </data>
+  <data name="lblInjectSyntaxJs.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Incrustar enlace ao JS para resaltar sintaxis:</value>
+  </data>
+  <data name="lblMainSet.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Configuração principal</value>
+  </data>
+  <data name="lblModInst.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Instância de módulo:</value>
+  </data>
+  <data name="lblModName.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Nome do módulo:</value>
+  </data>
+  <data name="lblModType.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Tipo do módulo:</value>
+  </data>
+  <data name="lblPage.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Página:</value>
+  </data>
+  <data name="lblPortal.Text" lastModified="2016-03-17 04:44:30">
+    <value xml:space="preserve">Nome do portal:</value>
+  </data>
+  <data name="lblResizeHeight.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Alto predeterminado ao redimensionar imágenes</value>
+  </data>
+  <data name="lblResizeWidth.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Ancho predeterminado ao redimensionar imágenes</value>
+  </data>
+  <data name="lblRole.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Rol</value>
+  </data>
+  <data name="lblSelToolb.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Selecione uma barra de herramientas</value>
+  </data>
+  <data name="lblSetFor.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Modificar a configuração para ...</value>
+  </data>
+  <data name="lblSettings.Text" lastModified="2015-12-27 05:22:16">
+    <value xml:space="preserve">Configuração</value>
+  </data>
+  <data name="lblShowPageLinksTabFirst.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Mostrar a pestaña de enlaces de página primero</value>
+  </data>
+  <data name="lblSkin.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Tema:</value>
+  </data>
+  <data name="lblStyles.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Estilos do editor</value>
+  </data>
+  <data name="lblTemplates.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">planilhas do editor</value>
+  </data>
+  <data name="lblTemplFiles.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Arquivo de planilhas do editor:</value>
+  </data>
+  <data name="lblToolbarList.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Lista de barras personalizadas:</value>
+  </data>
+  <data name="lblToolbarPriority.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Prioridade de as barras de herramientas:</value>
+  </data>
+  <data name="lblToolbars.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">Barras de herramientas</value>
+  </data>
+  <data name="lblToolbName.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Nome de a barra:</value>
+  </data>
+  <data name="lblToolbSet.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Botones disponívels para a barra</value>
+  </data>
+  <data name="lblUName.Text" lastModified="2015-12-27 06:24:11">
+    <value xml:space="preserve">Nome do usuário:</value>
+  </data>
+  <data name="lblUseAnchorSelector.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">Utilizar selector de enlaces (busca automáticamente todos os enlaces em a página seleccionada):</value>
+  </data>
+  <data name="lblUseJquery.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">¿Utilizar jQuery Adapter?</value>
+  </data>
+  <data name="lblWidth.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">Ancho editor (px o %):</value>
+  </data>
+  <data name="ListView.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">Vista de lista</value>
+  </data>
+  <data name="lnkExport.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">Exportar</value>
+  </data>
+  <data name="lnkImport.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">Importar</value>
+  </data>
+  <data name="lnkRemove.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">Borrar configuração</value>
+  </data>
+  <data name="ModuleError.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">A configuração do editor para uma intancia de um módulo somente se pode ver e editar desde o propio módulo.</value>
+  </data>
+  <data name="ModuleHasSettingLabel.Text" lastModified="2015-12-28 00:28:01">
+    <value xml:space="preserve">contém configuração de módulo</value>
+  </data>
+  <data name="ModuleHeader.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Configuração do fornecedor CKEditor</value>
+  </data>
+  <data name="ModuleInstance.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Módulo</value>
+  </data>
+  <data name="ModuleNoSettingLabel.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Não contém configuração de módulo</value>
+  </data>
+  <data name="NewGroupName.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Novo grupo</value>
+  </data>
+  <data name="NewsArcticlesArticlesList.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Selecione um artículo:</value>
+  </data>
+  <data name="NewsArcticlesModuleList.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Selecione a página e o módulo de noticias:</value>
+  </data>
+  <data name="NoJava.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">&lt;strong&gt;CKEditor requiere JavaScript para funcionar&lt;/strong&gt;. Em um navegador sin soporte para JavaScript, podrá ver o conteúdo HTML e editarlo normalmente, mas não se utilizará o editor enriquecido.</value>
+  </data>
+  <data name="Options.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Opções personalizadas do editor</value>
+  </data>
+  <data name="OverrideFileOnUploadLabel.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Sobreescribir Arquivo si existe, alternativamente se criará um novo Arquivo añadiendo "_1" ao nome:</value>
+  </data>
+  <data name="Page.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Página</value>
+  </data>
+  <data name="PageHasSettingLabel.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">contém configuração de página</value>
+  </data>
+  <data name="PageNoSettingLabel.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Não contém configuração de página</value>
+  </data>
+  <data name="Portal.Text" lastModified="2016-03-17 06:45:59">
+    <value xml:space="preserve">Sitio</value>
+  </data>
+  <data name="PortalHasSettingLabel.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">contém configuração de portal</value>
+  </data>
+  <data name="PortalNoSettingLabel.Text" lastModified="2016-03-17 06:45:59">
+    <value xml:space="preserve">Não contém configuração de sitio</value>
+  </data>
+  <data name="PortalOnly.Text" lastModified="2016-03-17 06:45:59">
+    <value xml:space="preserve">somente o sitio atual</value>
+  </data>
+  <data name="PortalOnlyLabel.Text" lastModified="2016-03-17 06:45:59">
+    <value xml:space="preserve">¿Mostrar a configuração para todos os portais o solamente o sitio atual?</value>
+  </data>
+  <data name="Remove.Help" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Eliminar a configuração para o {0} atual.</value>
+  </data>
+  <data name="Remove.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Eliminar configuração {0}</value>
+  </data>
+  <data name="RemoveAll.Help" lastModified="2016-03-17 05:45:05">
+    <value xml:space="preserve">Eliminar a configuração de {0} para todo o sitio.</value>
+  </data>
+  <data name="RemoveAll.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Eliminar toda a configuração {0}</value>
+  </data>
+  <data name="RemoveModuleChild.Help" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Eliminar a configuração de todos os módulos da página</value>
+  </data>
+  <data name="RemoveModuleChild.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Eliminar a configuração de todos os módulos da página</value>
+  </data>
+  <data name="RemovePageChild.Help" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Eliminar a configuração de todas as páginas descendientes.</value>
+  </data>
+  <data name="RemovePageChild.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Eliminar a configuração de todas as páginas descendientes</value>
+  </data>
+  <data name="RowBreak.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Salto de fila</value>
+  </data>
+  <data name="SaveGroupName.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Guardar nome de grupo</value>
+  </data>
+  <data name="SaveToolbar.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Guardar a barra de herramientas</value>
+  </data>
+  <data name="SettingsExportTitle.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Exportar configuração</value>
+  </data>
+  <data name="SettingsImportTitle.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Importar configuração</value>
+  </data>
+  <data name="SizeLimitLabel.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Tamaño máximo de Arquivo</value>
+  </data>
+  <data name="ToolbarGroupsLabel.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Grupos de herramientas</value>
+  </data>
+  <data name="ToolbarNameMissing.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Tem que entrar o nome de a barra de herramientas.</value>
+  </data>
+  <data name="ToolbarSetCreated.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">foi creado a nova barra de herramientas "{0}".</value>
+  </data>
+  <data name="ToolbarSetDeleted.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">foi eliminado a barra de herramientas seleccionada.</value>
+  </data>
+  <data name="ToolbarSetSaved.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">foi guardado a barra de herramientas.</value>
+  </data>
+  <data name="UploadFileLimitLabel.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Límites de carga de Arquivos</value>
+  </data>
+  <data name="UploadFolderLabel.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Pasta de carga predeterminada:</value>
+  </data>
+  <data name="Wait.Text" lastModified="2015-12-28 02:38:32">
+    <value xml:space="preserve">Espere...</value>
+  </data>
+  <data name="WaitMessage.Text" lastModified="2015-12-28 01:31:43">
+    <value xml:space="preserve">Cargando a página de opções</value>
+  </data>
+</root>

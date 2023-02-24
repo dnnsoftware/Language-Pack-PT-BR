@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccessDenied.ErrorMessage" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">foi denegado o acceso.</value>
+  </data>
+  <data name="AccountNotFound.ErrorMessage" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">A conta especificada não foi encontrado.</value>
+  </data>
+  <data name="AuthenticationFailure.ErrorMessage" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">foi producido um error de autenticação.</value>
+  </data>
+  <data name="CredentialsRequired.ErrorMessage" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">Entre sus credenciales antes de atualizar a lista de containers.</value>
+  </data>
+  <data name="ListContainers.ErrorMessage" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">foi producido um error ao obtener a lista de containers.</value>
+  </data>
+  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">Você há outra asignação de pastas utilizando a mesma conta e moldura. Selecione outra conta a moldura.</value>
+  </data>
+  <data name="NewContainer.ErrorMessage" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">foi producido um error ao criar o novo moldura.</value>
+  </data>
+  <data name="NewContainer.Text" lastModified="2018-03-24 07:16:10">
+    <value xml:space="preserve">Novo moldura</value>
+  </data>
+  <data name="plAccountKey.Help" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Introduzca a clave de a conta. Pode utilizar tanto a clave principal como a secundaria para a clave de a conta.</value>
+  </data>
+  <data name="plAccountKey.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Clave de conta</value>
+  </data>
+  <data name="plAccountName.Help" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Introduzca o nome de a conta.</value>
+  </data>
+  <data name="plAccountName.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Nome de conta</value>
+  </data>
+  <data name="plContainerName.Help" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Selecione o nome da moldura.</value>
+  </data>
+  <data name="plContainerName.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Nome da moldura</value>
+  </data>
+  <data name="plCustomDomain.Help" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Introduzca o mesmo dominio especificado previamente na conta de almacenamiento de Azure</value>
+  </data>
+  <data name="plCustomDomain.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Dominio personalizado</value>
+  </data>
+  <data name="plDirectLink.Help" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Si marca esta opção, a ruta de os Arquivos de esta pasta apuntará a ruta real. Si não está marcada, se utilizará a ruta com LinkClick.</value>
+  </data>
+  <data name="plDirectLink.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Utilizar enlace directo</value>
+  </data>
+  <data name="plSyncBatchSize.Help" lastModified="2020-05-09 10:36:09">
+    <value xml:space="preserve">Indica o número máximo de elementos que se obtendrán de Azure Storage em cada llamada durante a sincronização de pastas. Um tamaño de lote pequeño requerirá más llamadas a Azure para obtener todos os elementos. Um tamaño de lote grande pode producir errores de conexión em repositorios grandes.</value>
+  </data>
+  <data name="plSyncBatchSize.Text" lastModified="2020-05-09 08:33:17">
+    <value xml:space="preserve">Tamaño de lote de sincronizacion</value>
+  </data>
+  <data name="plUseHttps.Help" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Selecione esta opção se quiser utilizar endpoints HTTPS.</value>
+  </data>
+  <data name="plUseHttps.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Utilizar enpoints HTTPS</value>
+  </data>
+  <data name="RefreshContainerList.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">&lt;Atualizar&gt;</value>
+  </data>
+  <data name="SelectContainer.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">&lt;Selecionar uma moldura&gt;</value>
+  </data>
+  <data name="SelectExistingContainer.Text" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Selecionar uma moldura existente</value>
+  </data>
+  <data name="tbCustomDomain.Error" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">O dominio personalizado tem que ser um nome DNS válido</value>
+  </data>
+  <data name="tbCustomDomain.Help" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">Introduzca o mesmo dominio especificado previamente na conta de almacenamiento de Azure</value>
+  </data>
+  <data name="tbSyncBatchSize.Error" lastModified="2020-05-09 08:33:17">
+    <value xml:space="preserve">O tamaño de lote de sincronização tem que ser um valor entero.</value>
+  </data>
+  <data name="valAccountKey.ErrorMessage" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">A clave de a conta é obrigatória</value>
+  </data>
+  <data name="valAccountName.ErrorMessage" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">O nome de a conta é obrigatório</value>
+  </data>
+  <data name="valContainerName.ErrorMessage" lastModified="2018-03-24 08:21:46">
+    <value xml:space="preserve">O nome da moldura é obrigatório</value>
+  </data>
+</root>

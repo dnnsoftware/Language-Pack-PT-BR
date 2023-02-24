@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AnonymizeIp.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">Anonimizar IP:</value>
+  </data>
+  <data name="btnDelete.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">Eliminar conexión</value>
+  </data>
+  <data name="ConnectorName.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">Conector de Google Analytics</value>
+  </data>
+  <data name="DataConsent.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">Atenção: esta opção está activada automáticamente dado que o consentimiento de datos está activado.</value>
+  </data>
+  <data name="TrackAdministrators.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">Rastrear administradores:</value>
+  </data>
+  <data name="TrackingCodeFormat.ErrorMessage" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">O código de rastreo não se pode dejar vazio.</value>
+  </data>
+  <data name="TrackingID.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">ID de rastreo:</value>
+  </data>
+  <data name="TrackUserId.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">UserID de rastreo:</value>
+  </data>
+  <data name="UrlParameter.Text" lastModified="2020-05-09 07:23:10">
+    <value xml:space="preserve">Parámetro URL:</value>
+  </data>
+</root>

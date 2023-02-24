@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Configuração básica</value>
+  </data>
+  <data name="DefaultFolderType.Help">
+    <value xml:space="preserve">Indica o tipo de pasta predeterminada que se utilizará ao criar novas pastas.</value>
+  </data>
+  <data name="DefaultFolderType.Text">
+    <value xml:space="preserve">Tipo de pasta predeterminado</value>
+  </data>
+  <data name="ExcludeSubfolders.Text">
+    <value xml:space="preserve">Excluir subpastas</value>
+  </data>
+  <data name="ExcludeSubfoldersLabel.Help">
+    <value xml:space="preserve">Si está activado, o módulo somente mostrará os Arquivos de a pasta e subpastas, mas não mostrará as subpastas.</value>
+  </data>
+  <data name="FilterByFolder.Text">
+    <value xml:space="preserve">Filtrar según pasta</value>
+  </data>
+  <data name="FolderMustBeSelected.ErrorMessage">
+    <value xml:space="preserve">Si selecciona a opção Filtrar según pasta, tem que selecionar uma pasta</value>
+  </data>
+  <data name="Group.Text">
+    <value xml:space="preserve">Grupo</value>
+  </data>
+  <data name="IncludeSubfoldersFilesOnly.Text">
+    <value xml:space="preserve">Incluir subpastas (somente Arquivos)</value>
+  </data>
+  <data name="IncludeSubfoldersFolderStructure.Text">
+    <value xml:space="preserve">Incluir subpastas (mostrar estructura de pastas)</value>
+  </data>
+  <data name="Mode.Help">
+    <value xml:space="preserve">Indica o modo de visualização do módulo</value>
+  </data>
+  <data name="Mode.Text">
+    <value xml:space="preserve">Modo</value>
+  </data>
+  <data name="Normal.Text">
+    <value xml:space="preserve">Normal</value>
+  </data>
+  <data name="NoSet.Text">
+    <value xml:space="preserve">Sin establecer</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Usuario</value>
+  </data>
+  <data name="ViewCondition.Help">
+    <value xml:space="preserve">Selecione as opções de filtro que se aplicarán a lista</value>
+  </data>
+  <data name="ViewCondition.Text">
+    <value xml:space="preserve">Modo de visualização</value>
+  </data>
+</root>
