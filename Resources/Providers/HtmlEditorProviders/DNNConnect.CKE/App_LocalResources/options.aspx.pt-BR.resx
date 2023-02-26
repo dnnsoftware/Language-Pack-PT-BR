@@ -52,19 +52,19 @@
     <value xml:space="preserve">Cancelar edição</value>
   </data>
   <data name="CodeMirrorLabel.Text" lastModified="2015-12-27 04:10:55">
-    <value xml:space="preserve">Tema para CodeMirror (resalta a sintaxis de código-fonte):</value>
+    <value xml:space="preserve">Tema para CodeMirror (resalta a sintaxis de código fonte):</value>
   </data>
   <data name="CopyPageChild.Help" lastModified="2015-12-27 04:10:55">
-    <value xml:space="preserve">Copiar a configuração da página a todas a páginas descendientes.</value>
+    <value xml:space="preserve">Cópiar a configuração da página a todas a páginas descendientes.</value>
   </data>
   <data name="CopyPageChild.Text" lastModified="2015-12-27 04:10:55">
-    <value xml:space="preserve">Copiar configuração a descendientes</value>
+    <value xml:space="preserve">Cópiar configuração a descendientes</value>
   </data>
   <data name="CreateGroupLabel.Text" lastModified="2015-12-27 04:10:55">
     <value xml:space="preserve">criar um novo grupo</value>
   </data>
   <data name="CreateGroupTitle.Text" lastModified="2015-12-27 04:10:55">
-    <value xml:space="preserve">¿Adicionar grupo a barra de herramientas?</value>
+    <value xml:space="preserve">Adicionar grupo a barra de herramientas?</value>
   </data>
   <data name="CustomJsFileLabel.Text" lastModified="2015-12-27 04:10:55">
     <value xml:space="preserve">Arquivo JS personalizado:</value>
@@ -85,13 +85,13 @@
     <value xml:space="preserve">Tipo de enlace predeterminado:</value>
   </data>
   <data name="DeleteGroup.Text" lastModified="2015-12-27 04:10:55">
-    <value xml:space="preserve">¿Eliminar o grupo de a barra de herramientas?</value>
+    <value xml:space="preserve">Eliminar o grupo da barra de herramientas?</value>
   </data>
   <data name="DeleteToolbar.Text" lastModified="2015-12-27 04:10:55">
     <value xml:space="preserve">Eliminar o grupo selecionado</value>
   </data>
   <data name="DeleteToolbarButton.Text" lastModified="2015-12-27 04:10:55">
-    <value xml:space="preserve">¿Eliminar o botão de a barra de herramientas?</value>
+    <value xml:space="preserve">Eliminar o botão da barra de herramientas?</value>
   </data>
   <data name="DetailView.Text" lastModified="2015-12-27 04:10:55">
     <value xml:space="preserve">Vista de detalle</value>
@@ -100,7 +100,7 @@
     <value xml:space="preserve">Clicar para editar em nome do grupo</value>
   </data>
   <data name="EditorConfigWarning.Text" lastModified="2015-12-27 05:22:16">
-    <value xml:space="preserve">&lt;strong&gt;Atenção:&lt;/strong&gt; Os seguintes parámetros son para usuarios expertos, não os toque si não está seguro de o que está haciendo. Pode encontrar más informação em a página de &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;documentação de a API JavaScript de CKEditor&lt;/strong&gt;&lt;/a&gt;. Pode dejar a configuração em branco para utilizar a configuração predeterminada quando se cargue o editor.</value>
+    <value xml:space="preserve">&lt;strong&gt;Atenção:&lt;/strong&gt; Os seguintes parámetros son para usuarios expertos, não os toque si não está seguro do que está haciendo. Pode encontrar más informação em a página de &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;documentação da API JavaScript de CKEditor&lt;/strong&gt;&lt;/a&gt;. Pode dejar a configuração em branco para utilizar a configuração predeterminada quando se cargue o editor.</value>
   </data>
   <data name="EditToolbar.Text" lastModified="2015-12-27 05:22:16">
     <value xml:space="preserve">Editar a barra de herramientas seleccionada</value>
@@ -115,10 +115,10 @@
     <value xml:space="preserve">Exportar</value>
   </data>
   <data name="FileListPageSizeLabel.Text" lastModified="2015-12-27 05:22:16">
-    <value xml:space="preserve">Tamaño de página de a lista (0 = sin paginação):</value>
+    <value xml:space="preserve">Tamaño de página da lista (0 = sin paginação):</value>
   </data>
   <data name="FileListViewModeLabel.Text" lastModified="2015-12-27 05:22:16">
-    <value xml:space="preserve">Vista predeterminada de a lista de Arquivos:</value>
+    <value xml:space="preserve">Vista predeterminada da lista de Arquivos:</value>
   </data>
   <data name="HostHasSettingLabel.Text" lastModified="2018-03-24 10:23:01">
     <value xml:space="preserve">Tem configuração de sistema</value>
@@ -181,7 +181,7 @@
     <value xml:space="preserve">Configuração guardada. Actualice o editor o recargue a página para ver os cambios.</value>
   </data>
   <data name="lblInfoCopyAll.Text" lastModified="2015-12-27 05:22:16">
-    <value xml:space="preserve">A configuração foi copiado a as páginas descendientes.</value>
+    <value xml:space="preserve">A configuração foi cópiado a as páginas descendientes.</value>
   </data>
   <data name="lblInfoDel.Text" lastModified="2015-12-27 05:22:16">
     <value xml:space="preserve">Configuração eliminada</value>
@@ -244,13 +244,13 @@
     <value xml:space="preserve">Lista de barras personalizadas:</value>
   </data>
   <data name="lblToolbarPriority.Text" lastModified="2015-12-27 06:24:11">
-    <value xml:space="preserve">Prioridade de as barras de herramientas:</value>
+    <value xml:space="preserve">Prioridade das barras de herramientas:</value>
   </data>
   <data name="lblToolbars.Text" lastModified="2015-12-28 00:28:01">
     <value xml:space="preserve">Barras de herramientas</value>
   </data>
   <data name="lblToolbName.Text" lastModified="2015-12-27 06:24:11">
-    <value xml:space="preserve">Nome de a barra:</value>
+    <value xml:space="preserve">Nome da barra:</value>
   </data>
   <data name="lblToolbSet.Text" lastModified="2015-12-27 06:24:11">
     <value xml:space="preserve">Botones disponívels para a barra</value>
@@ -262,7 +262,7 @@
     <value xml:space="preserve">Utilizar selector de enlaces (busca automáticamente todos os enlaces em a página seleccionada):</value>
   </data>
   <data name="lblUseJquery.Text" lastModified="2015-12-28 00:28:01">
-    <value xml:space="preserve">¿Utilizar jQuery Adapter?</value>
+    <value xml:space="preserve">Utilizar jQuery Adapter?</value>
   </data>
   <data name="lblWidth.Text" lastModified="2015-12-28 00:28:01">
     <value xml:space="preserve">Ancho editor (px o %):</value>
@@ -334,7 +334,7 @@
     <value xml:space="preserve">somente o sitio atual</value>
   </data>
   <data name="PortalOnlyLabel.Text" lastModified="2016-03-17 06:45:59">
-    <value xml:space="preserve">¿Mostrar a configuração para todos os portais o solamente o sitio atual?</value>
+    <value xml:space="preserve">Mostrar a configuração para todos os portais o solamente o sitio atual?</value>
   </data>
   <data name="Remove.Help" lastModified="2015-12-28 02:38:32">
     <value xml:space="preserve">Eliminar a configuração para o {0} atual.</value>
@@ -382,7 +382,7 @@
     <value xml:space="preserve">Grupos de herramientas</value>
   </data>
   <data name="ToolbarNameMissing.Text" lastModified="2015-12-28 02:38:32">
-    <value xml:space="preserve">Tem que entrar o nome de a barra de herramientas.</value>
+    <value xml:space="preserve">Tem que entrar o nome da barra de herramientas.</value>
   </data>
   <data name="ToolbarSetCreated.Text" lastModified="2015-12-28 01:31:43">
     <value xml:space="preserve">foi creado a nova barra de herramientas "{0}".</value>

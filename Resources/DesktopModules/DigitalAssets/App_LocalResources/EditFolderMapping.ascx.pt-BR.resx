@@ -49,7 +49,7 @@
     <value xml:space="preserve">Tem que entrar o nome</value>
   </data>
   <data name="RequiredFields.Text">
-    <value xml:space="preserve">Indica os campos obrigatórios</value>
+    <value xml:space="preserve">Mostra os campos obrigatórios</value>
   </data>
   <data name="SelectFolderProvider.Text">
     <value xml:space="preserve">- Selecione um fornecedor -</value>

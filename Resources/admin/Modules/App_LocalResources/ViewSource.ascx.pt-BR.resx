@@ -16,10 +16,10 @@
     <value xml:space="preserve">Atualizar código</value>
   </data>
   <data name="ControlTitle_viewsource.Text">
-    <value xml:space="preserve">Visualização do código-fonte do controle</value>
+    <value xml:space="preserve">Ver Código Fonte do Módulo</value>
   </data>
   <data name="NoFileTypeSelected.Text">
-    <value xml:space="preserve">Deve selecionar um tipo de Arquivo a editar antes de clicar o botão Atualizar.</value>
+    <value xml:space="preserve">Tipo de arquivo a ser editado deve ser escolhido antes de clicar o botão Atualizar.</value>
   </data>
   <data name="plFile.Help">
     <value xml:space="preserve">Selecione o arquivo cujo código deseja ver.</value>
@@ -28,12 +28,12 @@
     <value xml:space="preserve">Selecionar Arquivo:</value>
   </data>
   <data name="plSource.Help">
-    <value xml:space="preserve">Veja o código-fonte do controle de módulo na caixa de texto abaixo. Se já estiver executando em uma máquina local, também poderá editar e modificar o código-fonte.</value>
+    <value xml:space="preserve">Veja o código fonte do controle de módulo na caixa de texto abaixo. Se já estiver sendo executado em uma máquina local, o código fonte também poderá ser editadp e modificado.</value>
   </data>
   <data name="plSource.Text">
-    <value xml:space="preserve">Código-fonte do Controle de Módulo:</value>
+    <value xml:space="preserve">Código fonte do controle de módulo:</value>
   </data>
   <data name="SourceFile.Text">
-    <value xml:space="preserve">Arquivo de código-fonte - {0}</value>
+    <value xml:space="preserve">Arquivo de código fonte: {0}</value>
   </data>
 </root>

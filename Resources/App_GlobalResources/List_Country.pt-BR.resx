@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AC.Text">
-    <value>Isla de a Ascensión</value>
+    <value>Isla da Ascensión</value>
   </data>
   <data name="AD.Text">
     <value>Andorra</value>
@@ -310,7 +310,7 @@
     <value>Guyana</value>
   </data>
   <data name="HK.Text">
-    <value>Región Administrativa Especial de Hong Kong de a República Popular China</value>
+    <value>Región Administrativa Especial de Hong Kong da República Popular China</value>
   </data>
   <data name="HM.Text">
     <value>Islas Heard e McDonald</value>
@@ -472,7 +472,7 @@
     <value>Mongolia</value>
   </data>
   <data name="MO.Text">
-    <value>Región Administrativa Especial de Macao de a República Popular China</value>
+    <value>Región Administrativa Especial de Macao da República Popular China</value>
   </data>
   <data name="MP.Text">
     <value>Islas Marianas do Norte</value>
@@ -724,7 +724,7 @@
     <value>Uganda</value>
   </data>
   <data name="UM.Text">
-    <value>Islas menores alejadas de os Estados Unidos</value>
+    <value>Islas menores alejadas dos Estados Unidos</value>
   </data>
   <data name="US.Text">
     <value>Estados Unidos</value>
@@ -748,7 +748,7 @@
     <value>Islas Vírgenes Británicas</value>
   </data>
   <data name="VI.Text">
-    <value>Islas Vírgenes de os Estados Unidos</value>
+    <value>Islas Vírgenes dos Estados Unidos</value>
   </data>
   <data name="VN.Text">
     <value>Vietnam</value>

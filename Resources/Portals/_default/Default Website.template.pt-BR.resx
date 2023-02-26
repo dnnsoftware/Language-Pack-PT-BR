@@ -28,7 +28,7 @@
     <value xml:space="preserve">Copyright [year] mi sitio web</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text">
-    <value xml:space="preserve">O sentimos, a página que esta buscando não foi encontrado. Pode que a página foiya borrado, su nome haya cambiado o bien esté temporalmente desactivada. Le sugerimos que empieze de novo em a página inicial. Póngase em contato com nosoutros si o problema persiste o não pode encontrar o que necessita.</value>
+    <value xml:space="preserve">O sentimos, a página que esta buscando não foi encontrado. Pode que a página foiya borrado, su nome haya cambiado o bien esté temporalmente desactivada. Le sugerimos que empieze de novo em a página inicial. Póngase em contato com nosoutros se o problema persiste o não pode encontrar o que necessita.</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Title.Text">
     <value xml:space="preserve">A página não foi encontrado.</value>
@@ -149,7 +149,7 @@ Fax: (555) 555-4564</value>
     <value xml:space="preserve">Gestión de Arquivos</value>
   </data>
   <data name="Tab.Home.Header.Content" lastModified="2018-03-24 16:52:23">
-    <value xml:space="preserve">Bienvenido a su nova instalação de &lt;sup&gt;&amp;reg;&lt;/sup&gt;DNN! DNN &lt;sup&gt;&amp;reg;&lt;/sup&gt; le facilita as opções de instalação e uso de DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt; Platform. Tenemos múltiples opções para satisfacer sus necesidades, tanto se quiser probar o CMS na nube, como si o quiere instalar em su propio servidor, o utilizarlo para desarrollo em su ordernador personal. Está a somente um clic de empezar com DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt;.</value>
+    <value xml:space="preserve">Bienvenido a su nova instalação de &lt;sup&gt;&amp;reg;&lt;/sup&gt;DNN! DNN &lt;sup&gt;&amp;reg;&lt;/sup&gt; le facilita as opções de instalação e uso de DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt; Platform. Tenemos múltiples opções para satisfacer sus necesidades, tanto se quiser probar o CMS na nube, como se o quiere instalar em su propio servidor, o utilizarlo para desarrollo em su ordernador personal. Está a somente um clic de empezar com DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt;.</value>
   </data>
   <data name="Tab.Home.Header.Title">
     <value xml:space="preserve">Todos os viajes empiezan com o primer paso.</value>
@@ -164,7 +164,7 @@ Fax: (555) 555-4564</value>
     <value xml:space="preserve">Blogs</value>
   </data>
   <data name="Tab.Home.Main.Blogs.Tooltip" lastModified="2020-05-08 14:19:55">
-    <value xml:space="preserve">Informativos e entretenidos, desafiantes e educativos, os blogs de a comunidade de DNN siempre tienen novos conteúdos, ideas e opiniones.</value>
+    <value xml:space="preserve">Informativos e entretenidos, desafiantes e educativos, os blogs da comunidade de DNN siempre tienen novos conteúdos, ideas e opinões.</value>
   </data>
   <data name="Tab.Home.Main.Code.Link" lastModified="2020-05-08 14:19:55">
     <value xml:space="preserve">https://github.com/dnnsoftware/Dnn.Platform</value>
@@ -200,16 +200,16 @@ Fax: (555) 555-4564</value>
     <value xml:space="preserve">Documentação</value>
   </data>
   <data name="Tab.Home.Main.Docs.Tooltip" lastModified="2020-05-08 22:25:34">
-    <value xml:space="preserve">DNN Docs tambíen é Open Souce! Aprenda como empezar com DNN, realize tutoriales paso a paso o lea a documentação de a API.</value>
+    <value xml:space="preserve">DNN Docs tambíen é Open Souce! Aprenda como empezar com DNN, realize tutoriales paso a paso o lea a documentação da API.</value>
   </data>
   <data name="Tab.Home.Main.Extensions.Link" lastModified="2020-05-08 22:25:34">
     <value xml:space="preserve">https://dnncommunity.org/Forge</value>
   </data>
   <data name="Tab.Home.Main.Extensions.SubLink.Text" lastModified="2020-05-08 22:25:34">
-    <value xml:space="preserve">Extensiones DNN</value>
+    <value xml:space="preserve">Extensões DNN</value>
   </data>
   <data name="Tab.Home.Main.Extensions.Title" lastModified="2020-05-08 22:25:34">
-    <value xml:space="preserve">Extensiones</value>
+    <value xml:space="preserve">Extensões</value>
   </data>
   <data name="Tab.Home.Main.Extensions.Tooltip" lastModified="2020-05-08 22:25:34">
     <value xml:space="preserve">DNN pode ampliarse de muchas maneras diferentes. Há multitud de módulos, temas, librerías, provedores, etc, tanto gratuitos, como Open Source o Comerciales.</value>
@@ -224,7 +224,7 @@ Fax: (555) 555-4564</value>
     <value xml:space="preserve">Foro</value>
   </data>
   <data name="Tab.Home.Main.Forums.Tooltip" lastModified="2020-05-09 04:29:11">
-    <value xml:space="preserve">Tanto si tem preguntas, necessita respuestas o simplemente quiere ayudar a outros, o Foro de a comunidade DNN é o su destino.</value>
+    <value xml:space="preserve">Tanto si tem preguntas, necessita respuestas o simplemente quiere ayudar a outros, o Foro da comunidade DNN é o su destino.</value>
   </data>
   <data name="Tab.Home.Main.Title" lastModified="2020-05-09 02:28:03">
     <value xml:space="preserve">CONECTE e PARTICIPE</value>
@@ -245,7 +245,7 @@ Fax: (555) 555-4564</value>
     <value xml:space="preserve">Facebook</value>
   </data>
   <data name="Tab.Home.SocialLinks.Title" lastModified="2020-05-09 08:30:16">
-    <value xml:space="preserve">Canales sociales de a comunidade DNN</value>
+    <value xml:space="preserve">Canales sociales da comunidade DNN</value>
   </data>
   <data name="Tab.Home.SocialLinks.Twitter.Link" lastModified="2020-05-09 08:30:16">
     <value xml:space="preserve">https://twitter.com/DNNAwareness</value>
@@ -569,31 +569,31 @@ Fax: (555) 555-4564</value>
     <value xml:space="preserve">Administração do portal</value>
   </data>
   <data name="Tab.SearchResultsCE.Content.Text">
-    <value xml:space="preserve">Resultados de a busca</value>
+    <value xml:space="preserve">Resultados da busca</value>
   </data>
   <data name="Tab.SearchResultsCE.ContentPane.ResultsModule.Title.Text">
     <value xml:space="preserve">Resultados</value>
   </data>
   <data name="Tab.SearchResultsCE.ContentPane.SearchResultsModule.Title.Text">
-    <value xml:space="preserve">Resultados de a busca</value>
+    <value xml:space="preserve">Resultados da busca</value>
   </data>
   <data name="Tab.SearchResultsCE.Name.Text">
-    <value xml:space="preserve">Resultados de a busca</value>
+    <value xml:space="preserve">Resultados da busca</value>
   </data>
   <data name="Tab.SearchResultsCE.Title.Text">
-    <value xml:space="preserve">Resultados de a busca</value>
+    <value xml:space="preserve">Resultados da busca</value>
   </data>
   <data name="Tab.SearchResultsPro.ContentPane.ResultsModule.Title.Text">
     <value xml:space="preserve">Resultados</value>
   </data>
   <data name="Tab.SearchResultsPro.ContentPane.SearchResultsModule.Title.Text">
-    <value xml:space="preserve">Resultados de a busca</value>
+    <value xml:space="preserve">Resultados da busca</value>
   </data>
   <data name="Tab.SearchResultsPro.Name.Text">
-    <value xml:space="preserve">Resultados de a busca</value>
+    <value xml:space="preserve">Resultados da busca</value>
   </data>
   <data name="Tab.SearchResultsPro.Title.Text">
-    <value xml:space="preserve">Resultados de a busca</value>
+    <value xml:space="preserve">Resultados da busca</value>
   </data>
   <data name="Tab.UserAccounts.Content.Text">
     <value xml:space="preserve">Contas de usuarios</value>
@@ -602,7 +602,7 @@ Fax: (555) 555-4564</value>
     <value xml:space="preserve">Contas de usuarios</value>
   </data>
   <data name="Tab.UserAccounts.Description.Text">
-    <value xml:space="preserve">Gestión de as contas de usuarios do portal web.</value>
+    <value xml:space="preserve">Gestión das contas de usuarios do portal web.</value>
   </data>
   <data name="Tab.UserAccounts.Name.Text">
     <value xml:space="preserve">Contas de usuarios</value>

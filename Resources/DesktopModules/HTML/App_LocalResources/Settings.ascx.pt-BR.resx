@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkReplace.Text">
-    <value xml:space="preserve">¿Reemplazar a configuração atual?</value>
+    <value xml:space="preserve">Reemplazar a configuração atual?</value>
   </data>
   <data name="cmdWorkflow.Text">
     <value xml:space="preserve">Gestionar fluxos de trabalho</value>
@@ -37,7 +37,7 @@
     <value xml:space="preserve">Aplicar fluxo de trabalho a:</value>
   </data>
   <data name="plDecorate.Help">
-    <value xml:space="preserve">Indica si se tem que modificar o estilo de os controles de formulario añadidos para mantener o mesmo aspecto que o resto de a web.</value>
+    <value xml:space="preserve">Mostra si se tem que modificar o estilo dos controles de formulario añadidos para mantener o mesmo aspecto que o resto da web.</value>
   </data>
   <data name="plDecorate.Text">
     <value xml:space="preserve">Estilizar campos de formulario:</value>

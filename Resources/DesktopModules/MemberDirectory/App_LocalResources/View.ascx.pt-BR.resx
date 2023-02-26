@@ -100,7 +100,7 @@
     <value xml:space="preserve">Buscar</value>
   </data>
   <data name="SearchConnections.Text">
-    <value xml:space="preserve">Buscar conexiones...</value>
+    <value xml:space="preserve">Buscar conexões...</value>
   </data>
   <data name="SearchError.Text">
     <value xml:space="preserve">As buscas somente podem incluir caracteres alfanuméricos e espaços</value>

@@ -76,7 +76,7 @@
     <value xml:space="preserve">O idioma predeterminado do portal é {0}</value>
   </data>
   <data name="deletePortal.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar {0}?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar {0}?</value>
   </data>
   <data name="DeleteSite.Text">
     <value xml:space="preserve">Eliminar sitio</value>
@@ -127,19 +127,19 @@
     <value xml:space="preserve">O nome do portal não pode contener espaços o caracteres de puntuação.</value>
   </data>
   <data name="InvalidPassword.Text">
-    <value xml:space="preserve">Os valores de as contrasenhas introducidas não coincidem.</value>
+    <value xml:space="preserve">Os valores das contrasenhas introducidas não coincidem.</value>
   </data>
   <data name="LastNameRequired.Error">
     <value xml:space="preserve">Os apellidos son obrigatórios.</value>
   </data>
   <data name="lblAdminOnly.Text">
-    <value xml:space="preserve">Visible somente para administradores</value>
+    <value xml:space="preserve">Visível somente para administradores</value>
   </data>
   <data name="lblDisabled.Text">
     <value xml:space="preserve">A página está desactivada</value>
   </data>
   <data name="lblEveryone.Text">
-    <value xml:space="preserve">A página é visible para todos os usuarios</value>
+    <value xml:space="preserve">A página é visível para todos os usuarios</value>
   </data>
   <data name="lblFiles.Help">
     <value xml:space="preserve">Ative esta opção para incluir os Arquivos e pastas na planilha de exportação.</value>
@@ -160,7 +160,7 @@
     <value xml:space="preserve">Exportar idiomas</value>
   </data>
   <data name="lblModules.Help">
-    <value xml:space="preserve">Ative esta opção para incluir as permissões de utilização de módulos na planilha de exportação. Tenga em conta que si activa esta opção pode ser necessário activar também a exportação de roles.</value>
+    <value xml:space="preserve">Ative esta opção para incluir as permissões de utilização de módulos na planilha de exportação. Tenga em conta que se activa esta opção pode ser necessário activar também a exportação de roles.</value>
   </data>
   <data name="lblModules.Text">
     <value xml:space="preserve">Incluir permissões de utilização de módulos</value>
@@ -178,7 +178,7 @@
     <value xml:space="preserve">Atenção: o idioma predeterminado é &lt;strong&gt;{0}&lt;/strong&gt;</value>
   </data>
   <data name="lblPages.Help">
-    <value xml:space="preserve">Selecione as páginas que quiera incluir na planilha de exportação.&lt;br/&gt;&lt;Si pretende utilizar esta planilha para criar um sitio novo tem que incluir todas as páginas de administração. Si não se incluyen, os portais criados com esta planilha não tendrán acceso ao menú de administração.</value>
+    <value xml:space="preserve">Selecione as páginas que quiera incluir na planilha de exportação.&lt;br/&gt;&lt;Si pretende utilizar esta planilha para criar um sitio novo tem que incluir todas as páginas de administração. Si não se incluyen, os portais criados com esta planilha não tendrán Acesso ao menú de administração.</value>
   </data>
   <data name="lblPages.Text">
     <value xml:space="preserve">Páginas a exportar</value>
@@ -193,7 +193,7 @@
     <value xml:space="preserve">Redireção de página</value>
   </data>
   <data name="lblRegistered.Text">
-    <value xml:space="preserve">Visible para usuarios registrados</value>
+    <value xml:space="preserve">Visível para usuarios registrados</value>
   </data>
   <data name="lblRoles.Help">
     <value xml:space="preserve">Ative esta opção para incluir os roles na planilha de exportação.</value>
@@ -202,7 +202,7 @@
     <value xml:space="preserve">Incluir roles</value>
   </data>
   <data name="lblSecure.Text">
-    <value xml:space="preserve">Visible somente para roles específicos</value>
+    <value xml:space="preserve">Visível somente para roles específicos</value>
   </data>
   <data name="lblSelectLanguages.Text">
     <value xml:space="preserve">&lt; Selecionar idiomas &gt;</value>
@@ -217,13 +217,13 @@
     <value xml:space="preserve">Portais</value>
   </data>
   <data name="PasswordConfirmRequired.Error">
-    <value xml:space="preserve">A confirmação de a contrasenha é obrigatória.</value>
+    <value xml:space="preserve">A confirmação da contrasenha é obrigatória.</value>
   </data>
   <data name="PasswordRequired.Error">
     <value xml:space="preserve">A contrasenha é obrigatória. Introduzca um mínimo de 7 caracteres.</value>
   </data>
   <data name="plContent.Help">
-    <value xml:space="preserve">Ative esta opção para incluir na planilha o conteúdo de os módulos</value>
+    <value xml:space="preserve">Ative esta opção para incluir na planilha o conteúdo dos módulos</value>
   </data>
   <data name="plContent.Text">
     <value xml:space="preserve">Incluir conteúdo</value>
@@ -232,7 +232,7 @@
     <value xml:space="preserve">Escriba uma descripção para o arquivo de planilha</value>
   </data>
   <data name="plDescription.Text">
-    <value xml:space="preserve">Descripção de a planilha</value>
+    <value xml:space="preserve">Descripção da planilha</value>
   </data>
   <data name="plPortals.Help">
     <value xml:space="preserve">Selecione o sitio a exportar</value>
@@ -308,7 +308,7 @@
     <value xml:space="preserve">Titulo</value>
   </data>
   <data name="titleTemplateInfo.Text">
-    <value xml:space="preserve">Informação de a planilha do portal</value>
+    <value xml:space="preserve">Informação da planilha do portal</value>
   </data>
   <data name="UnknownEmailAddress.Error">
     <value xml:space="preserve">Não foi establecido um email em a configuração do sistema o do portal.</value>
@@ -320,10 +320,10 @@
     <value xml:space="preserve">O nome do usuário é obrigatório.</value>
   </data>
   <data name="valDescription.ErrorMessage">
-    <value xml:space="preserve">A descripção de a planilha é obrigatória.</value>
+    <value xml:space="preserve">A descripção da planilha é obrigatória.</value>
   </data>
   <data name="valFileName.ErrorMessage">
-    <value xml:space="preserve">O nome do arquivo de a planilha é obrigatório.</value>
+    <value xml:space="preserve">O nome do arquivo da planilha é obrigatório.</value>
   </data>
   <data name="ViewSite.Text">
     <value xml:space="preserve">Ver sitio</value>

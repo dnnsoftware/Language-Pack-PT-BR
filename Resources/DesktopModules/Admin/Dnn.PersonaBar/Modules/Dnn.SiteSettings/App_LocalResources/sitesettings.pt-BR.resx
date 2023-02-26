@@ -34,13 +34,13 @@
     <value xml:space="preserve">Ative esta opção para permitir a os usuarios selecionar um idioma diferente para a interfaz do utilizado para os conteúdos.</value>
   </data>
   <data name="allowUserCulture.Text">
-    <value xml:space="preserve">Permitir a os usuarios escoger o idioma de a interfaz</value>
+    <value xml:space="preserve">Permitir a os usuarios escoger o idioma da interfaz</value>
   </data>
   <data name="AllPagesTranslatable.Help">
-    <value xml:space="preserve">Ative esta opção para fazer todas as páginas do portal traducibles e criar uma copia em todos os idiomas habilitados.</value>
+    <value xml:space="preserve">Ative esta opção para fazer todas as páginas do portal traducívels e criar uma cópia em todos os idiomas habilitados.</value>
   </data>
   <data name="AllPagesTranslatable.Text">
-    <value xml:space="preserve">Marcar todas a páginas como traducibles:</value>
+    <value xml:space="preserve">Marcar todas a páginas como traducívels:</value>
   </data>
   <data name="AllRoles.Text">
     <value xml:space="preserve">Todos os roles</value>
@@ -100,7 +100,7 @@
     <value xml:space="preserve">Compactar índice</value>
   </data>
   <data name="CompactIndexConfirmationMessage.Text">
-    <value xml:space="preserve">Compactar em índice pode requerir um uso intenso de a CPU e pode requerir o doble do espaço real durante o proceso. A compactação se ejecuta durante a indexação de sitio (em função de a frecuencia do programador de tareas). ¿Está seguro que desea continuar?</value>
+    <value xml:space="preserve">Compactar em índice pode requerir um uso intenso da CPU e pode requerir o doble do espaço real durante o proceso. A compactação se ejecuta durante a indexação de sitio (em função da frecuencia do programador de tareas). Está seguro que quer continuar?</value>
   </data>
   <data name="ControlTitle_verify.Text">
     <value xml:space="preserve">Verificar Arquivos de recursos</value>
@@ -130,7 +130,7 @@
     <value xml:space="preserve">Activar consentimiento de datos</value>
   </data>
   <data name="DataConsentConsentRedirect.Help" lastModified="2020-05-07 01:35:29">
-    <value xml:space="preserve">Indica a página que a que se dirigirá a os usuarios para que firmen o consentimiento de datos. Si não se selecciona nenhuma página, se mostrará uma página predefinida pelo sistema.</value>
+    <value xml:space="preserve">Mostra a página que a que se dirigirá a os usuarios para que firmen o consentimiento de datos. Si não se selecciona nenhuma página, se mostrará uma página predefinida pelo sistema.</value>
   </data>
   <data name="DataConsentConsentRedirect.Text" lastModified="2020-05-07 01:35:29">
     <value xml:space="preserve">Redireção de consentimiento</value>
@@ -145,7 +145,7 @@
     <value xml:space="preserve">Os consentimientos foin restablecido e todos os usuarios tendrán que acceptar as condições de uso de novo.</value>
   </data>
   <data name="DataConsentResetTerms.Confirm" lastModified="2020-05-07 07:40:19">
-    <value xml:space="preserve">¿Está seguro que desea restablecer o consentimiento para todos os usuarios e preguntar de novo?</value>
+    <value xml:space="preserve">Está seguro que quer restablecer o consentimiento para todos os usuarios e preguntar de novo?</value>
   </data>
   <data name="DataConsentResetTerms.Text" lastModified="2020-05-07 09:40:33">
     <value xml:space="preserve">Restablecer condições de uso</value>
@@ -160,7 +160,7 @@
     <value xml:space="preserve">Eliminação com demora</value>
   </data>
   <data name="DataConsentUserDeleteAction.Help" lastModified="2020-05-07 15:44:42">
-    <value xml:space="preserve">Entre como se comportará o sistema quando um usuario entre que desea eliminar su perfil do usuário do portal.</value>
+    <value xml:space="preserve">Entre como se comportará o sistema quando um usuario entre que quer eliminar su perfil do usuário do portal.</value>
   </data>
   <data name="DataConsentUserDeleteAction.Text" lastModified="2020-05-07 15:44:42">
     <value xml:space="preserve">Ação ao borrar usuario</value>
@@ -178,7 +178,7 @@
     <value xml:space="preserve">días</value>
   </data>
   <data name="DeactivateLanguageWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea desactivar {0}?</value>
+    <value xml:space="preserve">Está seguro que quer desactivar {0}?</value>
   </data>
   <data name="Default.Text" lastModified="2020-05-09 03:39:45">
     <value xml:space="preserve">Padrão</value>
@@ -205,13 +205,13 @@
     <value xml:space="preserve">foi eliminado o campo de perfil.</value>
   </data>
   <data name="detectBrowserLable.Help">
-    <value xml:space="preserve">Esta opção indica si o idioma do navegador do usuario se utilizará para detectar o idioma predeterminado.</value>
+    <value xml:space="preserve">Esta opção mostra se o idioma do navegador do usuario se utilizará para detectar o idioma predeterminado.</value>
   </data>
   <data name="detectBrowserLable.Text">
     <value xml:space="preserve">Activar deteção do idioma do navegador</value>
   </data>
   <data name="DisableLanguageWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea desactivar o idioma {0}?</value>
+    <value xml:space="preserve">Está seguro que quer desactivar o idioma {0}?</value>
   </data>
   <data name="DisableLocalizedContent.Text">
     <value xml:space="preserve">Desactivar tradução de conteúdos</value>
@@ -250,10 +250,10 @@
     <value xml:space="preserve">Clique cancelar se quiser mudar o idioma predeterminado do portal.</value>
   </data>
   <data name="EnableLocalizedContentHelpText.Text" lastModified="2020-05-09 00:01:13">
-    <value xml:space="preserve">Si habilita a tradução de conteúdos podrá proporcionar conteúdos em distintos idiomas nos módulo además de mostrar os textos de a interfaz traduzidos. ao activar esta opção o idioma predeterminado do portal se bloqueará e &lt;strong&gt;não podrá mudarlo&lt;/strong&gt;.</value>
+    <value xml:space="preserve">Si habilita a tradução de conteúdos podrá proporcionar conteúdos em distintos idiomas nos módulo además de mostrar os textos da interfaz traduzidos. ao activar esta opção o idioma predeterminado do portal se bloqueará e &lt;strong&gt;não podrá mudarlo&lt;/strong&gt;.</value>
   </data>
   <data name="EnableSortOrder.Help" lastModified="2018-03-22 20:34:59">
-    <value xml:space="preserve">Marque esta opção para activar a ordenação personalizada de os elementos de a lista.</value>
+    <value xml:space="preserve">Marque esta opção para activar a ordenação personalizada dos elementos da lista.</value>
   </data>
   <data name="EnableSortOrder.Text" lastModified="2018-03-22 20:34:59">
     <value xml:space="preserve">Activar ordenação</value>
@@ -265,7 +265,7 @@
     <value xml:space="preserve">Eliminar todas as páginas traducidas</value>
   </data>
   <data name="EraseTranslatedPagesWarning.Text">
-    <value xml:space="preserve">Está ação eliminará todas as páginas traducidas em '{0}'. ¿Está seguro que desea continuar?</value>
+    <value xml:space="preserve">Está ação eliminará todas as páginas traducidas em '{0}'. Está seguro que quer continuar?</value>
   </data>
   <data name="ErrorFiles.Text">
     <value xml:space="preserve">Arquivos incorretos:</value>
@@ -274,7 +274,7 @@
     <value xml:space="preserve">Errores</value>
   </data>
   <data name="fallBackLabel.Help">
-    <value xml:space="preserve">eleccione o idioma alternativo a utilizar si o idioma selecionado não está disponível.</value>
+    <value xml:space="preserve">eleccione o idioma alternativo a utilizar se o idioma selecionado não está disponível.</value>
   </data>
   <data name="fallBackLabel.Text">
     <value xml:space="preserve">Idioma alternativo:</value>
@@ -292,10 +292,10 @@
     <value xml:space="preserve">Completo</value>
   </data>
   <data name="GdprResetTerms.Completed" lastModified="2020-05-07 17:46:23">
-    <value xml:space="preserve">O consentimiento de as condições de uso foi restablecido</value>
+    <value xml:space="preserve">O consentimiento das condições de uso foi restablecido</value>
   </data>
   <data name="GdprResetTerms.Confirm" lastModified="2020-05-07 17:46:23">
-    <value xml:space="preserve">¿Esta seguro que desea restablecer o consentimiento para todos os usuarios e forzar a pregunta de novo?</value>
+    <value xml:space="preserve">Esta seguro que quer restablecer o consentimiento para todos os usuarios e forzar a pregunta de novo?</value>
   </data>
   <data name="Global.Text">
     <value xml:space="preserve">Global</value>
@@ -307,7 +307,7 @@
     <value xml:space="preserve">Roles globales</value>
   </data>
   <data name="GlobalSetting.Text">
-    <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais de a instalação.</value>
+    <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais da instalação.</value>
   </data>
   <data name="HighlightPendingTranslations.Text">
     <value xml:space="preserve">Resaltar traducções pendientes</value>
@@ -334,7 +334,7 @@
     <value xml:space="preserve">foin añadido as palabras.</value>
   </data>
   <data name="IgnoreWordsDeletedWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar estas palabras?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar estas palabras?</value>
   </data>
   <data name="IgnoreWordsDeleteError.Text">
     <value xml:space="preserve">Não foin podido eliminar as palabras. Vuelva a intentarlo.</value>
@@ -394,31 +394,31 @@
     <value xml:space="preserve">O idioma foi actualizado.</value>
   </data>
   <data name="lblAllowLeadingWildcard.Help">
-    <value xml:space="preserve">Ative esta opção para permitir a busca parcial. Por ejemplo: de forma predeterminada si busca "dnn" se encontrará "dnn8" mas não "powerfulldnn" (solamente se busca ao inicio de a palabra). Se quiser que encuentre ambos términos ative esta opção. Tenga em conta que esta opção pode causar problemas rendimiento.</value>
+    <value xml:space="preserve">Ative esta opção para permitir a busca parcial. Por ejemplo: de forma predeterminada si busca "dnn" se encontrará "dnn8" mas não "powerfulldnn" (solamente se busca ao inicio da palabra). Se quiser que encuentre ambos términos ative esta opção. Tenga em conta que esta opção pode causar problemas rendimiento.</value>
   </data>
   <data name="lblAllowLeadingWildcard.Text">
     <value xml:space="preserve">Permitir buscas parciales de palabras (más lento)</value>
   </data>
   <data name="lblAuthorBoost.Help">
-    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor do autor. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden de os resultados.</value>
+    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor do autor. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden dos resultados.</value>
   </data>
   <data name="lblAuthorBoost.Text">
     <value xml:space="preserve">Priorizar autor</value>
   </data>
   <data name="lblContentBoost.Help">
-    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor do conteúdo. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden de os resultados.</value>
+    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor do conteúdo. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden dos resultados.</value>
   </data>
   <data name="lblContentBoost.Text">
     <value xml:space="preserve">Priorizar conteúdo</value>
   </data>
   <data name="lblCustomAnalyzer.Help">
-    <value xml:space="preserve">Si está vazio, o sistema utilizará o analizador predeterminado para indexar o conteúdo. Se quiser utilizar um analizador específico, entre o nome completo de a classe do analizador em este campo. Atenção: Se quiser que o conteúdo existente se analice com o novo analizador, tem que ir a "Administrador &amp;gt; Indexador de conteúdo" em cada sitio donde quiera realizar esta ação e a continuação clicar o botão "Reindexar conteúdo".</value>
+    <value xml:space="preserve">Si está vazio, o sistema utilizará o analizador predeterminado para indexar o conteúdo. Se quiser utilizar um analizador específico, entre o nome completo da classe do analizador em este campo. Atenção: Se quiser que o conteúdo existente se analice com o novo analizador, tem que ir a "Administrador &amp;gt; Indexador de conteúdo" em cada sitio donde quiera realizar esta ação e a continuação clicar o botão "Reindexar conteúdo".</value>
   </data>
   <data name="lblCustomAnalyzer.Text">
     <value xml:space="preserve">Tipo de analizador personalizado</value>
   </data>
   <data name="lblDescriptionBoost.Help">
-    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor de a descripção. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden de os resultados.</value>
+    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor da descripção. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden dos resultados.</value>
   </data>
   <data name="lblDescriptionBoost.Text">
     <value xml:space="preserve">Priorizar descripção</value>
@@ -448,43 +448,43 @@
     <value xml:space="preserve">Idioma</value>
   </data>
   <data name="lblSearchIndexAtiveDocuments.Help">
-    <value xml:space="preserve">Indica o número de documentos activos não índice de busca.</value>
+    <value xml:space="preserve">Mostra o número de documentos activos não índice de busca.</value>
   </data>
   <data name="lblSearchIndexAtiveDocuments.Text">
     <value xml:space="preserve">Documentos activos</value>
   </data>
   <data name="lblSearchIndexDbSize.Help">
-    <value xml:space="preserve">Indica o tamaño total do os Arquivos de a base de datos de indexação.</value>
+    <value xml:space="preserve">Mostra o tamaño total do os Arquivos da base de datos de indexação.</value>
   </data>
   <data name="lblSearchIndexDbSize.Text">
     <value xml:space="preserve">Tamaño do índice de busca</value>
   </data>
   <data name="lblSearchIndexDeletedDocuments.Help">
-    <value xml:space="preserve">Indica o número de documentos eliminados não índice de busca.</value>
+    <value xml:space="preserve">Mostra o número de documentos eliminados não índice de busca.</value>
   </data>
   <data name="lblSearchIndexDeletedDocuments.Text">
     <value xml:space="preserve">Documentos eliminados</value>
   </data>
   <data name="lblSearchIndexLastModifiedOn.Help">
-    <value xml:space="preserve">Última modificação de os Arquivos do índice de busca.</value>
+    <value xml:space="preserve">Última modificação dos Arquivos do índice de busca.</value>
   </data>
   <data name="lblSearchIndexLastModifiedOn.Text">
     <value xml:space="preserve">Última modificação</value>
   </data>
   <data name="lblSearchIndexPath.Help">
-    <value xml:space="preserve">Pasta donde se guarda o índice de busca. Se pode mudar manualmente creando um entrada com o nome "Search_IndexFolder" em HostSettings. Se recomienda parar o App Pool antes de realizar o cambio. O conteúdo de a pasta anterior tem que copiarse manualmente a nova pasta o bien tem que ejecutarse uma reindexação.</value>
+    <value xml:space="preserve">Pasta donde se guarda o índice de busca. Se pode mudar manualmente creando um entrada com o nome "Search_IndexFolder" em HostSettings. Se recomienda parar o App Pool antes de realizar o cambio. O conteúdo da pasta anterior tem que cópiarse manualmente a nova pasta o bien tem que ejecutarse uma reindexação.</value>
   </data>
   <data name="lblSearchIndexPath.Text">
     <value xml:space="preserve">Pasta do índice</value>
   </data>
   <data name="lblTagBoost.Help">
-    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor de as etiquetas. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden de os resultados.</value>
+    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor das etiquetas. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden dos resultados.</value>
   </data>
   <data name="lblTagBoost.Text">
     <value xml:space="preserve">Priorizar etiquetas</value>
   </data>
   <data name="lblTitleBoost.Help">
-    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor do título. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden de os resultados.</value>
+    <value xml:space="preserve">ao indexar os conteúdos se asocia uma prioridade ao valor do título. Cuanto más alto alto seja o valor, más relevante será o campo para determinar o orden dos resultados.</value>
   </data>
   <data name="lblTitleBoost.Text">
     <value xml:space="preserve">Priorizar título</value>
@@ -508,34 +508,34 @@
     <value xml:space="preserve">URL do enlace</value>
   </data>
   <data name="ListEntries.Help" lastModified="2018-03-23 05:38:34">
-    <value xml:space="preserve">GESTIONAR ELEMENTO DE LISTA: Os detalles de a propriedade foin actualizado. Esta propriedade é de tipo lista. O seguinte paso consiste em definir os elementos de a lista.</value>
+    <value xml:space="preserve">GESTIONAR ELEMENTO DE LISTA: Os detalles da propriedade foin actualizado. Esta propriedade é de tipo lista. O seguinte paso consiste em definir os elementos da lista.</value>
   </data>
   <data name="ListEntries.Text" lastModified="2018-03-23 04:37:16">
-    <value xml:space="preserve">Elementos de a lista</value>
+    <value xml:space="preserve">Elementos da lista</value>
   </data>
   <data name="ListEntryCreateSuccess.Text" lastModified="2018-03-23 10:39:53">
-    <value xml:space="preserve">O elemento de a lista foi creado.</value>
+    <value xml:space="preserve">O elemento da lista foi creado.</value>
   </data>
   <data name="ListEntryDeletedWarning.Text" lastModified="2018-03-23 01:36:33">
-    <value xml:space="preserve">¿Está seguro que desea eliminar o elemento de a lista?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar o elemento da lista?</value>
   </data>
   <data name="ListEntryDeleteError.Text" lastModified="2018-03-23 02:36:54">
-    <value xml:space="preserve">Não foi podido eliminar o elemento de a lista. Vuelva a intentarlo.</value>
+    <value xml:space="preserve">Não foi podido eliminar o elemento da lista. Vuelva a intentarlo.</value>
   </data>
   <data name="ListEntryDeleteSuccess.Text" lastModified="2018-03-23 10:39:53">
-    <value xml:space="preserve">O elemento de a lista foi eliminado.</value>
+    <value xml:space="preserve">O elemento da lista foi eliminado.</value>
   </data>
   <data name="ListEntryText.Text" lastModified="2018-03-23 09:39:11">
     <value xml:space="preserve">Texto</value>
   </data>
   <data name="ListEntryUpdateSuccess.Text" lastModified="2018-03-23 10:39:53">
-    <value xml:space="preserve">O elemento de a lista foi actualizado.</value>
+    <value xml:space="preserve">O elemento da lista foi actualizado.</value>
   </data>
   <data name="ListEntryValue.Text" lastModified="2018-03-23 11:40:29">
     <value xml:space="preserve">Valor</value>
   </data>
   <data name="Localization.Help">
-    <value xml:space="preserve">TRADUção: O paso seguinte é administrar a tradução de esta propriedade. Selecione o idioma que desea atualizar e añada o texto o modifique o existente e haga clic em "Guardar"</value>
+    <value xml:space="preserve">TRADUção: O paso seguinte é administrar a tradução de esta propriedade. Selecione o idioma que quer atualizar e añada o texto o modifique o existente e haga clic em "Guardar"</value>
   </data>
   <data name="LocalizedValue.Text">
     <value xml:space="preserve">Valor traduzido</value>
@@ -544,7 +544,7 @@
     <value xml:space="preserve">Recursos Locales</value>
   </data>
   <data name="MakeNeutralWarning.Text">
-    <value xml:space="preserve">Esta ação borrará todas as traducções da página e somente se mantendrá a versão da página não idioma predeterminado. ¿Está seguro que desea continuar?</value>
+    <value xml:space="preserve">Esta ação borrará todas as traducções da página e somente se mantendrá a versão da página não idioma predeterminado. Está seguro que quer continuar?</value>
   </data>
   <data name="MarkAllPagesAsTranslated.Text">
     <value xml:space="preserve">Marcar todas a páginas como traducidas</value>
@@ -553,10 +553,10 @@
     <value xml:space="preserve">somente miembros</value>
   </data>
   <data name="MessageCompactIndexWarning.Text">
-    <value xml:space="preserve">Compactar o índice recupera o espaço de os elementos eliminados. Esta ação se recomienda quando haya muchos elementos eliminados não índice. O proceso pode requerir o doble do espaço real durante a compactação.</value>
+    <value xml:space="preserve">Compactar o índice recupera o espaço dos elementos eliminados. Esta ação se recomienda quando haya muchos elementos eliminados não índice. O proceso pode requerir o doble do espaço real durante a compactação.</value>
   </data>
   <data name="MessageIndexWarning.Text">
-    <value xml:space="preserve">Atenção: compactar o índice pode requerir um uso intenso de a CPU e deve realizarse fuera de as horas punta.</value>
+    <value xml:space="preserve">Atenção: compactar o índice pode requerir um uso intenso da CPU e deve realizarse fuera das horas punta.</value>
   </data>
   <data name="MessageReIndexWarning.Text">
     <value xml:space="preserve">Reindexar borrará todo o conteúdo do índice e o criará de novo. A reindexação se ejecuta durante a tarea de indexação do programador de tareas. Para reindexar immediatamente tem que ejecutar manualmente a tarea de reindexação não programador de tareas.</value>
@@ -565,7 +565,7 @@
     <value xml:space="preserve">MicroServices</value>
   </data>
   <data name="MicroServicesDescription.Text">
-    <value xml:space="preserve">Atenção: si activa um microservice necessitará contactar com soporte para desactivarlo.</value>
+    <value xml:space="preserve">Atenção: se activa um microservice necessitará contactar com soporte para desactivarlo.</value>
   </data>
   <data name="MissingEntries.Text">
     <value xml:space="preserve">Arquivos com entradas não encontradas: </value>
@@ -583,7 +583,7 @@
     <value xml:space="preserve">Módulo</value>
   </data>
   <data name="ModuleRequired.Error">
-    <value xml:space="preserve">Selecione os módulos que desea incluir não paquete de recursos.</value>
+    <value xml:space="preserve">Selecione os módulos que quer incluir não paquete de recursos.</value>
   </data>
   <data name="Name.Header">
     <value xml:space="preserve">Nome</value>
@@ -649,22 +649,22 @@
     <value xml:space="preserve">Páginas para traducir:</value>
   </data>
   <data name="pl404TabId.Help">
-    <value xml:space="preserve">A página de error 404 do portal. Os usuarios se redirigirán a esta página si a URL que están visitando provoca o error 404 de página não encontrada.</value>
+    <value xml:space="preserve">A página de error 404 do portal. Os usuarios se redirigirán a esta página se a URL que están visitando provoca o error 404 de página não encontrada.</value>
   </data>
   <data name="pl404TabId.Text">
     <value xml:space="preserve">Página de error 404</value>
   </data>
   <data name="pl500TabId.Help">
-    <value xml:space="preserve">A página de error 500 do portal. Os usuarios se redirigirán a esta página si a URL que están visitando provoca um error inesperado.</value>
+    <value xml:space="preserve">A página de error 500 do portal. Os usuarios se redirigirán a esta página se a URL que están visitando provoca um error inesperado.</value>
   </data>
   <data name="pl500TabId.Text">
     <value xml:space="preserve">Página de error 500</value>
   </data>
   <data name="plAllowedExtensionsWhitelist.Help" lastModified="2020-05-09 07:44:15">
-    <value xml:space="preserve">Lista separada por comas de extensiones de Arquivos que os usuarios podem subir ao sitio. Tenga em conta que se podem suber Arquivos a través de a foto do perfil, como conteúdo de a actividade o em um módulo. As extensiones que introduzca se validarán contra a lista global de extensiones e é possível que se restrinjan.</value>
+    <value xml:space="preserve">Lista separada por comas de extensões de Arquivos que os usuarios podem subir ao sitio. Tenga em conta que se podem suber Arquivos a través da foto do perfil, como conteúdo da actividade o em um módulo. As extensões que introduzca se validarán contra a lista global de extensões e é possível que se restrinjan.</value>
   </data>
   <data name="plAllowedExtensionsWhitelist.Text" lastModified="2020-05-09 07:44:15">
-    <value xml:space="preserve">Extensiones permitidas</value>
+    <value xml:space="preserve">Extensões permitidas</value>
   </data>
   <data name="plAutoAddPortalAlias.Help">
     <value xml:space="preserve">Esta opção determina como actuará o sistema com URLs mapeadas ao sitio mas que não esten actualmente na lista de alias. Esta opção somente tem sentido em instalações com um somente portal. Ative esta opção para adicionar automáticamente as novas URLs.</value>
@@ -676,7 +676,7 @@
     <value xml:space="preserve">Escriba o texto para o nome de categoría não idioma selecionado.</value>
   </data>
   <data name="plCategoryName.Text">
-    <value xml:space="preserve">Nome de a categoría</value>
+    <value xml:space="preserve">Nome da categoría</value>
   </data>
   <data name="plCookieMoreLink.Help" lastModified="2020-05-07 21:49:34">
     <value xml:space="preserve">A mensagem de consentimiento de cookies inclui um enlace para explicar as cookies a os usuarios. Se quiser sobreescribir este enlace (padrão, o enlace apunta a cookiesandme.com) pode proporcionar aquí um enlace alternativo.</value>
@@ -709,7 +709,7 @@
     <value xml:space="preserve">Favicon</value>
   </data>
   <data name="plFooterText.Help">
-    <value xml:space="preserve">Si o tema utilizado o soporta, este texto de copyright se mostrará em su sitio.</value>
+    <value xml:space="preserve">Se o tema utilizado o soporta, este texto de copyright se mostrará em su sitio.</value>
   </data>
   <data name="plFooterText.Text">
     <value xml:space="preserve">Copyright</value>
@@ -721,19 +721,19 @@
     <value xml:space="preserve">GUID</value>
   </data>
   <data name="plHomeDirectory.Help">
-    <value xml:space="preserve">Indica a pasta utilizada para guardar os Arquivos do portal.</value>
+    <value xml:space="preserve">Mostra a pasta utilizada para guardar os Arquivos do portal.</value>
   </data>
   <data name="plHomeDirectory.Text">
     <value xml:space="preserve">Pasta raíz</value>
   </data>
   <data name="plHomeTabId.Help">
-    <value xml:space="preserve">Indica a página de inicio do portal.</value>
+    <value xml:space="preserve">Mostra a página de inicio do portal.</value>
   </data>
   <data name="plHomeTabId.Text">
     <value xml:space="preserve">Página de inicio</value>
   </data>
   <data name="plIconSet.Help">
-    <value xml:space="preserve">Indica o conjunto de iconos que se utilizará não portal web.</value>
+    <value xml:space="preserve">Mostra o conjunto de iconos que se utilizará não portal web.</value>
   </data>
   <data name="plIconSet.Text">
     <value xml:space="preserve">Conjunto de iconos</value>
@@ -784,7 +784,7 @@
     <value xml:space="preserve">Permitir adjuntos</value>
   </data>
   <data name="plMsgProfanityFilters.Help">
-    <value xml:space="preserve">Si activa esta opção as palabras inapropiadas se convertirán para não mostrarse. A lista de palabras não permitidas se pode gestionar em Sistema -&gt; Listas -&gt; ProfanityFilters o em Administração -&gt; Listas -&gt; ProfiltityFilters</value>
+    <value xml:space="preserve">Se activa esta opção as palabras inapropiadas se convertirán para não mostrarse. A lista de palabras não permitidas se pode gestionar em Sistema -&gt; Listas -&gt; ProfanityFilters o em Administração -&gt; Listas -&gt; ProfiltityFilters</value>
   </data>
   <data name="plMsgProfanityFilters.Text">
     <value xml:space="preserve">Activar filtros de palabras inapropiadas</value>
@@ -802,13 +802,13 @@
     <value xml:space="preserve">Enviar emails</value>
   </data>
   <data name="plMsgThrottlingInterval.Help">
-    <value xml:space="preserve">Número de minutos que os usuarios tendrán que esperar antes de enviar outro mensagem. Zero indica nenhuma restrição. Não aplica a os usuarios administradores o superusuários.</value>
+    <value xml:space="preserve">Número de minutos que os usuarios tendrán que esperar antes de enviar outro mensagem. Zero mostra nenhuma restrição. Não aplica a os usuarios administradores o superusuários.</value>
   </data>
   <data name="plMsgThrottlingInterval.Text">
     <value xml:space="preserve">Tempo de espera em minutos</value>
   </data>
   <data name="plPageHeadText.Help">
-    <value xml:space="preserve">Añada as etiquetas (ej: META) que quiere adicionar na seção HEAD do HTML de as todas as páginas.</value>
+    <value xml:space="preserve">Añada as etiquetas (ej: META) que quiere adicionar na seção HEAD do HTML das todas as páginas.</value>
   </data>
   <data name="plPageHeadText.Text">
     <value xml:space="preserve">Cabeceras HTML da página</value>
@@ -820,19 +820,19 @@
     <value xml:space="preserve">Título do portal</value>
   </data>
   <data name="plPrivacyTabId.Help" lastModified="2020-05-08 01:55:14">
-    <value xml:space="preserve">Indica a página que se mostrará quando os usuarios cliquen o enlace de privacidade. Si não se selecciona nenhuma página o sistema mostrará o texto de privacidade padrão.</value>
+    <value xml:space="preserve">Mostra a página que se mostrará quando os usuarios cliquen o enlace de privacidade. Si não se selecciona nenhuma página o sistema mostrará o texto de privacidade padrão.</value>
   </data>
   <data name="plPrivacyTabId.Text" lastModified="2020-05-08 01:55:14">
     <value xml:space="preserve">Página de privacidade</value>
   </data>
   <data name="plPropertyHelp.Help">
-    <value xml:space="preserve">Escriba o texto para de ayuda de a propriedade não idioma selecionado.</value>
+    <value xml:space="preserve">Escriba o texto para de ayuda da propriedade não idioma selecionado.</value>
   </data>
   <data name="plPropertyHelp.Text">
     <value xml:space="preserve">Ayuda do campo</value>
   </data>
   <data name="plPropertyName.Help">
-    <value xml:space="preserve">Escriba o texto para o nome de a propriedade não idioma selecionado.</value>
+    <value xml:space="preserve">Escriba o texto para o nome da propriedade não idioma selecionado.</value>
   </data>
   <data name="plPropertyName.Text">
     <value xml:space="preserve">Nome do campo</value>
@@ -844,7 +844,7 @@
     <value xml:space="preserve">Mensagem de error de campo obrigatório</value>
   </data>
   <data name="plPropertyValidation.Help">
-    <value xml:space="preserve">Escriba a mensagem de error a mostrar para este campo quando não se satisfaga a validação de a expresión regular.</value>
+    <value xml:space="preserve">Escriba a mensagem de error a mostrar para este campo quando não se satisfaga a validação da expresión regular.</value>
   </data>
   <data name="plPropertyValidation.Text">
     <value xml:space="preserve">Mensagem de error de validação</value>
@@ -874,7 +874,7 @@
     <value xml:space="preserve">Página inicial de bienvenida</value>
   </data>
   <data name="plTermsTabId.Help" lastModified="2020-05-07 01:35:29">
-    <value xml:space="preserve">Indica a página que muestra as condições de uso do portal web. Si não se selecciona nenhuma página, se mostrará o texto padrão quando um visitante pulse o enlace para ver as condições de uso.</value>
+    <value xml:space="preserve">Mostra a página que muestra as condições de uso do portal web. Si não se selecciona nenhuma página, se mostrará o texto padrão quando um visitante pulse o enlace para ver as condições de uso.</value>
   </data>
   <data name="plTermsTabId.Text" lastModified="2020-05-08 07:57:18">
     <value xml:space="preserve">Página de condições de uso</value>
@@ -904,10 +904,10 @@
     <value xml:space="preserve">Página de perfil do usuário</value>
   </data>
   <data name="plWhitelistOption.Help" lastModified="2020-05-09 09:46:08">
-    <value xml:space="preserve">Este selector le permite indicar a lista de extensiones de Arquivo permitidas.</value>
+    <value xml:space="preserve">Este selector le permite indicar a lista de extensões de Arquivo permitidas.</value>
   </data>
   <data name="plWhitelistOption.Text" lastModified="2020-05-09 09:46:08">
-    <value xml:space="preserve">Selecione a lista de extensiones para usuarios</value>
+    <value xml:space="preserve">Selecione a lista de extensões para usuarios</value>
   </data>
   <data name="portalAliasModeButtonListLabel.Help">
     <value xml:space="preserve">Esta configuração determina cómo o sitio responde a as URLs que se definen como alias mas não son o alias padrão. Nenhum (não se toma nenhuma ação adicional) o Canónico (a URL de alias se maneja como uma URL Canónica)</value>
@@ -958,7 +958,7 @@
     <value xml:space="preserve">Valor padrão</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Help">
-    <value xml:space="preserve">Pode establecer o valor padrão de a visibilidade do perfil. Este é o valor inicial de visibilidade que se aplicará si o usuário não o modifica quando edite su perfil.</value>
+    <value xml:space="preserve">Pode establecer o valor padrão da visibilidade do perfil. Este é o valor inicial de visibilidade que se aplicará se o usuário não o modifica quando edite su perfil.</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Text">
     <value xml:space="preserve">Visibilidade padrão</value>
@@ -979,13 +979,13 @@
     <value xml:space="preserve">Categoría</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Help">
-    <value xml:space="preserve">Nome de a propriedade.</value>
+    <value xml:space="preserve">Nome da propriedade.</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.NoSpecialCharacters" lastModified="2020-05-08 13:58:47">
-    <value xml:space="preserve">O nome de a propriedade não acepta caracteres especiales o espaços.</value>
+    <value xml:space="preserve">O nome da propriedade não acepta caracteres especiales o espaços.</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Required">
-    <value xml:space="preserve">O nome de a propriedade é obrigatório.</value>
+    <value xml:space="preserve">O nome da propriedade é obrigatório.</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Text">
     <value xml:space="preserve">Propriedade</value>
@@ -1014,17 +1014,17 @@
   <data name="ProfilePropertyDefinition_ViewOrder.Text">
     <value xml:space="preserve">Orden</value>
   </data>
-  <data name="ProfilePropertyDefinition_Visible.Help">
-    <value xml:space="preserve">Ative esta opção si a propriedade é visible e editable pelos usuarios. Si não está activa somente a podrán ver os administradores.</value>
+  <data name="ProfilePropertyDefinition_Visível.Help">
+    <value xml:space="preserve">Ative esta opção se a propriedade é visível e editable pelos usuarios. Si não está activa somente a podrán ver os administradores.</value>
   </data>
-  <data name="ProfilePropertyDefinition_Visible.Text">
-    <value xml:space="preserve">Visible</value>
+  <data name="ProfilePropertyDefinition_Visível.Text">
+    <value xml:space="preserve">Visível</value>
   </data>
   <data name="Progress.Text">
     <value xml:space="preserve">Progreso [number]%</value>
   </data>
   <data name="PropertyDefinitionDeletedWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar esta propriedade?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar esta propriedade?</value>
   </data>
   <data name="PropertyDefinitionUpdateSuccess.Text">
     <value xml:space="preserve">foin actualizado as definições de propriedadees.</value>
@@ -1048,7 +1048,7 @@
     <value xml:space="preserve">Redireccionar URLs de perfil</value>
   </data>
   <data name="ReIndexConfirmationMessage.Text">
-    <value xml:space="preserve">A reindexação borrará todo o conteúdo do índice de busca. Esta ação a realiza a tarea de reindexação e depende de a frecuencia do programador de tareas. ¿Está seguro que desea continuar?</value>
+    <value xml:space="preserve">A reindexação borrará todo o conteúdo do índice de busca. Esta ação a realiza a tarea de reindexação e depende da frecuencia do programador de tareas. Está seguro que quer continuar?</value>
   </data>
   <data name="ReindexContent.Text">
     <value xml:space="preserve">Reindexar conteúdo</value>
@@ -1087,7 +1087,7 @@
     <value xml:space="preserve">Guardar</value>
   </data>
   <data name="SaveConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea guardar os cambios?</value>
+    <value xml:space="preserve">Está seguro que quer guardar os cambios?</value>
   </data>
   <data name="SaveOrCancelWarning.Text">
     <value xml:space="preserve">Há cambios sin guardar. Guarde os cambios o pulse cancelar.</value>
@@ -1123,7 +1123,7 @@
     <value xml:space="preserve">Não foi podido guardar a configuração. Vuelva a intentarlo.</value>
   </data>
   <data name="SettingsRestoreWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea cancelar os cambios?</value>
+    <value xml:space="preserve">Está seguro que quer cancelar os cambios?</value>
   </data>
   <data name="SettingsUpdateSuccess">
     <value xml:space="preserve">A configuração foi actualizado.</value>
@@ -1135,7 +1135,7 @@
     <value xml:space="preserve">foi adicionado o alias do portal.</value>
   </data>
   <data name="SiteAliasDeletedWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este alias?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este alias?</value>
   </data>
   <data name="SiteAliasDeleteError.Text">
     <value xml:space="preserve">Não foi podido eliminar o alias. Vuelva a intentarlo.</value>
@@ -1150,7 +1150,7 @@
     <value xml:space="preserve">foi actualizado o alias do portal.</value>
   </data>
   <data name="siteDefaultLabel.Help">
-    <value xml:space="preserve">Selecione o idioma padrão do portal. Si o idioma não está activado, se activará automáticamente. O idioma padrão não se se pode mudar uma vez foi activado a tradução de conteúdos.</value>
+    <value xml:space="preserve">Selecione o idioma padrão do portal. Se o idioma não está activado, se activará automáticamente. O idioma padrão não se se pode mudar uma vez foi activado a tradução de conteúdos.</value>
   </data>
   <data name="siteDefaultLabel.Text">
     <value xml:space="preserve">Idioma padrão</value>
@@ -1171,7 +1171,7 @@
     <value xml:space="preserve">foi creado o grupo de sinónimos.</value>
   </data>
   <data name="SynonymsGroupDeletedWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar o grupo de sinónimos?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar o grupo de sinónimos?</value>
   </data>
   <data name="SynonymsGroupDeleteError.Text">
     <value xml:space="preserve">Não foi podido eliminar o grupo de sinónimos. Vuelva a intentarlo.</value>
@@ -1201,7 +1201,7 @@
     <value xml:space="preserve">Páginas predeterminadas</value>
   </data>
   <data name="TabFileExtensions.Text">
-    <value xml:space="preserve">Extensiones de Arquivo</value>
+    <value xml:space="preserve">Extensões de Arquivo</value>
   </data>
   <data name="TabIgnoreWords.Text">
     <value xml:space="preserve">Palabras ignoradas</value>
@@ -1335,8 +1335,8 @@
   <data name="ViewPage.Text">
     <value xml:space="preserve">[ Ver página ]</value>
   </data>
-  <data name="Visible.Header">
-    <value xml:space="preserve">Visible</value>
+  <data name="Visível.Header">
+    <value xml:space="preserve">Visível</value>
   </data>
   <data name="Warning.Text" lastModified="2020-05-08 19:59:18">
     <value xml:space="preserve">Atenção</value>
@@ -1345,7 +1345,7 @@
     <value xml:space="preserve">Semanas</value>
   </data>
   <data name="WhitelistSettings.Text" lastModified="2020-05-09 11:46:33">
-    <value xml:space="preserve">Lista de extensiones permitidas</value>
+    <value xml:space="preserve">Lista de extensões permitidas</value>
   </data>
   <data name="WrongFormat.Text" lastModified="2018-03-23 12:40:37">
     <value xml:space="preserve">Formato erróneo</value>

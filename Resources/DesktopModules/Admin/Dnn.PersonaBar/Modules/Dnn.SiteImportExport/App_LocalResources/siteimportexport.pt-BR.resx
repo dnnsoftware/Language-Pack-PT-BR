@@ -40,10 +40,10 @@
     <value xml:space="preserve">Cancelar importação</value>
   </data>
   <data name="CancelImportMessage.Text">
-    <value xml:space="preserve">¿Está seguro que desea cancelar o proceso de importação?</value>
+    <value xml:space="preserve">Está seguro que quer cancelar o proceso de importação?</value>
   </data>
   <data name="CancelJobMessage.Text">
-    <value xml:space="preserve">¿Está seguro que desea cancelar o proceso?</value>
+    <value xml:space="preserve">Está seguro que quer cancelar o proceso?</value>
   </data>
   <data name="ClicktoDeselect.Text">
     <value xml:space="preserve">pulse para deseleccionar o paquete</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">Eliminado</value>
   </data>
   <data name="DeleteJobMessage.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este proceso?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este proceso?</value>
   </data>
   <data name="DeletionsInExport.Text">
     <value xml:space="preserve">Incluir borrados</value>
@@ -121,7 +121,7 @@
     <value xml:space="preserve">Resumen de exportação</value>
   </data>
   <data name="Extensions.Text">
-    <value xml:space="preserve">Extensiones</value>
+    <value xml:space="preserve">Extensões</value>
   </data>
   <data name="FileSize.Text">
     <value xml:space="preserve">Tamaño</value>
@@ -130,7 +130,7 @@
     <value xml:space="preserve">Para finalizar a importação de datos a su sitio pulse o botão de continuar, o pulse em cancelar para não realizar nenhuma ação.</value>
   </data>
   <data name="FolderName.Text">
-    <value xml:space="preserve">Nome de a pasta</value>
+    <value xml:space="preserve">Nome da pasta</value>
   </data>
   <data name="Import.Text">
     <value xml:space="preserve">Importar datos</value>
@@ -154,7 +154,7 @@
     <value xml:space="preserve">Incluir borrados</value>
   </data>
   <data name="IncludeExtensions.Text">
-    <value xml:space="preserve">Incluir extensiones</value>
+    <value xml:space="preserve">Incluir extensões</value>
   </data>
   <data name="IncludeInExport.Text">
     <value xml:space="preserve">Incluir em exportação</value>
@@ -271,7 +271,7 @@
     <value xml:space="preserve">Não foi encontrado nenhum paquete de importação</value>
   </data>
   <data name="OverwriteCollisions.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Sobreescribir colisiones</value>
+    <value xml:space="preserve">Sobreescribir colisões</value>
   </data>
   <data name="PackageDescription.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Descripção do paquete</value>
@@ -331,7 +331,7 @@
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="SummaryNoteDescription.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Os Arquivos de exportação foin Arquivo de forma segura em a pasta de a web: App_Data/ExportImport.</value>
+    <value xml:space="preserve">Os Arquivos de exportação foin Arquivo de forma segura em a pasta da web: App_Data/ExportImport.</value>
   </data>
   <data name="SummaryNoteTitle.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">*Atenção: </value>
@@ -346,7 +346,7 @@
     <value xml:space="preserve">Data</value>
   </data>
   <data name="TotalExportSize.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Tamaño total de a exportação</value>
+    <value xml:space="preserve">Tamaño total da exportação</value>
   </data>
   <data name="Users.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Usuarios</value>

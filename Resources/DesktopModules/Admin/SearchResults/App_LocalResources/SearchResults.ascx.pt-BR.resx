@@ -54,7 +54,7 @@
     &lt;tr&gt;
         &lt;td&gt;OR&lt;/td&gt;
         &lt;td&gt;casa naranja&lt;/td&gt;
-        &lt;td&gt;Busca conteúdos que incluyan alguna de as palabras indicadas, &lt;em&gt;casa&lt;/em&gt; o &lt;em&gt;naranja&lt;/em&gt;, o ambas. &lt;strong&gt;OR tem que estar em mayúscula quando se utiliza&lt;/strong&gt;&lt;/td&gt;
+        &lt;td&gt;Busca conteúdos que incluyan alguna das palabras indicadas, &lt;em&gt;casa&lt;/em&gt; o &lt;em&gt;naranja&lt;/em&gt;, o ambas. &lt;strong&gt;OR tem que estar em mayúscula quando se utiliza&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;&lt;/td&gt;
@@ -119,7 +119,7 @@
     <value xml:space="preserve">Buscar:</value>
   </data>
   <data name="lblAdvancedTags.Help">
-    <value xml:space="preserve">Limitar a busca según etiquetas de os conteúdos</value>
+    <value xml:space="preserve">Limitar a busca según etiquetas dos conteúdos</value>
   </data>
   <data name="lblAdvancedTags.Text">
     <value xml:space="preserve">Filtrar según etiquetas:</value>

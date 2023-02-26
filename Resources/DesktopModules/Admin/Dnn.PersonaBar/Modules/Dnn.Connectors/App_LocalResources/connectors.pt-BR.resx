@@ -37,7 +37,7 @@
     <value xml:space="preserve">Guardar</value>
   </data>
   <data name="title_Connections.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Configurar conexiones</value>
+    <value xml:space="preserve">Configurar conexões</value>
   </data>
   <data name="txt_AddNew.Text" lastModified="2018-03-24 06:31:48">
     <value xml:space="preserve">Adicionar nova</value>
@@ -58,6 +58,6 @@
     <value xml:space="preserve">foi guardado o elemento.</value>
   </data>
   <data name="txt_SetupConnections.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Configure sus conexiones para compartilhar conteúdo más fácilmente.</value>
+    <value xml:space="preserve">Configure sus conexões para compartilhar conteúdo más fácilmente.</value>
   </data>
 </root>

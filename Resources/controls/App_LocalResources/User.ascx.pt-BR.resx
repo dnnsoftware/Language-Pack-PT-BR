@@ -49,7 +49,7 @@
     <value xml:space="preserve">Contrasenha:</value>
   </data>
   <data name="plUserName.Help">
-    <value xml:space="preserve">Elija um nome do usuário. Si o nome do usuário já existe tendrá a oportunidade de selecionar um nome alternativo.</value>
+    <value xml:space="preserve">Elija um nome do usuário. Se o nome do usuário já existe tendrá a oportunidade de selecionar um nome alternativo.</value>
   </data>
   <data name="plUserName.Text">
     <value xml:space="preserve">Nome do usuário:</value>
@@ -64,7 +64,7 @@
     <value xml:space="preserve">&lt;br/&gt;A confirmação de contrasenha é obrigatória.</value>
   </data>
   <data name="valConfirm2.Text">
-    <value xml:space="preserve">&lt;br/&gt;Os valores de as contrasenhas introducidas não coincidem.</value>
+    <value xml:space="preserve">&lt;br/&gt;Os valores das contrasenhas introducidas não coincidem.</value>
   </data>
   <data name="valEmail1.Text">
     <value xml:space="preserve">&lt;br/&gt;O email é obrigatório.</value>

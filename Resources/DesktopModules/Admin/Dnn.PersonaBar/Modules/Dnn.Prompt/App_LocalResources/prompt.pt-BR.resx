@@ -19,7 +19,7 @@
     <value xml:space="preserve">{0} o {1}</value>
   </data>
   <data name="DidYouMean.Text" lastModified="2018-03-22 00:35:16">
-    <value xml:space="preserve">¿Quería decir '{0}'?</value>
+    <value xml:space="preserve">Quería decir '{0}'?</value>
   </data>
   <data name="Help_Default.Text" lastModified="2018-03-22 00:35:16">
     <value xml:space="preserve">Predeterminado</value>
@@ -43,7 +43,7 @@
     <value xml:space="preserve">Prompt</value>
   </data>
   <data name="Prompt_AddModule_Description.Text" lastModified="2018-03-22 01:40:58">
-    <value xml:space="preserve">Añade um módulo a uma página de a web</value>
+    <value xml:space="preserve">Añade um módulo a uma página da web</value>
   </data>
   <data name="Prompt_AddModule_FlagModuleName.Text" lastModified="2018-03-22 01:40:58">
     <value xml:space="preserve">Nome do módulo que se quiere añadir. Tem que ser um nome de módulo único.</value>
@@ -55,7 +55,7 @@
     <value xml:space="preserve">Id da página donde se añadirá o módulo.</value>
   </data>
   <data name="Prompt_AddModule_FlagPane.Text" lastModified="2018-03-23 03:04:44">
-    <value xml:space="preserve">Entre o nome do panel donde se tem que adicionar o módulo. Si não se indica, o módulo se añadirá ao ContentPane.
+    <value xml:space="preserve">Entre o nome do panel donde se tem que adicionar o módulo. Si não se mostra, o módulo se añadirá ao ContentPane.
 </value>
   </data>
   <data name="Prompt_AddModule_ResultHtml.Text" lastModified="2018-03-22 01:40:58">
@@ -106,24 +106,24 @@
     <value xml:space="preserve">Registro de eventos borrado.</value>
   </data>
   <data name="Prompt_Cls_Description.Text" lastModified="2018-03-22 02:43:38">
-    <value xml:space="preserve">Borra a consola de Prompt. &lt;code&gt;cls&lt;/code&gt; é um acceso directo para &lt;a href="#clear-screen"&gt;&lt;code&gt;clear-screen&lt;/code&gt;&lt;/a&gt;</value>
+    <value xml:space="preserve">Borra a consola de Prompt. &lt;code&gt;cls&lt;/code&gt; é um Acesso directo para &lt;a href="#clear-screen"&gt;&lt;code&gt;clear-screen&lt;/code&gt;&lt;/a&gt;</value>
   </data>
   <data name="Prompt_CommandHelpLearn.Text" lastModified="2018-03-22 04:31:40">
     <value xml:space="preserve">&lt;section class="dnn-prompt-inline-help"&gt;
 
-  &lt;h3&gt;Funcionamiento de os comandos de Prompt&lt;/h3&gt;
+  &lt;h3&gt;Funcionamiento dos comandos de Prompt&lt;/h3&gt;
   &lt;p&gt;
     Igual que na maioría de interfaces de línea de comandos, cuantos más comandos memorice, más eficiente será. Entendiendo o razonamiento sobre &lt;em&gt;cómo&lt;/em&gt; os comandos de Prompt se estructuran e nombran, le facilitará mucho a tarea de entenderlos e aprenderlos.
   &lt;/p&gt;
   &lt;ol&gt;
     &lt;li&gt;
-      &lt;strong&gt;Prompt não distingue mayúsculas de minúsculas&lt;/strong&gt;. Isto significa que pode utilizar minúsculas, mayúsculas o uma as dos, nos nomes de os comandos e as opções. Esta é a opção más común na maioría de líneas de comando e nos parece a opção más senzilla para o uso diario.
+      &lt;strong&gt;Prompt não distingue mayúsculas de minúsculas&lt;/strong&gt;. Isto significa que pode utilizar minúsculas, mayúsculas o uma as dos, nos nomes dos comandos e as opções. Esta é a opção más común na maioría de líneas de comando e nos parece a opção más senzilla para o uso diario.
     &lt;/li&gt;
     &lt;li&gt;
       &lt;strong&gt;Os Commandos tienen 1 o 2 palabras separadas por um guión (-) e sin espaços&lt;/strong&gt;.
     &lt;/li&gt;
     &lt;li&gt;
-      &lt;strong&gt;Commandos de uma palabra:&lt;/strong&gt; Generalmente son os comandos reservados para interactuar com a consola de Prompt o o navegador. Em outras palabras, a maioría de estos comandos se ejecutan não navegador. Algunos ejemplos son: &lt;code&gt;cls&lt;/code&gt; para borrar a pantalla de a consola e &lt;code&gt;reload&lt;/code&gt; para indicar ao navegador que cargue de novo a página. Também há comandos de dos palabras que actuan não cliente como &lt;code&gt;clear-history&lt;/code&gt; (aunque também há um acceso directo para clear-history: &lt;code&gt;clh&lt;/code&gt;)&lt;/li&gt;
+      &lt;strong&gt;Commandos de uma palabra:&lt;/strong&gt; Generalmente son os comandos reservados para interactuar com a consola de Prompt o o navegador. Em outras palabras, a maioría de estos comandos se ejecutan não navegador. Algunos ejemplos son: &lt;code&gt;cls&lt;/code&gt; para borrar a pantalla da consola e &lt;code&gt;reload&lt;/code&gt; para indicar ao navegador que cargue de novo a página. Também há comandos de dos palabras que actuan não cliente como &lt;code&gt;clear-history&lt;/code&gt; (aunque também há um Acesso directo para clear-history: &lt;code&gt;clh&lt;/code&gt;)&lt;/li&gt;
     &lt;li&gt;
       &lt;strong&gt;Comandos de dos palabras:&lt;/strong&gt; Estos comandos siguen o formato &lt;code&gt;ação-componente&lt;/code&gt;&amp;mdash; uma ação seguida por um guión e um componente o objeto sobre o que opera a ação.
     &lt;/li&gt;
@@ -150,7 +150,7 @@
     &lt;tr&gt;
       &lt;td class="mono"&gt;get&lt;/td&gt;
       &lt;td&gt;
-        Recupera um somente objeto. Si o comando devuelve más de um objeto, somente se recuperará o primero. Dado que este comando opera com um somente objeto, o componente do comando é singular:&lt;br&gt;
+        Recupera um somente objeto. Se o comando devuelve más de um objeto, somente se recuperará o primero. Dado que este comando opera com um somente objeto, o componente do comando é singular:&lt;br&gt;
         &lt;code&gt;get-page&lt;/code&gt; NÃO &lt;code&gt;get-pages&lt;/code&gt;
       &lt;/td&gt;
     &lt;/tr&gt;
@@ -169,25 +169,25 @@
     &lt;tr&gt;
       &lt;td class="mono"&gt;set&lt;/td&gt;
       &lt;td&gt;
-        Modifica um objeto. Pode indicar 'atualizar' o 'establecer' (por primera vez) um valor. Hemos escogido a palabra 'set' não somente porque é más corta, sino também porque é más precisa em más escenarios. 'Atualizar' indica que estamos cambiando um valor que já existe, mas é menos preciso si estamos estableciendo um valor por primera vez. ¿Hemos mencionado já que 'set' é mucho más corto que 'update'?
+        Modifica um objeto. Pode indicar 'atualizar' o 'establecer' (por primera vez) um valor. Hemos escogido a palabra 'set' não somente porque é más corta, sino também porque é más precisa em más escenarios. 'Atualizar' mostra que estamos cambiando um valor que já existe, mas é menos preciso si estamos estableciendo um valor por primera vez. Hemos mencionado já que 'set' é mucho más corto que 'update'?
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class="mono"&gt;delete&lt;/td&gt;
       &lt;td&gt;
-        Elimina um objeto. O resulta de esta ação depende do contexto. Si DNN proporciona a opção de a papelera para o objeto que estamos eliminando, como por ejemplo com os usuarios e as páginas, o comando enviará o objeto a papelera, permitiendo recuperarlo más tarde. Si DNN não proporciona a opção de a papelera para o objeto, se eliminará o objeto permanentemente.
+        Elimina um objeto. O resulta de esta ação depende do contexto. Si DNN proporciona a opção da papelera para o objeto que estamos eliminando, como por ejemplo com os usuarios e as páginas, o comando enviará o objeto a papelera, permitiendo recuperarlo más tarde. Si DNN não proporciona a opção da papelera para o objeto, se eliminará o objeto permanentemente.
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class="mono"&gt;restore&lt;/td&gt;
       &lt;td&gt;
-          Si um objeto foi eliminado previamente e DNN proporciona a opção de a papelera de reciclagem, esta ação recuperará o objeto.
+          Si um objeto foi eliminado previamente e DNN proporciona a opção da papelera de reciclagem, esta ação recuperará o objeto.
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class="mono"&gt;purge&lt;/td&gt;
       &lt;td&gt;
-            Si um objeto foi eliminado previamente e DNN proporciona a opção de a papelera de reciclagem, esta ação eliminará definitivament o objeto. O interfaz de DNN se refiere a esta ação normalmente como 'remove' mas hemos considerado que 'purge' refleja mejor esta ação.
+            Si um objeto foi eliminado previamente e DNN proporciona a opção da papelera de reciclagem, esta ação eliminará definitivament o objeto. O interfaz de DNN se refiere a esta ação normalmente como 'remove' mas hemos considerado que 'purge' refleja mejor esta ação.
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;/tbody&gt;
@@ -250,7 +250,7 @@
             Indicar o destino o contexto de um comando: para os comandos que operan em um objeto tal como um usuario, o que requierem um contexto como uma página, simplemente se proporciona a informação después do comando. Por ejemplo, para encontrara ao usuario &lt;em&gt;jsmith&lt;/em&gt; utilizando o comando &lt;code&gt;get-user&lt;/code&gt;, se tem que utilizar: &lt;code&gt;get-user jsmith&lt;/code&gt; seguido por &lt;code&gt;ENTER&lt;/code&gt;. Se quiser indicar opções (vea o seguinte párrafo), estas tienem que ir &lt;em&gt;siempre después&lt;/em&gt; do destino/contexto do comando.
         &lt;/p&gt;
         &lt;p&gt;
-            Indicar opções ao comando: algunos comandos requieren más datos o le permiten indicar informação de configuração opcional. Em &lt;em&gt;Prompt&lt;/em&gt; isto se llaman &amp;quot;opções&amp;quot;. As opções tienem que entrarse &lt;em&gt;después&lt;/em&gt; de cualquier destino/contexto que requiera o comando (vea o párrafo anterior) e &lt;em&gt;tienen&lt;/em&gt; que ir precedidas por dos guiones (&lt;code&gt;--&lt;/code&gt;). Não tem que haber espaços entre os guiones e ni entre os guiones e o nome de a opção. Si a opção require um valor, se añade después de a opção.
+            Indicar opções ao comando: algunos comandos requieren más datos o le permiten indicar informação de configuração opcional. Em &lt;em&gt;Prompt&lt;/em&gt; isto se llaman &amp;quot;opções&amp;quot;. As opções tienem que entrarse &lt;em&gt;después&lt;/em&gt; de cualquier destino/contexto que requiera o comando (vea o párrafo anterior) e &lt;em&gt;tienen&lt;/em&gt; que ir precedidas por dos guões (&lt;code&gt;--&lt;/code&gt;). Não tem que haber espaços entre os guões e ni entre os guões e o nome da opção. Se a opção require um valor, se añade después da opção.
                 &lt;/p&gt;
         &lt;p&gt;
             Como ejemplo do uso de opções utilizamos o comando &lt;code&gt;get-user&lt;/code&gt;. De manera predeterminada, tem que indicar o código do usuário do usuario que quiera buscar. Sin embargo, se pode também buscar a través do email. Em este caso, se utilizará a opção &lt;code&gt;--email&lt;/code&gt;. A sintaxis completa em este caso sería
@@ -259,14 +259,14 @@
           get-user --email jsmith@sample.com
         &lt;/code&gt;
         &lt;p&gt;
-            Si o valor de a opção consta de más de uma palabra, há que incluirlo entre comillas dobles:
+            Se o valor da opção consta de más de uma palabra, há que incluirlo entre comillas dobles:
         &lt;/p&gt;
         &lt;code class="block"&gt;
           set-page --title "My Page"
         &lt;/code&gt;
       
         &lt;h4&gt;Vea também&lt;/h4&gt;
-        &lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#"&gt;Funcionamiento de os comandos de Prompt&lt;/a&gt; 
+        &lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#"&gt;Funcionamiento dos comandos de Prompt&lt;/a&gt; 
         &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Lista de comandos de Prompt&lt;/a&gt;
       
       &lt;/section&gt;</value>
@@ -275,27 +275,27 @@
     <value xml:space="preserve">Não foi podido encontrar ayuda para este comando.</value>
   </data>
   <data name="Prompt_CopyModule_Description.Text" lastModified="2018-03-22 07:35:24">
-    <value xml:space="preserve">Copia um módulo a página indicada.</value>
+    <value xml:space="preserve">Cópia um módulo a página indicada.</value>
   </data>
   <data name="Prompt_CopyModule_FlagId.Text" lastModified="2018-03-22 10:43:44">
-    <value xml:space="preserve">Indica explícitamente o ID do módulo que se quiere copiar. O uso de a opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
+    <value xml:space="preserve">Mostra explícitamente o ID do módulo que se quiere cópiar. O uso da opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
   </data>
   <data name="Prompt_CopyModule_FlagIncludesettings.Text" lastModified="2018-03-22 07:35:24">
-    <value xml:space="preserve">Si é verdadero, Prompt copiará a configuração do módulo original ao de destino.</value>
+    <value xml:space="preserve">Si é verdadero, Prompt cópiará a configuração do módulo original ao de destino.</value>
   </data>
   <data name="Prompt_CopyModule_FlagPageId.Text" lastModified="2018-03-22 07:35:24">
-    <value xml:space="preserve">O ID da página que contém o módulo que se quiere copiar.</value>
+    <value xml:space="preserve">O ID da página que contém o módulo que se quiere cópiar.</value>
   </data>
   <data name="Prompt_CopyModule_FlagPane.Text" lastModified="2018-03-23 03:04:44">
-    <value xml:space="preserve">Entre o nome do panel donde se tem que copiar o módulo. Si não se indica, o módulo se copiará ao ContentPane.
+    <value xml:space="preserve">Entre o nome do panel donde se tem que cópiar o módulo. Si não se mostra, o módulo se cópiará ao ContentPane.
 </value>
   </data>
   <data name="Prompt_CopyModule_FlagToPageId.Text" lastModified="2018-03-22 07:35:24">
-    <value xml:space="preserve">O ID da página de destino. A página a cual se quiere copiar o módulo.</value>
+    <value xml:space="preserve">O ID da página de destino. A página a cual se quiere cópiar o módulo.</value>
   </data>
   <data name="Prompt_CopyModule_ResultHtml.Text" lastModified="2018-03-22 08:41:49">
-    <value xml:space="preserve">&lt;h4&gt;Copiar um módulo de uma página a outra&lt;/h4&gt;
-    &lt;p&gt;Este comando realiza uma copia do módulo com ID 358 em a página com ID 71 e a inclui em a página com ID 75.&lt;/p&gt;
+    <value xml:space="preserve">&lt;h4&gt;Cópiar um módulo de uma página a outra&lt;/h4&gt;
+    &lt;p&gt;Este comando realiza uma cópia do módulo com ID 358 em a página com ID 71 e a inclui em a página com ID 75.&lt;/p&gt;
     &lt;code class="block"&gt;copy-module 358 --pageid 71 --topageid 75&lt;/code&gt;
 
     &lt;h4&gt;Resultado&lt;/h4&gt;
@@ -336,7 +336,7 @@
         &lt;td&gt;71, 75&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td colspan="3"&gt;O módulo foi copiado corretamente.&lt;/td&gt;
+        &lt;td colspan="3"&gt;O módulo foi cópiado corretamente.&lt;/td&gt;
       &lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
@@ -347,10 +347,10 @@
     <value xml:space="preserve">Elimina um módulo da página indicada. O módulo se envia a papelera de reciclagem. A ação não desinstala o módulo ni afecta a definição do mesmo.</value>
   </data>
   <data name="Prompt_DeleteModule_FlagId.Text" lastModified="2018-03-22 11:44:29">
-    <value xml:space="preserve">Indica explícitamente o ID do módulo que se quiere copiar. O uso de a opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
+    <value xml:space="preserve">Mostra explícitamente o ID do módulo que se quiere cópiar. O uso da opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
   </data>
   <data name="Prompt_DeleteModule_FlagPageId.Text" lastModified="2018-03-22 22:01:39">
-    <value xml:space="preserve">Indica o ID da página que contém o módulo que se quiere eliminar.</value>
+    <value xml:space="preserve">Mostra o ID da página que contém o módulo que se quiere eliminar.</value>
   </data>
   <data name="Prompt_DeleteModule_ResultHtml.Text" lastModified="2018-03-22 17:50:23">
     <value xml:space="preserve">&lt;h4&gt;Elimina e envia a papelera de reciclagem uma instância de um módulo&lt;/h4&gt;
@@ -373,13 +373,13 @@
     <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
   <data name="Prompt_ErrorWhileCopying.Text" lastModified="2018-03-23 05:06:57">
-    <value xml:space="preserve">foi producido um error ao copiar o módulo. Revise o Registro de eventos para ver os detalles do error.</value>
+    <value xml:space="preserve">foi producido um error ao cópiar o módulo. Revise o Registro de eventos para ver os detalles do error.</value>
   </data>
   <data name="Prompt_ErrorWhileMoving.Text" lastModified="2018-03-23 05:06:57">
     <value xml:space="preserve">foi producido um error ao mover o módulo. Revise o Registro de eventos para ver os detalles do error.</value>
   </data>
   <data name="Prompt_Exit_Description.Text" lastModified="2018-03-23 01:03:23">
-    <value xml:space="preserve">Sale de a consola de Prompt.</value>
+    <value xml:space="preserve">Sale da consola de Prompt.</value>
   </data>
   <data name="Prompt_FailedtoDeleteModule.Text" lastModified="2018-03-23 06:09:33">
     <value xml:space="preserve">Não foi podido eliminar o módulo com ID {0}. Revise o Registro de eventos para ver os detalles do error.</value>
@@ -487,7 +487,7 @@
     <value xml:space="preserve">Obtiene informação de um módulo específico em uma página determinada.</value>
   </data>
   <data name="Prompt_GetModule_FlagId.Text" lastModified="2018-03-22 12:44:45">
-    <value xml:space="preserve">Indica explícitamente o ID do módulo que se quiere copiar. O uso de a opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
+    <value xml:space="preserve">Mostra explícitamente o ID do módulo que se quiere cópiar. O uso da opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
   </data>
   <data name="Prompt_GetModule_FlagPageId.Text" lastModified="2018-03-23 04:05:29">
     <value xml:space="preserve">O ID da página que contém o módulo.</value>
@@ -704,7 +704,7 @@
     <value xml:space="preserve">Descripção</value>
   </data>
   <data name="Prompt_Help_Learn.Text" lastModified="2018-03-23 14:17:23">
-    <value xml:space="preserve">Funcionamiento de os comandos de Prompt</value>
+    <value xml:space="preserve">Funcionamiento dos comandos de Prompt</value>
   </data>
   <data name="Prompt_Help_ListOfAvailableMsg.Text" lastModified="2018-03-23 19:24:10">
     <value xml:space="preserve">Esta é a lista de comandos disponívels em Prompt</value>
@@ -755,10 +755,10 @@
     <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
   <data name="Prompt_ListModules_Description.Text" lastModified="2018-03-23 19:24:10">
-    <value xml:space="preserve">Obtiene uma lista de módulos em função de os criterios de busca indicados.</value>
+    <value xml:space="preserve">Obtiene uma lista de módulos em função dos criterios de busca indicados.</value>
   </data>
   <data name="Prompt_ListModules_FlagDeleted.Text" lastModified="2018-03-23 20:27:55">
-    <value xml:space="preserve">Si se indica, o comando buscará todas as instacias de módulos que se encontran na papelera de reciclagem (si &lt;span class="mono"&gt;--deleted&lt;/span&gt; é true), o todas as instâncias de módulos que &lt;em&gt;não&lt;/em&gt; se encontran na papelera de reciclagem (si &lt;span class="mono"&gt;--deleted&lt;/span&gt; é false). Si se especifica a opção mas não se indica o valor, se asumirá o valor &lt;span class="mono"&gt;true&lt;/span&gt;. Esta opção se pode utilizar com &lt;span class="mono"&gt;--name&lt;/span&gt; e &lt;span class="mono"&gt;--title&lt;/span&gt; para afinar mejor os resultados.</value>
+    <value xml:space="preserve">Si se mostra, o comando buscará todas as instacias de módulos que se encontran na papelera de reciclagem (si &lt;span class="mono"&gt;--deleted&lt;/span&gt; é true), o todas as instâncias de módulos que &lt;em&gt;não&lt;/em&gt; se encontran na papelera de reciclagem (si &lt;span class="mono"&gt;--deleted&lt;/span&gt; é false). Si se especifica a opção mas não se mostra o valor, se asumirá o valor &lt;span class="mono"&gt;true&lt;/span&gt;. Esta opção se pode utilizar com &lt;span class="mono"&gt;--name&lt;/span&gt; e &lt;span class="mono"&gt;--title&lt;/span&gt; para afinar mejor os resultados.</value>
   </data>
   <data name="Prompt_ListModules_FlagMax.Text" lastModified="2018-03-23 21:28:13">
     <value xml:space="preserve">Tamaño de página. O máximo é 500.</value>
@@ -773,7 +773,7 @@
     <value xml:space="preserve">Número de página a mostrar.</value>
   </data>
   <data name="Prompt_ListModules_FlagPageId.Text" lastModified="2018-03-23 23:32:58">
-    <value xml:space="preserve">Si se indica, o comando mostrará somente os módulos da página indicada. Esta opção não é obrigatória, pode indicar simplemente o ID como o primer argumento do comando.</value>
+    <value xml:space="preserve">Si se mostra, o comando mostrará somente os módulos da página indicada. Esta opção não é obrigatória, pode indicar simplemente o ID como o primer argumento do comando.</value>
   </data>
   <data name="Prompt_ListModules_ResultHtml.Text" lastModified="2018-03-24 00:40:47">
     <value xml:space="preserve">&lt;h4&gt;Muestra a lista de módulos do portal atual&lt;/h4&gt;
@@ -906,7 +906,7 @@
         &lt;/table&gt;</value>
   </data>
   <data name="Prompt_ListPortals_Description.Text" lastModified="2018-03-24 01:45:10">
-    <value xml:space="preserve">Obtiene a lista de portales de a instalação de DNN</value>
+    <value xml:space="preserve">Obtiene a lista de portales da instalação de DNN</value>
   </data>
   <data name="Prompt_ListPortals_NoArgs.Text" lastModified="2018-03-24 01:45:10">
     <value xml:space="preserve">O comando list-portals não requiere nenhum argumento o opção</value>
@@ -915,7 +915,7 @@
     <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
   <data name="Prompt_ListSites_Description.Text" lastModified="2018-03-24 01:45:10">
-    <value xml:space="preserve">Obtiene a lista de portales de a instalação de DNN</value>
+    <value xml:space="preserve">Obtiene a lista de portales da instalação de DNN</value>
   </data>
   <data name="Prompt_ListSites_ResultHtml.Text" lastModified="2018-03-22 15:45:46">
     <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
@@ -924,7 +924,7 @@
     <value xml:space="preserve">foi adicionado o módulo {0} {1} corretamente.</value>
   </data>
   <data name="Prompt_ModuleCopied.Text" lastModified="2018-03-24 01:45:10">
-    <value xml:space="preserve">foi copiado o módulo corretamente.</value>
+    <value xml:space="preserve">foi cópiado o módulo corretamente.</value>
   </data>
   <data name="Prompt_ModuleDeleted.Text" lastModified="2018-03-24 01:45:10">
     <value xml:space="preserve">foi eliminado o módulo corretamente.</value>
@@ -942,13 +942,13 @@
     <value xml:space="preserve">Mueve um módulo a página especificada</value>
   </data>
   <data name="Prompt_MoveModule_FlagId.Text" lastModified="2018-03-22 12:44:45">
-    <value xml:space="preserve">Indica explícitamente o ID do módulo que se quiere copiar. O uso de a opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
+    <value xml:space="preserve">Mostra explícitamente o ID do módulo que se quiere cópiar. O uso da opção não é obrigatório. Pode simplemente adicionar o valor do ID como primer argumento.</value>
   </data>
   <data name="Prompt_MoveModule_FlagPageId.Text" lastModified="2018-03-23 04:05:29">
     <value xml:space="preserve">O ID da página que contém o módulo que se quiere mover.</value>
   </data>
   <data name="Prompt_MoveModule_FlagPane.Text" lastModified="2018-03-23 03:04:44">
-    <value xml:space="preserve">Entre o nome do panel donde se tem que mover o módulo. Si não se indica, o módulo se moverá ao ContentPane.
+    <value xml:space="preserve">Entre o nome do panel donde se tem que mover o módulo. Si não se mostra, o módulo se moverá ao ContentPane.
 </value>
   </data>
   <data name="Prompt_MoveModule_FlagToPageId.Text" lastModified="2018-03-23 04:05:29">
@@ -1057,7 +1057,7 @@
     <value xml:space="preserve">Establece o modo de vista de DNN. Tem o mesmo efecto que clicar o botão correspondiente não DNN Controle Bar</value>
   </data>
   <data name="Prompt_SetMode_FlagMode.Text" lastModified="2018-03-24 08:54:11">
-    <value xml:space="preserve">Una de as tres opções de vista: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, o &lt;code&gt;view&lt;/code&gt;. Não tem que especificar a opção &lt;span class="mono"&gt;--mode&lt;/span&gt; explícitamente. Simplemente entre uma de as vistas después do comando.</value>
+    <value xml:space="preserve">Una das tres opções de vista: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, o &lt;code&gt;view&lt;/code&gt;. Não tem que especificar a opção &lt;span class="mono"&gt;--mode&lt;/span&gt; explícitamente. Simplemente entre uma das vistas después do comando.</value>
   </data>
   <data name="Prompt_SetMode_ResultHtml.Text" lastModified="2018-03-22 15:45:46">
     <value xml:space="preserve">&lt;div&gt;
@@ -1080,7 +1080,7 @@
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="Prompt_UserRestart.Text" lastModified="2018-03-24 09:55:39">
-    <value xml:space="preserve">O usuário foi solicitado o reinicio de a aplicação.</value>
+    <value xml:space="preserve">O usuário foi solicitado o reinicio da aplicação.</value>
   </data>
   <data name="Prompt_UserRestart_Error.Text" lastModified="2018-03-23 05:06:57">
     <value xml:space="preserve">foi producido um error ao reiniciar a aplicação.</value>
@@ -1095,6 +1095,6 @@
     <value xml:space="preserve">Recargando em 3 segundos</value>
   </data>
   <data name="SessionHisotryCleared.Text" lastModified="2018-03-24 09:55:39">
-    <value xml:space="preserve">foi borrar o historal de comandos de a sesión.</value>
+    <value xml:space="preserve">foi borrar o historal de comandos da sesión.</value>
   </data>
 </root>

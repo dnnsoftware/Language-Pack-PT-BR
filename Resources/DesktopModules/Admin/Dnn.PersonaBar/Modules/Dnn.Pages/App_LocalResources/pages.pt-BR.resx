@@ -118,10 +118,10 @@
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="CancelWithoutSaving.Text">
-    <value xml:space="preserve">¿Está seguro que desea cerrar? Os cambios sin guardar se perderán.</value>
+    <value xml:space="preserve">Está seguro que quer cerrar? Os cambios sin guardar se perderán.</value>
   </data>
   <data name="CannotCopyPermissionsToDescendantPages.Text">
-    <value xml:space="preserve">Não tem permissões para copiar as permissões a as páginas descendientes.</value>
+    <value xml:space="preserve">Não tem permissões para cópiar as permissões a as páginas descendientes.</value>
   </data>
   <data name="CannotDeleteSpecialPage.Text" lastModified="2018-03-21 22:22:38">
     <value xml:space="preserve">As páginas especiales não se pode eliminar.</value>
@@ -163,19 +163,19 @@
     <value xml:space="preserve">Continuar</value>
   </data>
   <data name="CopyAppearanceToDescendantPages.Text">
-    <value xml:space="preserve">Copiar a apariencia a descendientes</value>
+    <value xml:space="preserve">Cópiar a apariencia a descendientes</value>
   </data>
   <data name="CopyAppearanceToDescendantPagesSuccess.Text">
-    <value xml:space="preserve">A apariencia foi copiado a as páginas descendientes</value>
+    <value xml:space="preserve">A apariencia foi cópiado a as páginas descendientes</value>
   </data>
   <data name="CopyModule.Text">
-    <value xml:space="preserve">Copiar módulo</value>
+    <value xml:space="preserve">Cópiar módulo</value>
   </data>
   <data name="CopyPermissionsToDescendantPages.Text">
-    <value xml:space="preserve">Copiar permissões a páginas descendientes</value>
+    <value xml:space="preserve">Cópiar permissões a páginas descendientes</value>
   </data>
   <data name="CopyPermissionsToDescendantPagesSuccess.Text">
-    <value xml:space="preserve">As permissões foin copiado a as páginas descendientes</value>
+    <value xml:space="preserve">As permissões foin cópiado a as páginas descendientes</value>
   </data>
   <data name="Created.Text">
     <value xml:space="preserve">Creado</value>
@@ -199,16 +199,16 @@
     <value xml:space="preserve">Eliminar</value>
   </data>
   <data name="DeleteModuleConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar o módulo "[MODULETITLE]" de esta página?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar o módulo "[MODULETITLE]" de esta página?</value>
   </data>
   <data name="DeletePageConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar esta página&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar esta página&lt;/p&gt;</value>
   </data>
   <data name="DeletePageModuleSuccess.Text">
     <value xml:space="preserve">O módulo "[MODULETITLE]" foi eliminado</value>
   </data>
   <data name="DeleteTranslationConfirm.Text" lastModified="2020-05-09 00:58:19">
-    <value xml:space="preserve">Está a punto de &lt;b&gt;eliminar&lt;/b&gt; definitivamente a tradução de esta página para '&lt;b&gt;{0}&lt;/b&gt;'. ¿Está seguro que desea continuar?</value>
+    <value xml:space="preserve">Está a punto de &lt;b&gt;eliminar&lt;/b&gt; definitivamente a tradução de esta página para '&lt;b&gt;{0}&lt;/b&gt;'. Está seguro que quer continuar?</value>
   </data>
   <data name="Description.Label">
     <value xml:space="preserve">Descripção</value>
@@ -226,13 +226,13 @@
     <value xml:space="preserve">Desactivar página</value>
   </data>
   <data name="DisableLink_tooltip.Text" lastModified="2017-04-23 23:29:51">
-    <value xml:space="preserve">Si a página se encontra desactivada não se podrá clicar na navegação. Pode utilizar esta opção para criar páginas que agrupen outras páginas.</value>
+    <value xml:space="preserve">Se a página se encontra desactivada não se podrá clicar na navegação. Pode utilizar esta opção para criar páginas que agrupen outras páginas.</value>
   </data>
   <data name="DisplayInMenu.Text">
     <value xml:space="preserve">Mostrar não menú</value>
   </data>
   <data name="DisplayInMenuTooltip.Text">
-    <value xml:space="preserve">Pode elegir entre incluir o não esta página não menú principal. Si a página não está incluida não menú, podrá enlazarla utilizando su URL.</value>
+    <value xml:space="preserve">Pode elegir entre incluir o não esta página não menú principal. Se a página não está incluida não menú, podrá enlazarla utilizando su URL.</value>
   </data>
   <data name="DragDefault.Text" lastModified="2018-03-21 23:23:41">
     <value xml:space="preserve">Arrastre e suelte um arquivo o selecione uma opção</value>
@@ -286,10 +286,10 @@
     <value xml:space="preserve">Excluir</value>
   </data>
   <data name="ExcludeParamsInCacheValidation.Text">
-    <value xml:space="preserve">Excluir parámetros de a validação de cache</value>
+    <value xml:space="preserve">Excluir parámetros da validação de cache</value>
   </data>
   <data name="ExcludeParamsInCacheValidation_tooltip.Text">
-    <value xml:space="preserve">Lista de nomes de parámetros de URL (separados por comas) que se excluirán de as variações das páginas em cache. Este parámetro somente é válido quando foi selecionado Incluir os parámetros do URL nas variações de páginas em cache.</value>
+    <value xml:space="preserve">Lista de nomes de parámetros de URL (separados por comas) que se excluirán das variações das páginas em cache. Este parámetro somente é válido quando foi selecionado Incluir os parámetros do URL nas variações de páginas em cache.</value>
   </data>
   <data name="Existing.Text">
     <value xml:space="preserve">Existente</value>
@@ -364,19 +364,19 @@
     <value xml:space="preserve">Incluir conteúdo</value>
   </data>
   <data name="IncludeContentTooltip.Text">
-    <value xml:space="preserve">Ative esta opção para incluir o conteúdo de os módulos.</value>
+    <value xml:space="preserve">Ative esta opção para incluir o conteúdo dos módulos.</value>
   </data>
   <data name="IncludeExcludeParams.Text">
     <value xml:space="preserve">Incluir / excluir parámetros</value>
   </data>
   <data name="IncludeExcludeParams_tooltip.Text">
-    <value xml:space="preserve">Si marca Incluir, todas as variações de os parámetros de URL generarán um novo elemento na cache. Si marca excluir, os parámetros de URL não se utilitzarán para guardar variações da página.</value>
+    <value xml:space="preserve">Si marca Incluir, todas as variações dos parámetros de URL generarán um novo elemento na cache. Si marca excluir, os parámetros de URL não se utilitzarán para guardar variações da página.</value>
   </data>
   <data name="IncludeParamsInCacheValidation.Text">
-    <value xml:space="preserve">Incluir parámetros de a validação de cache</value>
+    <value xml:space="preserve">Incluir parámetros da validação de cache</value>
   </data>
   <data name="IncludeParamsInCacheValidation_tooltip.Text">
-    <value xml:space="preserve">Lista de nomes de parámetros de URL (separados por comas) que se incluirán de as variações das páginas em cache. Este parámetro somente é válido quando foi selecionado Excluir os parámetros do URL nas variações de páginas em cache.</value>
+    <value xml:space="preserve">Lista de nomes de parámetros de URL (separados por comas) que se incluirán das variações das páginas em cache. Este parámetro somente é válido quando foi selecionado Excluir os parámetros do URL nas variações de páginas em cache.</value>
   </data>
   <data name="InvalidRequest.Error">
     <value xml:space="preserve">A petição não é válida</value>
@@ -469,13 +469,13 @@
     <value xml:space="preserve">A página não se pode convertir a neutra por que tem páginas descendientes.</value>
   </data>
   <data name="MakeNeutralWarning.Text">
-    <value xml:space="preserve">Esta ação borrará todas as traducções da página e somente se mantendrá a versão da página não idioma predeterminado. ¿Está seguro que desea continuar?</value>
+    <value xml:space="preserve">Esta ação borrará todas as traducções da página e somente se mantendrá a versão da página não idioma predeterminado. Está seguro que quer continuar?</value>
   </data>
   <data name="MakePageNeutral.Text">
     <value xml:space="preserve">Convertir em página neutra</value>
   </data>
   <data name="MakePagesTranslatable.Text">
-    <value xml:space="preserve">Marcar como traducible</value>
+    <value xml:space="preserve">Marcar como traducível</value>
   </data>
   <data name="MethodPermissionDenied.Text" lastModified="2018-03-22 21:01:21">
     <value xml:space="preserve">O usuário não tem permissões para acceder a este método.</value>
@@ -484,7 +484,7 @@
     <value xml:space="preserve">Data de modificação</value>
   </data>
   <data name="ModuleCopyType.Copy" lastModified="2018-03-22 07:30:48">
-    <value xml:space="preserve">Copiar</value>
+    <value xml:space="preserve">Cópiar</value>
   </data>
   <data name="ModuleCopyType.New" lastModified="2018-03-22 15:58:00">
     <value xml:space="preserve">Novo</value>
@@ -523,7 +523,7 @@
     <value xml:space="preserve">Páginas</value>
   </data>
   <data name="NeutralPageClickButton.Text">
-    <value xml:space="preserve">Para mudar a uma página traducible, pulse o botão.</value>
+    <value xml:space="preserve">Para mudar a uma página traducível, pulse o botão.</value>
   </data>
   <data name="NeutralPageText.Text">
     <value xml:space="preserve">Esta página esta configurada como "neutra". Isto significa que a página será visto em todos os idiomas do portal com o mesmo conteúdo. A páginas neutras não se podem traducir.</value>
@@ -559,7 +559,7 @@
     <value xml:space="preserve">Não tem permissões para adicionar uma página.</value>
   </data>
   <data name="NoPermissionCopyPage.Text" lastModified="2018-03-22 23:04:38">
-    <value xml:space="preserve">Não tem permissões para copiar esta página.</value>
+    <value xml:space="preserve">Não tem permissões para cópiar esta página.</value>
   </data>
   <data name="NoPermissionDeletePage.Text" lastModified="2018-03-22 23:04:38">
     <value xml:space="preserve">Não tem permissões para eliminar esta página.</value>
@@ -658,19 +658,19 @@
     <value xml:space="preserve">Página madre</value>
   </data>
   <data name="Pages_Seo_DeleteWarningMessage.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar esta URL?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar esta URL?</value>
   </data>
   <data name="Pages_Seo_GeneratedByAutomatic.Text">
     <value xml:space="preserve">Automático</value>
   </data>
   <data name="Pages_Seo_QueryString.Help">
-    <value xml:space="preserve">Añada um parámetro opcional a URL para redirigir para validar as URL com a ruta e os parámetros. O parámetro de a URL é a parte que sigue ao primer "?", por ejemplo www.ejemplo.com/ruta-de-redireccion?id=123</value>
+    <value xml:space="preserve">Añada um parámetro opcional a URL para redirigir para validar as URL com a ruta e os parámetros. O parámetro da URL é a parte que sigue ao primer "?", por ejemplo www.ejemplo.com/ruta-de-redireccion?id=123</value>
   </data>
   <data name="Pages_Seo_QueryString.Text">
     <value xml:space="preserve">Parámetro URL</value>
   </data>
   <data name="Pages_Seo_SelectedAliasUsage.Help">
-    <value xml:space="preserve">Si o alias selecionado é diferente do primario, entre o tipo de uso.</value>
+    <value xml:space="preserve">Se o alias selecionado é diferente do primario, entre o tipo de uso.</value>
   </data>
   <data name="Pages_Seo_SelectedAliasUsage.Text">
     <value xml:space="preserve">Uso do alias selecionado</value>
@@ -691,13 +691,13 @@
     <value xml:space="preserve">Alias do portal</value>
   </data>
   <data name="Pages_Seo_UrlPath.Help">
-    <value xml:space="preserve">Entre a ruta de a URL. Não introduzca http:// o o alias do portal.</value>
+    <value xml:space="preserve">Entre a ruta da URL. Não introduzca http:// o o alias do portal.</value>
   </data>
   <data name="Pages_Seo_UrlPath.Text">
     <value xml:space="preserve">Ruta URL</value>
   </data>
   <data name="Pages_Seo_UrlType.Help">
-    <value xml:space="preserve">"Activa" indica que a URL se utilizará como a URL da página e devolverá o código HTTP 200. "Redireção" indica que a URL introducida se redirigirá a URL activa da página atual.</value>
+    <value xml:space="preserve">"Activa" mostra que a URL se utilizará como a URL da página e devolverá o código HTTP 200. "Redireção" mostra que a URL introducida se redirigirá a URL activa da página atual.</value>
   </data>
   <data name="Pages_Seo_UrlType.Text">
     <value xml:space="preserve">Tipo de URL</value>
@@ -712,7 +712,7 @@
     <value xml:space="preserve">Hoja de estilos da página</value>
   </data>
   <data name="PageStyleSheetTooltip.Text">
-    <value xml:space="preserve">Esta hoja de estilos se cargará únicamente para esta página. O arquivo tem que encontrarse em a pasta raíz o uma subpasta dentro de as pastas do portal.</value>
+    <value xml:space="preserve">Esta hoja de estilos se cargará únicamente para esta página. O arquivo tem que encontrarse em a pasta raíz o uma subpasta dentro das pastas do portal.</value>
   </data>
   <data name="PageTheme.Text">
     <value xml:space="preserve">Tema da página</value>
@@ -742,7 +742,7 @@
     <value xml:space="preserve">Redireção permanente</value>
   </data>
   <data name="PermanentRedirectTooltip.Text">
-    <value xml:space="preserve">Ative esta opção para indicar a os navegadores que a página foi movido permanentemente. Isto permitirá a os buscadores atualizar sus índices para apuntar a nova direção. Esta opção não se tem em conta si o tipo de enlace é nenhum.</value>
+    <value xml:space="preserve">Ative esta opção para indicar a os navegadores que a página foi movido permanentemente. Isto permitirá a os buscadores atualizar sus índices para apuntar a nova direção. Esta opção não se tem em conta se o tipo de enlace é nenhum.</value>
   </data>
   <data name="Permissions.Text">
     <value xml:space="preserve">Permissões</value>
@@ -763,13 +763,13 @@
     <value xml:space="preserve">Elimina uma página do portal e a envía a papelera de reciclagem. Para más seguridade, este método não permite eliminar páginas que tienen descendientes, páginas do sistema, o páginas na ruta //Admin.</value>
   </data>
   <data name="Prompt_DeletePage_FlagId.Text" lastModified="2018-03-23 11:28:35">
-    <value xml:space="preserve">Indica explícitamente o ID da página que se quiere eliminar. O uso do nome de a opção não é obrigatório, pode indicar o ID da página como o primer argumento. É obrigatório si &lt;span class="mono"&gt;--parentid&lt;/span&gt; não se especifica.</value>
+    <value xml:space="preserve">Mostra explícitamente o ID da página que se quiere eliminar. O uso do nome da opção não é obrigatório, pode indicar o ID da página como o primer argumento. É obrigatório si &lt;span class="mono"&gt;--parentid&lt;/span&gt; não se especifica.</value>
   </data>
   <data name="Prompt_DeletePage_FlagName.Text" lastModified="2018-03-23 11:28:35">
     <value xml:space="preserve">O nome (não o título) da página que se quiere eliminar.</value>
   </data>
   <data name="Prompt_DeletePage_FlagParentId.Text" lastModified="2018-03-24 13:02:41">
-    <value xml:space="preserve">O ID da página madre na jeraquía de páginas. Somente é obrigatório si --name se indica como parámetro para eliminar a página e a página não está na raíz de a jeraquía.</value>
+    <value xml:space="preserve">O ID da página madre na jeraquía de páginas. Somente é obrigatório si --name se mostra como parámetro para eliminar a página e a página não está na raíz da jeraquía.</value>
   </data>
   <data name="Prompt_DeletePage_ResultHtml.Text" lastModified="2018-03-23 12:30:07">
     <value xml:space="preserve">&lt;div&gt;
@@ -798,13 +798,13 @@
     &lt;/blockquote&gt;</value>
   </data>
   <data name="Prompt_GetPage_FlagId.Text" lastModified="2018-03-23 14:35:24">
-    <value xml:space="preserve">Indica explícitamente o ID da página que se quiere mostrar. O uso de a opção é opcional, pode indicar o ID como primer argumento después do nome do comando.</value>
+    <value xml:space="preserve">Mostra explícitamente o ID da página que se quiere mostrar. O uso da opção é opcional, pode indicar o ID como primer argumento después do nome do comando.</value>
   </data>
   <data name="Prompt_GetPage_FlagName.Text" lastModified="2018-03-23 14:35:24">
     <value xml:space="preserve">O nome (não título) da página.</value>
   </data>
   <data name="Prompt_GetPage_FlagParentId.Text" lastModified="2018-03-24 13:02:41">
-    <value xml:space="preserve">O ID da página madre na jeraquía de páginas. Somente é obrigatório si --name se indica como parámetro para obtener a página e a página não está na raíz de a jeraquía.</value>
+    <value xml:space="preserve">O ID da página madre na jeraquía de páginas. Somente é obrigatório si --name se mostra como parámetro para obtener a página e a página não está na raíz da jeraquía.</value>
   </data>
   <data name="Prompt_GetPage_ResultHtml.Text" lastModified="2018-03-23 15:38:31">
     <value xml:space="preserve">&lt;div&gt;
@@ -854,13 +854,13 @@
     <value xml:space="preserve">Navega a página indicada dentro do portal.</value>
   </data>
   <data name="Prompt_Goto_FlagId.Text" lastModified="2018-03-23 16:40:19">
-    <value xml:space="preserve">Indica o ID da página que se quiere mostrar. não é necessário indicar explícitamente o nome de a opção &lt;span class="mono"&gt;--id&lt;/span&gt;, pode indicar o ID da página como primer argumento después do nome do comando.</value>
+    <value xml:space="preserve">Mostra o ID da página que se quiere mostrar. não é necessário indicar explícitamente o nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt;, pode indicar o ID da página como primer argumento después do nome do comando.</value>
   </data>
   <data name="Prompt_Goto_FlagName.Text" lastModified="2018-03-23 16:40:19">
     <value xml:space="preserve">O nome (não o título) da página.</value>
   </data>
   <data name="Prompt_Goto_FlagParentId.Text" lastModified="2018-03-24 13:02:41">
-    <value xml:space="preserve">O ID da página madre na jeraquía de páginas. Somente é obrigatório si --name se indica como parámetro para navegar a página e a página não está na raíz de a jeraquía.</value>
+    <value xml:space="preserve">O ID da página madre na jeraquía de páginas. Somente é obrigatório si --name se mostra como parámetro para navegar a página e a página não está na raíz da jeraquía.</value>
   </data>
   <data name="Prompt_Goto_ResultHtml.Text" lastModified="2018-03-23 20:46:21">
     <value xml:space="preserve">&lt;div&gt;
@@ -872,7 +872,7 @@
       &lt;/div&gt;</value>
   </data>
   <data name="Prompt_IfSpecifiedMustHaveValue.Text" lastModified="2018-03-24 02:55:30">
-    <value xml:space="preserve">Si se indica a opção --{0}, o valor tem que ser 'true' o 'false'.</value>
+    <value xml:space="preserve">Si se mostra a opção --{0}, o valor tem que ser 'true' o 'false'.</value>
   </data>
   <data name="Prompt_InvalidPageId.Text" lastModified="2018-03-24 16:04:19">
     <value xml:space="preserve">Tem que indicar um número para o ID da página</value>
@@ -887,14 +887,14 @@
     &lt;/blockquote&gt;</value>
   </data>
   <data name="Prompt_ListPages_FlagDeleted.Text" lastModified="2018-03-24 01:53:31">
-    <value xml:space="preserve">Si se indica &lt;span class="mono"&gt;true&lt;/span&gt;, somente se mostrarán as páginas eliminas, é decir, as que se encontran na papelera de reciclagem. Si se indica &lt;span class="mono"&gt;false&lt;/span&gt;, somente se mostrarán as páginas que não están eliminadas. Si se indica &lt;span class="mono"&gt;false&lt;/span&gt;, somente se mostrarán as páginas ocultas. Si se inclui a opção sin nenhum valor se asume &lt;span class="mono"&gt;true&lt;/span&gt;. Si não se inclui a opção, se mostrarán todas as páginas.
+    <value xml:space="preserve">Si se mostra &lt;span class="mono"&gt;true&lt;/span&gt;, somente se mostrarán as páginas eliminas, é decir, as que se encontran na papelera de reciclagem. Si se mostra &lt;span class="mono"&gt;false&lt;/span&gt;, somente se mostrarán as páginas que não están eliminadas. Si se mostra &lt;span class="mono"&gt;false&lt;/span&gt;, somente se mostrarán as páginas ocultas. Si se inclui a opção sin nenhum valor se asume &lt;span class="mono"&gt;true&lt;/span&gt;. Si não se inclui a opção, se mostrarán todas as páginas.
 </value>
   </data>
   <data name="Prompt_ListPages_FlagName.Text" lastModified="2018-03-24 07:58:10">
     <value xml:space="preserve">Devuelve somente as páginas cujo nome coincide com a expresion. Pode utilizar o asterisco (&lt;span class="mono"&gt;*&lt;/span&gt;) como comodín para 0 o más caracteres.</value>
   </data>
   <data name="Prompt_ListPages_FlagParentId.Text" lastModified="2018-03-24 12:01:42">
-    <value xml:space="preserve">O ID da página cuyos descendientes quiere mostrar. O nome da página. A opção &lt;code&gt;--parentid&lt;/code&gt; não tem que utilizarse explícitamente si o primer argumento do comando é um ID de página válido.</value>
+    <value xml:space="preserve">O ID da página cuyos descendientes quiere mostrar. O nome da página. A opção &lt;code&gt;--parentid&lt;/code&gt; não tem que utilizarse explícitamente se o primer argumento do comando é um ID de página válido.</value>
   </data>
   <data name="Prompt_ListPages_FlagPath.Text" lastModified="2018-03-24 07:58:10">
     <value xml:space="preserve">Devuelve somente as páginas cuja ruta coincide com a expresion. Pode utilizar o asterisco (&lt;span class="mono"&gt;*&lt;/span&gt;) como comodín para 0 o más caracteres.</value>
@@ -1125,8 +1125,8 @@
   <data name="Prompt_ListRoles_FlagPage.Text" lastModified="2018-03-24 05:56:29">
     <value xml:space="preserve">Número de página a mostrar.</value>
   </data>
-  <data name="Prompt_ListRoles_FlagVisible.Text" lastModified="2018-03-24 00:52:04">
-    <value xml:space="preserve">Si se indica &lt;span class="mono"&gt;true&lt;/span&gt;, somente se mostrarán as páginas que son visibles não menú de navegação do portal. Si se indica &lt;span class="mono"&gt;false&lt;/span&gt;, somente se mostrarán as páginas ocultas. Si se inclui a opção sin nenhum valor se asume &lt;span class="mono"&gt;true&lt;/span&gt;. Si não se inclui a opção, se mostrarán todas as páginas.</value>
+  <data name="Prompt_ListRoles_FlagVisível.Text" lastModified="2018-03-24 00:52:04">
+    <value xml:space="preserve">Si se mostra &lt;span class="mono"&gt;true&lt;/span&gt;, somente se mostrarán as páginas que son visívels não menú de navegação do portal. Si se mostra &lt;span class="mono"&gt;false&lt;/span&gt;, somente se mostrarán as páginas ocultas. Si se inclui a opção sin nenhum valor se asume &lt;span class="mono"&gt;true&lt;/span&gt;. Si não se inclui a opção, se mostrarán todas as páginas.</value>
   </data>
   <data name="Prompt_NewPage_Description.Text" lastModified="2018-03-23 22:49:28">
     <value xml:space="preserve">Crea uma nova página não portal</value>
@@ -1138,7 +1138,7 @@
     <value xml:space="preserve">Palabras clave da página</value>
   </data>
   <data name="Prompt_NewPage_FlagName.Text" lastModified="2018-03-24 12:01:42">
-    <value xml:space="preserve">O nome da página. A opção &lt;code&gt;--name&lt;/code&gt; não tem que utilizarse explícitamente si o primer argumento do comando é o nome da página.</value>
+    <value xml:space="preserve">O nome da página. A opção &lt;code&gt;--name&lt;/code&gt; não tem que utilizarse explícitamente se o primer argumento do comando é o nome da página.</value>
   </data>
   <data name="Prompt_NewPage_FlagParentId.Text" lastModified="2018-03-24 02:55:30">
     <value xml:space="preserve">Se quiser que a página se descendiente de outra, entre o ID da página madre com a opção &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
@@ -1147,19 +1147,19 @@
     <value xml:space="preserve">O título que se mostrará para a página</value>
   </data>
   <data name="Prompt_NewPage_FlagUrl.Text" lastModified="2018-03-23 21:49:12">
-    <value xml:space="preserve">Una URL personalizada para identificar a página. Si não se indica, DNNutiliza a opção &lt;span class="mono"&gt;--name&lt;/span&gt;para criar a URL.</value>
+    <value xml:space="preserve">Una URL personalizada para identificar a página. Si não se mostra, DNNutiliza a opção &lt;span class="mono"&gt;--name&lt;/span&gt;para criar a URL.</value>
   </data>
-  <data name="Prompt_NewPage_FlagVisible.Text" lastModified="2018-03-24 02:55:30">
+  <data name="Prompt_NewPage_FlagVisível.Text" lastModified="2018-03-24 02:55:30">
     <value xml:space="preserve">Si é 'true', a página se mostrará não menú de navegação do portal.</value>
   </data>
   <data name="Prompt_NewPage_ResultHtml.Text" lastModified="2018-03-23 19:45:42">
     <value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Crea uma nova página (sintaxis mínima)&lt;/h4&gt;
-        &lt;h5&gt;Uso implícito de a opção &lt;span class="mono"&gt;--name&lt;/span&gt;&lt;/h5&gt;
+        &lt;h5&gt;Uso implícito da opção &lt;span class="mono"&gt;--name&lt;/span&gt;&lt;/h5&gt;
         &lt;code class="block"&gt;
           new-page "My New Page"
         &lt;/code&gt;
-        &lt;h5&gt;Uso explícito de a opção &lt;span class="mono"&gt;--name&lt;/span&gt;&lt;/h5&gt;
+        &lt;h5&gt;Uso explícito da opção &lt;span class="mono"&gt;--name&lt;/span&gt;&lt;/h5&gt;
         &lt;code class="block"&gt;
           new-page --name "My New Page"
         &lt;/code&gt;
@@ -1271,7 +1271,7 @@
     <value xml:space="preserve">Tem que indicar o ID da página o o nome com a opção --name.</value>
   </data>
   <data name="Prompt_ParentIdNotNumeric.Text" lastModified="2018-03-24 15:03:36">
-    <value xml:space="preserve">Si indica --{0}, tem que proporcionar um ID de página válido.</value>
+    <value xml:space="preserve">Si mostra --{0}, tem que proporcionar um ID de página válido.</value>
   </data>
   <data name="Prompt_SetPage_Description.Text" lastModified="2018-03-24 08:58:28">
     <value xml:space="preserve">Establece o actualiza as propriedadees da página especificada</value>
@@ -1295,9 +1295,9 @@
     <value xml:space="preserve">O título que se mostrará para a página</value>
   </data>
   <data name="Prompt_SetPage_FlagUrl.Text" lastModified="2018-03-23 21:49:12">
-    <value xml:space="preserve">Una URL personalizada para identificar a página. Si não se indica, DNNutiliza a opção &lt;span class="mono"&gt;--name&lt;/span&gt;para criar a URL.</value>
+    <value xml:space="preserve">Una URL personalizada para identificar a página. Si não se mostra, DNNutiliza a opção &lt;span class="mono"&gt;--name&lt;/span&gt;para criar a URL.</value>
   </data>
-  <data name="Prompt_SetPage_FlagVisible.Text" lastModified="2018-03-24 02:55:30">
+  <data name="Prompt_SetPage_FlagVisível.Text" lastModified="2018-03-24 02:55:30">
     <value xml:space="preserve">Si é 'true', a página se mostrará não menú de navegação do portal.</value>
   </data>
   <data name="Prompt_SetPage_ResultHtml.Text" lastModified="2018-03-23 18:44:14">
@@ -1470,7 +1470,7 @@
     <value xml:space="preserve">Conexión segura</value>
   </data>
   <data name="SecureConnection_tooltip.Text">
-    <value xml:space="preserve">Entre si há que forzar uma conexión segura (SSL) para mostrar a página. Esta opção somente se activará si o administrador foi habilitado SSL em a configuração do portal.</value>
+    <value xml:space="preserve">Entre si há que forzar uma conexión segura (SSL) para mostrar a página. Esta opção somente se activará se o administrador foi habilitado SSL em a configuração do portal.</value>
   </data>
   <data name="Security.Text">
     <value xml:space="preserve">Seguridade</value>
@@ -1523,8 +1523,8 @@
   <data name="Status_Hidden.Text" lastModified="2017-04-23 23:29:51">
     <value xml:space="preserve">Oculta</value>
   </data>
-  <data name="Status_Visible.Text" lastModified="2017-04-23 23:29:51">
-    <value xml:space="preserve">Visible</value>
+  <data name="Status_Visível.Text" lastModified="2017-04-23 23:29:51">
+    <value xml:space="preserve">Visível</value>
   </data>
   <data name="System.Text">
     <value xml:space="preserve">Sistema</value>
@@ -1548,7 +1548,7 @@
     <value xml:space="preserve">Introduzca uma descripção para esta planilha.</value>
   </data>
   <data name="TemplateName.Text">
-    <value xml:space="preserve">Nome de a planilha</value>
+    <value xml:space="preserve">Nome da planilha</value>
   </data>
   <data name="TemplateNameTooltip.Text">
     <value xml:space="preserve">Introduzca um nome para a planilha de página.</value>
@@ -1560,7 +1560,7 @@
     <value xml:space="preserve">Título</value>
   </data>
   <data name="TitleTooltip.Text" lastModified="2020-05-09 07:06:58">
-    <value xml:space="preserve">Introduzca o título da página. O título se mostrará não título de a ventana do navegador. As recomendações SEO sugiere utilizar entre 50 e 60 caracteres.</value>
+    <value xml:space="preserve">Introduzca o título da página. O título se mostrará não título da ventana do navegador. As recomendações SEO sugiere utilizar entre 50 e 60 caracteres.</value>
   </data>
   <data name="TopPage.Text">
     <value xml:space="preserve">Página superior</value>

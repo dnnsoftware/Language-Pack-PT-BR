@@ -22,6 +22,6 @@
     <value xml:space="preserve">Não foi proporcionado ayuda para este módulo.</value>
   </data>
   <data name="lblInfo.Text">
-    <value xml:space="preserve">&lt;h1&gt;Informação de módulo&lt;/h1&gt;&lt;p&gt;Muestra os detalles técnicos de a instância do módulo asociado&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Organização:&lt;/strong&gt; [ORGANIZATION]&lt;br /&gt;&lt;strong&gt;Propietario:&lt;/strong&gt; [OWNER]&lt;br /&gt;&lt;strong&gt;Email:&lt;/strong&gt; [EMAIL]&lt;br /&gt;&lt;strong&gt;URL&lt;/strong&gt; [URL]&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Módulo:&lt;/strong&gt; [MODULE]&lt;br /&gt;&lt;strong&gt;Versão:&lt;/strong&gt; [VERSION]&lt;br /&gt;&lt;strong&gt;Definição:&lt;/strong&gt; [DEFINITION]&lt;br /&gt;&lt;strong&gt;Controle:&lt;/strong&gt; [CONTROLE]&lt;br /&gt;&lt;strong&gt;Código:&lt;/strong&gt; [SRC]&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Informação de módulo&lt;/h1&gt;&lt;p&gt;Muestra os detalles técnicos da instância do módulo asociado&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Organização:&lt;/strong&gt; [ORGANIZATION]&lt;br /&gt;&lt;strong&gt;Propietario:&lt;/strong&gt; [OWNER]&lt;br /&gt;&lt;strong&gt;Email:&lt;/strong&gt; [EMAIL]&lt;br /&gt;&lt;strong&gt;URL&lt;/strong&gt; [URL]&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Módulo:&lt;/strong&gt; [MODULE]&lt;br /&gt;&lt;strong&gt;Versão:&lt;/strong&gt; [VERSION]&lt;br /&gt;&lt;strong&gt;Definição:&lt;/strong&gt; [DEFINITION]&lt;br /&gt;&lt;strong&gt;Controle:&lt;/strong&gt; [CONTROLE]&lt;br /&gt;&lt;strong&gt;Código:&lt;/strong&gt; [SRC]&lt;/p&gt;</value>
   </data>
 </root>

@@ -247,7 +247,7 @@
     <value xml:space="preserve">Teléfono:</value>
   </data>
   <data name="ProfileProperties_TimeZone.Help">
-    <value xml:space="preserve">Selecione su zona horaria de a lista</value>
+    <value xml:space="preserve">Selecione su zona horaria da lista</value>
   </data>
   <data name="ProfileProperties_TimeZone.Required">
     <value xml:space="preserve">A zona horaria é obrigatória</value>

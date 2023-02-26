@@ -100,7 +100,7 @@
     <value xml:space="preserve">Vuelva a introducir a contrasenha para confirmar que a foi entrado corretamente.</value>
   </data>
   <data name="PasswordConfirm.Required">
-    <value xml:space="preserve">Tem que proporcionar a confirmação de a contrasenha</value>
+    <value xml:space="preserve">Tem que proporcionar a confirmação da contrasenha</value>
   </data>
   <data name="PasswordConfirm.Text">
     <value xml:space="preserve">Confirmação de contrasenha:</value>
@@ -121,7 +121,7 @@
     <value xml:space="preserve">A contrasenha foi reiniciado.</value>
   </data>
   <data name="Username.Help" lastModified="2018-03-25 06:44:31">
-    <value xml:space="preserve">Introduzca o código do usuário. Tem que ter como mínimo cinco caracteres alfanuméricos, não pode empezar o acabar com espaços e não pode contener nenhum de os seguinte caracteres !"#$%&amp;'()*+,/:;&lt;=&gt;?@[\]^`{|}</value>
+    <value xml:space="preserve">Introduzca o código do usuário. Tem que ter como mínimo cinco caracteres alfanuméricos, não pode empezar o acabar com espaços e não pode contener nenhum dos seguinte caracteres !"#$%&amp;'()*+,/:;&lt;=&gt;?@[\]^`{|}</value>
   </data>
   <data name="Username.RegExError">
     <value xml:space="preserve">O código do usuário introducido não é válido.</value>

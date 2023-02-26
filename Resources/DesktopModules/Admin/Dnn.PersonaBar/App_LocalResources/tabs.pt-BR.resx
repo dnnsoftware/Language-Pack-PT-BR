@@ -14,7 +14,7 @@
   </resheader>
   <!--DOTWARE TST S.L.-->
   <data name="lblAdminOnly.Text">
-    <value xml:space="preserve">Visible somente para administradores</value>
+    <value xml:space="preserve">Visível somente para administradores</value>
   </data>
   <data name="lblEveryone.Text">
     <value xml:space="preserve">Todos os usuarios podem ver esta página</value>
@@ -23,9 +23,9 @@
     <value xml:space="preserve">Página inicial do portal</value>
   </data>
   <data name="lblRegistered.Text">
-    <value xml:space="preserve">Visible para usuarios registrados</value>
+    <value xml:space="preserve">Visível para usuarios registrados</value>
   </data>
   <data name="lblSecure.Text">
-    <value xml:space="preserve">Visible somente para algunos roles</value>
+    <value xml:space="preserve">Visível somente para algunos roles</value>
   </data>
 </root>

@@ -46,13 +46,13 @@
     <value xml:space="preserve">O arquivo foi creado corretamente.</value>
   </data>
   <data name="ControlTitle_viewsource.Text">
-    <value xml:space="preserve">Ver código-fonte</value>
+    <value xml:space="preserve">Ver código fonte</value>
   </data>
   <data name="ControlUpdated.Text">
     <value xml:space="preserve">O arquivo foi guardado corretamente.</value>
   </data>
   <data name="DeleteSnippet.Text">
-    <value xml:space="preserve">¿Borrar fragmento de código?</value>
+    <value xml:space="preserve">Borrar fragmento de código?</value>
   </data>
   <data name="Edit.Text">
     <value xml:space="preserve">Editar Arquivo</value>
@@ -61,7 +61,7 @@
     <value xml:space="preserve">Editar Arquivo</value>
   </data>
   <data name="FolderNameInvalid.Text">
-    <value xml:space="preserve">O nome de a pasta identificada em o módulo não existe. Revise a configuração do módulo em Sistema - Extensiones.</value>
+    <value xml:space="preserve">O nome da pasta identificada em o módulo não existe. Revise a configuração do módulo em Sistema - Extensões.</value>
   </data>
   <data name="NoFileTypeSelected.Text">
     <value xml:space="preserve">Tem que selecionar um tipo de Arquivo para editar antes de clicar o botão Atualizar.</value>
@@ -73,7 +73,7 @@
     <value xml:space="preserve">Nome do controle:</value>
   </data>
   <data name="plFile.Help">
-    <value xml:space="preserve">Selecione o arquivo de código-fonte que quiera visualizar.</value>
+    <value xml:space="preserve">Selecione o arquivo de código fonte que quiera visualizar.</value>
   </data>
   <data name="plFile.Text">
     <value xml:space="preserve">Selecionar Arquivo:</value>
@@ -85,7 +85,7 @@
     <value xml:space="preserve">Lenguaje:</value>
   </data>
   <data name="plSource.Help">
-    <value xml:space="preserve">Pode ver o conteúdo do arquivo na caja de texto inferior. Se estiver executando o sitio em um PC local também podrá editar e modificar o código-fonte.</value>
+    <value xml:space="preserve">Pode ver o conteúdo do arquivo na caja de texto inferior. Se estiver executando o sitio em um PC local também podrá editar e modificar o código fonte.</value>
   </data>
   <data name="plSource.Text">
     <value xml:space="preserve">Pasta:</value>

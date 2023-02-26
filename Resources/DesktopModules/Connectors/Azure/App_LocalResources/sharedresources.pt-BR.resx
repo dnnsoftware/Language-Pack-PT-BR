@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessDenied.ErrorMessage" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">foi denegado o acceso.</value>
+    <value xml:space="preserve">foi negado o Acesso.</value>
   </data>
   <data name="AccountKey.Text" lastModified="2018-03-24 10:11:45">
     <value xml:space="preserve">Clave de conta:</value>

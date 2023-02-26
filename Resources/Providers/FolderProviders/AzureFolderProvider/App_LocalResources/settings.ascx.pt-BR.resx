@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessDenied.ErrorMessage" lastModified="2018-03-24 07:16:10">
-    <value xml:space="preserve">foi denegado o acceso.</value>
+    <value xml:space="preserve">foi negado o Acesso.</value>
   </data>
   <data name="AccountNotFound.ErrorMessage" lastModified="2018-03-24 07:16:10">
     <value xml:space="preserve">A conta especificada não foi encontrado.</value>
@@ -37,13 +37,13 @@
     <value xml:space="preserve">Novo moldura</value>
   </data>
   <data name="plAccountKey.Help" lastModified="2018-03-24 08:21:46">
-    <value xml:space="preserve">Introduzca a clave de a conta. Pode utilizar tanto a clave principal como a secundaria para a clave de a conta.</value>
+    <value xml:space="preserve">Introduzca a clave da conta. Pode utilizar tanto a clave principal como a secundaria para a clave da conta.</value>
   </data>
   <data name="plAccountKey.Text" lastModified="2018-03-24 08:21:46">
     <value xml:space="preserve">Clave de conta</value>
   </data>
   <data name="plAccountName.Help" lastModified="2018-03-24 08:21:46">
-    <value xml:space="preserve">Introduzca o nome de a conta.</value>
+    <value xml:space="preserve">Introduzca o nome da conta.</value>
   </data>
   <data name="plAccountName.Text" lastModified="2018-03-24 08:21:46">
     <value xml:space="preserve">Nome de conta</value>
@@ -61,13 +61,13 @@
     <value xml:space="preserve">Dominio personalizado</value>
   </data>
   <data name="plDirectLink.Help" lastModified="2018-03-24 08:21:46">
-    <value xml:space="preserve">Si marca esta opção, a ruta de os Arquivos de esta pasta apuntará a ruta real. Si não está marcada, se utilizará a ruta com LinkClick.</value>
+    <value xml:space="preserve">Si marca esta opção, a ruta dos Arquivos de esta pasta apuntará a ruta real. Si não está marcada, se utilizará a ruta com LinkClick.</value>
   </data>
   <data name="plDirectLink.Text" lastModified="2018-03-24 08:21:46">
     <value xml:space="preserve">Utilizar enlace directo</value>
   </data>
   <data name="plSyncBatchSize.Help" lastModified="2020-05-09 10:36:09">
-    <value xml:space="preserve">Indica o número máximo de elementos que se obtendrán de Azure Storage em cada llamada durante a sincronização de pastas. Um tamaño de lote pequeño requerirá más llamadas a Azure para obtener todos os elementos. Um tamaño de lote grande pode producir errores de conexión em repositorios grandes.</value>
+    <value xml:space="preserve">Mostra o número máximo de elementos que se obtendrán de Azure Storage em cada llamada durante a sincronização de pastas. Um tamaño de lote pequeño requerirá más llamadas a Azure para obtener todos os elementos. Um tamaño de lote grande pode producir errores de conexión em repositorios grandes.</value>
   </data>
   <data name="plSyncBatchSize.Text" lastModified="2020-05-09 08:33:17">
     <value xml:space="preserve">Tamaño de lote de sincronizacion</value>
@@ -97,10 +97,10 @@
     <value xml:space="preserve">O tamaño de lote de sincronização tem que ser um valor entero.</value>
   </data>
   <data name="valAccountKey.ErrorMessage" lastModified="2018-03-24 08:21:46">
-    <value xml:space="preserve">A clave de a conta é obrigatória</value>
+    <value xml:space="preserve">A clave da conta é obrigatória</value>
   </data>
   <data name="valAccountName.ErrorMessage" lastModified="2018-03-24 08:21:46">
-    <value xml:space="preserve">O nome de a conta é obrigatório</value>
+    <value xml:space="preserve">O nome da conta é obrigatório</value>
   </data>
   <data name="valContainerName.ErrorMessage" lastModified="2018-03-24 08:21:46">
     <value xml:space="preserve">O nome da moldura é obrigatório</value>

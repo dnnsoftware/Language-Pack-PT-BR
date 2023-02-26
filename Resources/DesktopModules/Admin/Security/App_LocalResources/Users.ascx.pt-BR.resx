@@ -40,7 +40,7 @@
     <value xml:space="preserve">Data de creação</value>
   </data>
   <data name="Delete.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este usuario?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este usuario?</value>
   </data>
   <data name="Delete.Text">
     <value xml:space="preserve">Borrar</value>
@@ -142,7 +142,7 @@
     <value xml:space="preserve">Región</value>
   </data>
   <data name="Remove.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea borrar este usuario de forma definitiva?</value>
+    <value xml:space="preserve">Está seguro que quer borrar este usuario de forma definitiva?</value>
   </data>
   <data name="Remove.Text">
     <value xml:space="preserve">Eliminar</value>
@@ -151,7 +151,7 @@
     <value xml:space="preserve">Eliminar usuarios borrados</value>
   </data>
   <data name="Restore.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea restaurar este usuario?</value>
+    <value xml:space="preserve">Está seguro que quer restaurar este usuario?</value>
   </data>
   <data name="Restore.Text">
     <value xml:space="preserve">Restaurar</value>

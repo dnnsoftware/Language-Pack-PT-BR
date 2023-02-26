@@ -52,10 +52,10 @@
     <value xml:space="preserve">Usuario em linea:</value>
   </data>
   <data name="LastActivityDate.Help">
-    <value xml:space="preserve">Data de a última actividade deste usuario</value>
+    <value xml:space="preserve">Data da última actividade deste usuario</value>
   </data>
   <data name="LastActivityDate.Text">
-    <value xml:space="preserve">Data de a última actividade:</value>
+    <value xml:space="preserve">Data da última actividade:</value>
   </data>
   <data name="LastLockoutDate.Help">
     <value xml:space="preserve">Data na que este usuario fue bloqueado por última vez, después de demasiados inicios de sesión fallidos</value>
@@ -97,7 +97,7 @@
     <value xml:space="preserve">Atualizar contrasenha:</value>
   </data>
   <data name="UserFolder.Help">
-    <value xml:space="preserve">Indica a pasta donde se guardarán os Arquivos de os usuarios.</value>
+    <value xml:space="preserve">Mostra a pasta donde se guardarán os Arquivos dos usuarios.</value>
   </data>
   <data name="UserFolder.Text">
     <value xml:space="preserve">Pasta de usuarios</value>

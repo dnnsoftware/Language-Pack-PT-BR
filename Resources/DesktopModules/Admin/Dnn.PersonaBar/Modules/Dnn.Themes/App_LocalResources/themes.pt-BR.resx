@@ -16,7 +16,7 @@
     <value xml:space="preserve">Aplicar</value>
   </data>
   <data name="ApplyConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea aplicar este tema?</value>
+    <value xml:space="preserve">Está seguro que quer aplicar este tema?</value>
   </data>
   <data name="ApplyTheme.Text" lastModified="2017-04-29 01:31:11">
     <value xml:space="preserve">Aplicar</value>
@@ -37,7 +37,7 @@
     <value xml:space="preserve">Containers</value>
   </data>
   <data name="DeleteConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este tema?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este tema?</value>
   </data>
   <data name="DeleteTheme.Text" lastModified="2017-04-29 01:31:11">
     <value xml:space="preserve">Eliminar</value>
@@ -61,7 +61,7 @@
     <value xml:space="preserve">Diseños</value>
   </data>
   <data name="Localized.Text">
-    <value xml:space="preserve">Traducible</value>
+    <value xml:space="preserve">Traducível</value>
   </data>
   <data name="nav_Themes.Text">
     <value xml:space="preserve">Temas</value>
@@ -94,7 +94,7 @@
     <value xml:space="preserve">[ Restaurar tema predeterminado ]</value>
   </data>
   <data name="RestoreThemeConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea restaurra o tema predeterminado?</value>
+    <value xml:space="preserve">Está seguro que quer restaurra o tema predeterminado?</value>
   </data>
   <data name="SearchPlaceHolder.Text">
     <value xml:space="preserve">Buscar</value>
@@ -157,7 +157,7 @@
     <value xml:space="preserve">Token</value>
   </data>
   <data name="UsePackageUninstall.Text">
-    <value xml:space="preserve">O tema foi instalado como uma extensión. Vá para extensiones para desinstalarlo do sistema.</value>
+    <value xml:space="preserve">O tema foi instalado como uma extensión. Vá para extensões para desinstalarlo do sistema.</value>
   </data>
   <data name="Value.Text">
     <value xml:space="preserve">Valor</value>

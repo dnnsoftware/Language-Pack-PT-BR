@@ -28,7 +28,7 @@
     <value xml:space="preserve">&lt;h1&gt;Exportar Página&lt;/h1&gt;&lt;p&gt;Os Administradores podem exportar conteúdo da página especificada.&lt;/p&gt;</value>
   </data>
   <data name="plContent.Help">
-    <value xml:space="preserve">Selecione para incluir o conteúdo de os módulos</value>
+    <value xml:space="preserve">Selecione para incluir o conteúdo dos módulos</value>
   </data>
   <data name="plContent.Text">
     <value xml:space="preserve">Incluir conteúdo:</value>

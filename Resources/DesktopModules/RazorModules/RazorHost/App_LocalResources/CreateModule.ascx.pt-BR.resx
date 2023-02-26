@@ -98,7 +98,7 @@
     <value xml:space="preserve">Selecione esta opção para criar uma página de pruebas para o novo módulo</value>
   </data>
   <data name="plAddPage.Text">
-    <value xml:space="preserve">¿Adicionar página de prueba?</value>
+    <value xml:space="preserve">Adicionar página de prueba?</value>
   </data>
   <data name="plDescription.Help">
     <value xml:space="preserve">Introduzca a descripção do módulo</value>
@@ -107,7 +107,7 @@
     <value xml:space="preserve">Descripção:</value>
   </data>
   <data name="plFolder.Help">
-    <value xml:space="preserve">Introduzca o nome de a pasta para o novo módulo. A pasta se criará em  "DesktopModules/RazorModules"</value>
+    <value xml:space="preserve">Introduzca o nome da pasta para o novo módulo. A pasta se criará em  "DesktopModules/RazorModules"</value>
   </data>
   <data name="plFolder.Text">
     <value xml:space="preserve">Pasta:</value>
@@ -122,10 +122,10 @@
     <value xml:space="preserve">Arquivo de script:</value>
   </data>
   <data name="ScriptCopyError.Text">
-    <value xml:space="preserve">foi producido um error ao copiar o script a pasta de destino. Revise o visor de eventos para más detalles sobre o error.</value>
+    <value xml:space="preserve">foi producido um error ao cópiar o script a pasta de destino. Revise o visor de eventos para más detalles sobre o error.</value>
   </data>
   <data name="scriptsLabel.Help">
-    <value xml:space="preserve">Selecione o script que quiera utilizar de a lista</value>
+    <value xml:space="preserve">Selecione o script que quiera utilizar da lista</value>
   </data>
   <data name="scriptsLabel.Text">
     <value xml:space="preserve">Selecione o script:</value>
@@ -140,7 +140,7 @@
     <value xml:space="preserve">Já existe uma página com o mesmo nome que o módulo. O módulo foi creado mas a página de prueba não.</value>
   </data>
   <data name="valFolder.Text">
-    <value xml:space="preserve">O nome de a pasta é obrigatório.&lt;br/&gt;</value>
+    <value xml:space="preserve">O nome da pasta é obrigatório.&lt;br/&gt;</value>
   </data>
   <data name="valName.Text">
     <value xml:space="preserve">O nome é obrigatório.&lt;br/&gt;</value>

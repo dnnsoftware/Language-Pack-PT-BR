@@ -22,11 +22,11 @@
     <value xml:space="preserve">Informação de conta</value>
   </data>
   <data name="BestPractices.Text" lastModified="2018-06-01 16:33:30">
-    <value xml:space="preserve">Está a punto de atualizar su sitio web a uma versão más reciente de a aplicação. Aplicar as actualizações de forma consistente é a mejor manera de garantizar a seguridade de su sistema, de os usuarios e de os documentos de a web. Antes de proceder com o proceso de actualização verifique que:
+    <value xml:space="preserve">Está a punto de atualizar su sitio web a uma versão más reciente da aplicação. Aplicar as actualizações de forma consistente é a mejor manera de garantizar a seguridade de su sistema, dos usuarios e dos documentos da web. Antes de proceder com o proceso de actualização verifique que:
 &lt;ul&gt;
 &lt;li&gt;foi realizado pruebas de actualização em um entorno de test
-&lt;li&gt;foi documentado as características de su instalação incluyendo a compatibilidade de os módulos que se utilizan em este sistema
-&lt;li&gt;foi realizado as copias de seguridade necessárias para poder restaurar o sistema em caso de um error inesperado durante a actualização.
+&lt;li&gt;foi documentado as características de su instalação incluyendo a compatibilidade dos módulos que se utilizan em este sistema
+&lt;li&gt;foi realizado as cópias de seguridade necessárias para poder restaurar o sistema em caso de um error inesperado durante a actualização.
 &lt;/ul&gt;</value>
   </data>
   <data name="CurrentVersion.Text">
@@ -42,7 +42,7 @@
     <value xml:space="preserve">Foi ocurrido um ERROR - {0}</value>
   </data>
   <data name="ExtensionsUpgrade.Text">
-    <value xml:space="preserve">Actualizando extensiones</value>
+    <value xml:space="preserve">Actualizando extensões</value>
   </data>
   <data name="ImprovementProgramExplain.Text" lastModified="2016-11-29 16:19:57">
     <value xml:space="preserve">O programa de mejoras do producto nos permite entender mejor como mejorar DNN para usted. Os datos enviados nos ayudarán a analizar o uso e o que é más importante para os usuarios do producto. Todos os datos enviados son anónimos e para uso interno. Ver más informação sobre o &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Programa de Mejoras do Producto&lt;/a&gt;.</value>
@@ -107,10 +107,10 @@
     <value xml:space="preserve">Actualização - Versão {0}</value>
   </data>
   <data name="VersionsMatch.Text" lastModified="2018-06-01 13:34:17">
-    <value xml:space="preserve">A versão de a base de datos e a aplicação coincidem. Não há nenhuma actualização pendiente de aplicar.</value>
+    <value xml:space="preserve">A versão da base de datos e a aplicação coincidem. Não há nenhuma actualização pendiente de aplicar.</value>
   </data>
   <data name="VersionsMatchButIncrementalExists.Text" lastModified="2015-09-14 05:45:10">
-    <value xml:space="preserve">A versão de a base de datos e a aplicação coincidem. Há uma versão incremental a que pode atualizar.</value>
+    <value xml:space="preserve">A versão da base de datos e a aplicação coincidem. Há uma versão incremental a que pode atualizar.</value>
   </data>
   <data name="ViewWebsite.Text">
     <value xml:space="preserve">Ver o sitio web</value>

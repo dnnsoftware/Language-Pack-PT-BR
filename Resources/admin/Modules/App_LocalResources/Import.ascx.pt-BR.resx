@@ -28,7 +28,7 @@
     <value xml:space="preserve">O módulo selecionado não suporta a importação de conteúdo.</value>
   </data>
   <data name="ModuleContent.Text">
-    <value xml:space="preserve">Conteúdo do módulo</value>
+    <value xml:space="preserve">Conteúdo do Módulo</value>
   </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">&lt;h1&gt;Importar Módulo&lt;/h1&gt;&lt;p&gt;Administradores podem importar conteúdo para o módulo especificado.&lt;/p&gt;</value>

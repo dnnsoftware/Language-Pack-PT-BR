@@ -28,7 +28,7 @@
     <value xml:space="preserve">A contrasenha e a confirmação não coincidem</value>
   </data>
   <data name="ConfirmUnRegister.Text">
-    <value xml:space="preserve">¿Está seguro que desa cancelar o registro?</value>
+    <value xml:space="preserve">Está seguro que desa cancelar o registro?</value>
   </data>
   <data name="CreateUser.Text">
     <value xml:space="preserve">criar usuario</value>

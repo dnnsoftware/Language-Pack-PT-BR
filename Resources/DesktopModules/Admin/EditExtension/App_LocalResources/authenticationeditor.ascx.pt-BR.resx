@@ -28,13 +28,13 @@
     <value xml:space="preserve">Guardar a configuração de autenticação</value>
   </data>
   <data name="HostHelp.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">Este editor le permite configurar o Provedor de autenticação. Pode  indicar a pasta de os Arquivos do provedor e activarlo. Os provedores activados estarán disponívels para os administradores do portal, que luego podem configurarlo em su propio sitio.</value>
+    <value xml:space="preserve">Este editor le permite configurar o Provedor de autenticação. Pode  indicar a pasta dos Arquivos do provedor e activarlo. Os provedores activados estarán disponívels para os administradores do portal, que luego podem configurarlo em su propio sitio.</value>
   </data>
   <data name="IsEnabled.Help" lastModified="2018-03-24 10:01:14">
     <value xml:space="preserve">Marque a casilla para activar o sistema de Autenticação.</value>
   </data>
   <data name="IsEnabled.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">¿Activado?</value>
+    <value xml:space="preserve">Activado?</value>
   </data>
   <data name="LoginControlSrc.Help" lastModified="2018-03-24 10:01:14">
     <value xml:space="preserve">O origen do controle de identificação para  o sistema de autenticação.</value>

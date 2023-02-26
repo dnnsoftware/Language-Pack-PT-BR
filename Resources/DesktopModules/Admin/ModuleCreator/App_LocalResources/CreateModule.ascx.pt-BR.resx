@@ -52,7 +52,7 @@
     <value xml:space="preserve">Nome do módulo:</value>
   </data>
   <data name="plOwner.Help">
-    <value xml:space="preserve">Le sugerimos que utilice um espaço de nomes único para sus módulos para evitar possívels colisiones com outros desarrolladores. Entre o nome de su organização o empresa, esta informação se utilizará como prefijo do módulo.</value>
+    <value xml:space="preserve">Le sugerimos que utilice um espaço de nomes único para sus módulos para evitar possívels colisões com outros desarrolladores. Entre o nome de su organização o empresa, esta informação se utilizará como prefijo do módulo.</value>
   </data>
   <data name="plOwner.Text">
     <value xml:space="preserve">Propietario:</value>
@@ -67,7 +67,7 @@
     <value xml:space="preserve">Tem que ser um superusuario para poder criar um novo módulo.</value>
   </data>
   <data name="TemplateProblem.ErrorMessage">
-    <value xml:space="preserve">foi producido um error ao leer os Arquivos de a planilha seleccionada</value>
+    <value xml:space="preserve">foi producido um error ao leer os Arquivos da planilha seleccionada</value>
   </data>
   <data name="VB.Text">
     <value xml:space="preserve">Visual Basic</value>

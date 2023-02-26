@@ -100,7 +100,7 @@
     <value xml:space="preserve">A espresión regular para não utilizar URLs amigables não é válida.</value>
   </data>
   <data name="doNotUseFriendlyUrlsRegExLabel.Help">
-    <value xml:space="preserve">Esta expresión regular le permite indicar que URLs não van a utilizar o formato amigable de URLs de DNN. Esta opção se utiliza normalmente para compatibilidade com versiones anteriores.</value>
+    <value xml:space="preserve">Esta expresión regular le permite indicar que URLs não van a utilizar o formato amigable de URLs de DNN. Esta opção se utiliza normalmente para compatibilidade com versões anteriores.</value>
   </data>
   <data name="doNotUseFriendlyUrlsRegExLabel.Text">
     <value xml:space="preserve">A espresión regular para não utilizar URLs amigables</value>
@@ -139,13 +139,13 @@
     <value xml:space="preserve">Excepção</value>
   </data>
   <data name="ExpressionsTab.Text">
-    <value xml:space="preserve">EXPRESIONES</value>
+    <value xml:space="preserve">EXPRESões</value>
   </data>
   <data name="ExtensionUrlProviders.Text" lastModified="2017-02-05 15:50:48">
-    <value xml:space="preserve">PROVEDORES DE URLS DE EXTENSIONES</value>
+    <value xml:space="preserve">PROVEDORES DE URLS DE EXTENSões</value>
   </data>
   <data name="ExtensionUrlProvidersTab.Text" lastModified="2017-02-05 15:50:48">
-    <value xml:space="preserve">PROVEDORES DE URLS DE EXTENSIONES</value>
+    <value xml:space="preserve">PROVEDORES DE URLS DE EXTENSões</value>
   </data>
   <data name="File_Url.Text">
     <value xml:space="preserve">URL de Arquivo</value>
@@ -154,13 +154,13 @@
     <value xml:space="preserve">CONFIGURAÇÃO GENERAL</value>
   </data>
   <data name="GlobalSetting.Text">
-    <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais de a instalação.</value>
+    <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais da instalação.</value>
   </data>
   <data name="Host_Portal_Used.Text">
     <value xml:space="preserve">Portal de sistema utilizado</value>
   </data>
   <data name="identifiedTabLabel.Help">
-    <value xml:space="preserve">O nome da página DNN que foi identificado durante o proceso de reescritura de a URL.</value>
+    <value xml:space="preserve">O nome da página DNN que foi identificado durante o proceso de reescritura da URL.</value>
   </data>
   <data name="identifiedTabLabel.Text">
     <value xml:space="preserve">Página identificada</value>
@@ -178,7 +178,7 @@
     <value xml:space="preserve">A expresión regular para parámetros que se deven mantener não é válida.</value>
   </data>
   <data name="keepInQueryStringRegExLabel.Help">
-    <value xml:space="preserve">A expresión regular para parametros que se deven mantener permite identificar uma parte de a URL e garantizar que se mantiene. Quando se genera uma URL DotNetNuke do tipo /página/clave/valor, uma expresión regular /clave/valor identificará esta parte e a dejará como parámetro de a URL generada, per ejemplo: /página?clave=valor.</value>
+    <value xml:space="preserve">A expresión regular para parametros que se deven mantener permite identificar uma parte da URL e garantizar que se mantiene. Quando se genera uma URL DotNetNuke do tipo /página/clave/valor, uma expresión regular /clave/valor identificará esta parte e a dejará como parámetro da URL generada, per ejemplo: /página?clave=valor.</value>
   </data>
   <data name="keepInQueryStringRegExLabel.Text">
     <value xml:space="preserve">Expresión regular para parámetros que se deven mantener</value>
@@ -190,7 +190,7 @@
     <value xml:space="preserve">Idioma identificado</value>
   </data>
   <data name="lblCache.Help">
-    <value xml:space="preserve">Ative esta opção se quiser almacenar o Sitemap de manera que não se genere cada vez que se solicite. Isto é especialmente necessário para os portais grandes. Si o sitio tem más de 50.000 direcções o sitemap se guardará em cache de forma predeterminada por um día. Establezca este valor em 0 para desabilitar o almacenamiento em cache.</value>
+    <value xml:space="preserve">Ative esta opção se quiser almacenar o Sitemap de manera que não se genere cada vez que se solicite. Isto é especialmente necessário para os portais grandes. Se o sitio tem más de 50.000 direcções o sitemap se guardará em cache de forma predeterminada por um día. Establezca este valor em 0 para desabilitar o almacenamiento em cache.</value>
   </data>
   <data name="lblCache.Text">
     <value xml:space="preserve">Días a guardar sitemap em cache</value>
@@ -202,7 +202,7 @@
     <value xml:space="preserve">Excluir URLs com uma prioridade inferior a:</value>
   </data>
   <data name="lblIncludeHidden.Help">
-    <value xml:space="preserve">Quando se activa, a prioridade de cada página se calcula a partir do nivel de a jerarquía da página. As páginas de nivel superior tendrán um valor de 1, as de segundo nivel de 0,9, as de tercer nivel 0,8, ... Este ajuste não va a mudar o valor almacenado em a página real, sino que usará o valor calculado quando seja necessário.</value>
+    <value xml:space="preserve">Quando se activa, a prioridade de cada página se calcula a partir do nivel da jerarquía da página. As páginas de nivel superior tendrán um valor de 1, as de segundo nivel de 0,9, as de tercer nivel 0,8, ... Este ajuste não va a mudar o valor almacenado em a página real, sino que usará o valor calculado quando seja necessário.</value>
   </data>
   <data name="lblIncludeHidden.Text">
     <value xml:space="preserve">Incluir páginas ocultas</value>
@@ -283,7 +283,7 @@
     <value xml:space="preserve">Página 404</value>
   </data>
   <data name="pageNameLabel.Help">
-    <value xml:space="preserve">Algunos módulos generan URLs forzando a última parte de a URL explícitamente. Si é o caso, introduzca o valor de "nomepágina" que se utiliza ao generar a URL. Si não tem um valor explícito o não sabe como quando utilizar este valor déjelo em branco.</value>
+    <value xml:space="preserve">Algunos módulos generan URLs forzando a última parte da URL explícitamente. Si é o caso, introduzca o valor de "nomepágina" que se utiliza ao generar a URL. Si não tem um valor explícito o não sabe como quando utilizar este valor déjelo em branco.</value>
   </data>
   <data name="pageNameLabel.Text">
     <value xml:space="preserve">Nome de página personalizado / Cadena final de URL (opcional)</value>
@@ -319,19 +319,19 @@
     <value xml:space="preserve">Motivo de redireção</value>
   </data>
   <data name="redirectionResultLabel.Help">
-    <value xml:space="preserve">Si a URL probada se redirecciona, muestra a redireção de a URL.</value>
+    <value xml:space="preserve">Se a URL probada se redirecciona, muestra a redireção da URL.</value>
   </data>
   <data name="redirectionResultLabel.Text">
-    <value xml:space="preserve">Resultado de a redireção</value>
+    <value xml:space="preserve">Resultado da redireção</value>
   </data>
   <data name="redirectOnWrongCaseLabel.Help">
-    <value xml:space="preserve">Si esta marcada, cualquier URL que não esté em minúscula se redireccionará a versão em minúscula de a URL</value>
+    <value xml:space="preserve">Si esta marcada, cualquier URL que não esté em minúscula se redireccionará a versão em minúscula da URL</value>
   </data>
   <data name="redirectOnWrongCaseLabel.Text">
     <value xml:space="preserve">Redireccionar URLs que não esten em minúscula</value>
   </data>
   <data name="RegularExpressions.Text">
-    <value xml:space="preserve">EXPRESIONES REGULARES</value>
+    <value xml:space="preserve">EXPRESões REGULARES</value>
   </data>
   <data name="ReplacementCharacter.Help">
     <value xml:space="preserve">Caracter de sustitução</value>
@@ -355,10 +355,10 @@
     <value xml:space="preserve">URLs resultantes</value>
   </data>
   <data name="rewritingResultLabel.Help">
-    <value xml:space="preserve">Muestra a URL reescrita com o formato sin procesar que verá a plataforma DotNetNuke e outras extensiones</value>
+    <value xml:space="preserve">Muestra a URL reescrita com o formato sin procesar que verá a plataforma DotNetNuke e outras extensões</value>
   </data>
   <data name="rewritingResultLabel.Text">
-    <value xml:space="preserve">Resultado de a reescritura</value>
+    <value xml:space="preserve">Resultado da reescritura</value>
   </data>
   <data name="Secure_Page_Requested.Text">
     <value xml:space="preserve">Petição de página segura</value>
@@ -379,7 +379,7 @@
     <value xml:space="preserve">Não foi podido guardar a configuração. Vuelva a intentarlo.</value>
   </data>
   <data name="SettingsRestoreWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea cancelar os cambios?</value>
+    <value xml:space="preserve">Está seguro que quer cancelar os cambios?</value>
   </data>
   <data name="SettingsUpdateSuccess.Text">
     <value xml:space="preserve">A configuração foi actualizado.</value>
@@ -397,7 +397,7 @@
     <value xml:space="preserve">Configuração do Sitemap</value>
   </data>
   <data name="sitemapUrlLabel.Help">
-    <value xml:space="preserve">Envíe su Sitemap a Google para uma mejor optimização de busca. Haga clic em Enviar para obtener uma conta de Webmaster Tools de Google e verificar a propriedade do portal (com a opção de verificação de más abajo). uma vez verificado, se pode selecionar a opção Adicionar um sitio web general de a ficha de Google Sitemaps e pegar a URL do Sitemap mostrado.</value>
+    <value xml:space="preserve">Envíe su Sitemap a Google para uma mejor optimização de busca. Haga clic em Enviar para obtener uma conta de Webmaster Tools de Google e verificar a propriedade do portal (com a opção de verificação de más abajo). uma vez verificado, se pode selecionar a opção Adicionar um sitio web general da ficha de Google Sitemaps e pegar a URL do Sitemap mostrado.</value>
   </data>
   <data name="sitemapUrlLabel.Text">
     <value xml:space="preserve">URL do sitemap</value>
@@ -412,7 +412,7 @@
     <value xml:space="preserve">A expresión regular para URLs de siteurls.config não é válida.</value>
   </data>
   <data name="siteUrlsOnlyRegExLabel.Help">
-    <value xml:space="preserve">A expresión regular para URLs de siteurls.config modifica o orden de proceso de as URLs. Quando uma URL coincida, primero se evaluará com o arquivo siteurls.config, sin antes verificar na lista de URLs amigables do portal. Utilize esta opção para forzar o proceso do arquivo siteurls.config para ULRs que estan incluidas em o arquivo.</value>
+    <value xml:space="preserve">A expresión regular para URLs de siteurls.config modifica o orden de proceso das URLs. Quando uma URL coincida, primero se evaluará com o arquivo siteurls.config, sin antes verificar na lista de URLs amigables do portal. Utilize esta opção para forzar o proceso do arquivo siteurls.config para ULRs que estan incluidas em o arquivo.</value>
   </data>
   <data name="siteUrlsOnlyRegExLabel.Text">
     <value xml:space="preserve">Expresión regular para URLs que deban utilizar siteurls.config</value>
@@ -484,7 +484,7 @@
     <value xml:space="preserve">A expresión regular não é válida</value>
   </data>
   <data name="validFriendlyUrlRegExLabel.Help">
-    <value xml:space="preserve">A expresión se utiliza para determinar si os caráteres utilizados em o nome da página son válidos para criar uma URL de página amigable. Os caracteres que não coincidan com o patrón se borrarán.</value>
+    <value xml:space="preserve">A expresión se utiliza para determinar se os caráteres utilizados em o nome da página son válidos para criar uma URL de página amigable. Os caracteres que não coincidan com o patrón se borrarán.</value>
   </data>
   <data name="validFriendlyUrlRegExLabel.Text">
     <value xml:space="preserve">Expresión regular para URLs amigables válidas</value>

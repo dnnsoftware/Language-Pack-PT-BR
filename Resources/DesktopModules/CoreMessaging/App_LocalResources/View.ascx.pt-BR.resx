@@ -76,7 +76,7 @@
     <value xml:space="preserve">Novo mensagem</value>
   </data>
   <data name="ContentNotAvailable.Text">
-    <value xml:space="preserve">O conteúdo deste módulo não é visible para os usuarios não autenticados. Identifíquese para acceder ao conteúdo.</value>
+    <value xml:space="preserve">O conteúdo deste módulo não é visível para os usuarios não autenticados. Identifíquese para acceder ao conteúdo.</value>
   </data>
   <data name="ConversationArchived.Text">
     <value xml:space="preserve">A conversação foi archivado.</value>
@@ -100,7 +100,7 @@
     <value xml:space="preserve">foi producido um error ao criar a mensagem:</value>
   </data>
   <data name="DismissAllConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea descartar todas as notificações de {0}?</value>
+    <value xml:space="preserve">Está seguro que quer descartar todas as notificações de {0}?</value>
   </data>
   <data name="DismissAllNotifications.Text">
     <value xml:space="preserve">Descartar todas as notificações</value>
@@ -178,19 +178,19 @@
     <value xml:space="preserve">Última modificação</value>
   </data>
   <data name="lblMessageFreq.Help">
-    <value xml:space="preserve">Indica a periodicidade de os emails que recibirá indicándole que tem mensagens novos não portal.</value>
+    <value xml:space="preserve">Mostra a periodicidade dos emails que recibirá indicándole que tem mensagens novos não portal.</value>
   </data>
   <data name="lblMessageFreq.Text">
     <value xml:space="preserve">Frecuencia de mensagens:</value>
   </data>
   <data name="lblNotificationFreq.Help">
-    <value xml:space="preserve">Indica a periodicidade de os emails que recibirá indicándole que tem notificações novas não portal.</value>
+    <value xml:space="preserve">Mostra a periodicidade dos emails que recibirá indicándole que tem notificações novas não portal.</value>
   </data>
   <data name="lblNotificationFreq.Text">
     <value xml:space="preserve">Frecuencia de notificações:</value>
   </data>
   <data name="lblSubscriptions.Help">
-    <value xml:space="preserve">Visualização e gestión de os elementos a os que está suscrito.</value>
+    <value xml:space="preserve">Visualização e gestión dos elementos a os que está suscrito.</value>
   </data>
   <data name="lblSubscriptions.Text">
     <value xml:space="preserve">Suscripções:</value>
@@ -259,7 +259,7 @@
     <value xml:space="preserve"> de </value>
   </data>
   <data name="PermissionsNotProperlySet.Text">
-    <value xml:space="preserve">As permissões do módulo não están corretamente configurados. O módulo não devería ser visible para os usuarios não autenticados.</value>
+    <value xml:space="preserve">As permissões do módulo não están corretamente configurados. O módulo não devería ser visível para os usuarios não autenticados.</value>
   </data>
   <data name="PrefSaved.Text">
     <value xml:space="preserve">Sus preferências foin actualizado</value>

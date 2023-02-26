@@ -79,7 +79,7 @@
     <value xml:space="preserve">Configuração do usuário</value>
   </data>
   <data name="Display_Mode.Help">
-    <value xml:space="preserve">Selecciona a vista predeterminada para os datos de os usuarios</value>
+    <value xml:space="preserve">Selecciona a vista predeterminada para os datos dos usuarios</value>
   </data>
   <data name="Display_Mode.Text">
     <value xml:space="preserve">Modo predeterminado</value>
@@ -88,7 +88,7 @@
     <value xml:space="preserve">Marque para ocultar a paginação si somente há uma única página de registros</value>
   </data>
   <data name="Display_SuppressPager.Text">
-    <value xml:space="preserve">¿Suprimir paginação?</value>
+    <value xml:space="preserve">Suprimir paginação?</value>
   </data>
   <data name="FirstLetter.Text">
     <value xml:space="preserve">Primera letra</value>

@@ -31,7 +31,7 @@
     <value xml:space="preserve">Eliminar</value>
   </data>
   <data name="DeleteGroup.Confirm" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este grupo?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este grupo?</value>
   </data>
   <data name="Description.Help" lastModified="2020-05-09 09:24:57">
     <value xml:space="preserve">Introduzca uma descripção para o grupo.</value>

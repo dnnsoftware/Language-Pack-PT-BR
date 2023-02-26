@@ -70,7 +70,7 @@
     <value xml:space="preserve">Si le han proporcionado um código RSVP pode utilizarlo para suscribirse a determinados servicios. Introduzca o código e pulse o botão "Suscribir". </value>
   </data>
   <data name="RSVPSuccess.Text">
-    <value xml:space="preserve">Foi sido añadido satisfactoriamente ao rol asociado com o código RSVP introducido. Para obtener o acceso a os novos servicios deve iniciar sesión novamente não portal.</value>
+    <value xml:space="preserve">Foi sido añadido satisfactoriamente ao rol asociado com o código RSVP introducido. Para obtener o Acesso a os novos servicios deve iniciar sesión novamente não portal.</value>
   </data>
   <data name="ServicesHelp.Text">
     <value xml:space="preserve">Esta seção le permite administrar sus suscripções não portal. Não caso de servicios que requieran pago será redireccionado ao sitio de pago. Quando haya efectuado o pago, pode volver aquí para ver o estado de su suscripção.</value>

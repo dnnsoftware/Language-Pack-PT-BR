@@ -43,7 +43,7 @@
     <value xml:space="preserve">Periodo</value>
   </data>
   <data name="plRoleGroups.Help">
-    <value xml:space="preserve">Selecione o grupo de roles que desea ver</value>
+    <value xml:space="preserve">Selecione o grupo de roles que quer ver</value>
   </data>
   <data name="plRoleGroups.Text">
     <value xml:space="preserve">Filtrar por grupo de roles:</value>

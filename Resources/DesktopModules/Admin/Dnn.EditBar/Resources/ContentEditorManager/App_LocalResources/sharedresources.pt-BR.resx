@@ -40,7 +40,7 @@
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="CancelConfirm.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">¿Está seguro que desea cancelar adicionar o módulo a página?</value>
+    <value xml:space="preserve">Está seguro que quer cancelar adicionar o módulo a página?</value>
   </data>
   <data name="Category_All.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Todas</value>
@@ -61,13 +61,13 @@
     <value xml:space="preserve">Sí</value>
   </data>
   <data name="ContentLayout.Delete.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este diseño?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este diseño?</value>
   </data>
   <data name="ContentLayout.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Diseño do conteúdo</value>
   </data>
   <data name="DeleteModuleConfirm.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este módulo?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este módulo?</value>
   </data>
   <data name="DiscardLabel.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Descartar</value>
@@ -79,7 +79,7 @@
     <value xml:space="preserve">Os cambios mostrados não están publicados</value>
   </data>
   <data name="MakeCopy.Text" lastModified="2017-04-29 05:21:31">
-    <value xml:space="preserve">criar copia</value>
+    <value xml:space="preserve">criar cópia</value>
   </data>
   <data name="NoModules.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Não há nenhum módulo disponível para utilizar nesta página.</value>
@@ -124,7 +124,7 @@
     <value xml:space="preserve">Orden descendente</value>
   </data>
   <data name="PendingSave.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Todavía não foi acabado de adicionar o módulo, ¿está seguro que quiere continuar sin guardar?</value>
+    <value xml:space="preserve">Todavía não foi acabado de adicionar o módulo, está seguro que quiere continuar sin guardar?</value>
   </data>
   <data name="PublishLabel.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Publicar</value>
@@ -133,10 +133,10 @@
     <value xml:space="preserve">Buscar</value>
   </data>
   <data name="Service_CopyPermissionError.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Foi ocurrido um error ao copiar as permissões a as páginas descendientes.</value>
+    <value xml:space="preserve">Foi ocurrido um error ao cópiar as permissões a as páginas descendientes.</value>
   </data>
   <data name="Service_CopyPermissionSuccessful.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">foin copiado as permissões a as páginas descendientes.</value>
+    <value xml:space="preserve">foin cópiado as permissões a as páginas descendientes.</value>
   </data>
   <data name="Service_LayoutNotExist.Text" lastModified="2016-11-30 07:15:12">
     <value xml:space="preserve">foi eliminado o diseño.</value>

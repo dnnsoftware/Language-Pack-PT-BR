@@ -16,19 +16,19 @@
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="cmdCopyPerm.Text">
-    <value xml:space="preserve">Copiar permissões</value>
+    <value xml:space="preserve">Cópiar permissões</value>
   </data>
   <data name="DialogTitle.Text">
-    <value xml:space="preserve">Informação de a pasta {0}</value>
+    <value xml:space="preserve">Informação da pasta {0}</value>
   </data>
   <data name="FolderNameLabel.Help">
-    <value xml:space="preserve">Modificar o nome de a pasta</value>
+    <value xml:space="preserve">Modificar o nome da pasta</value>
   </data>
   <data name="FolderNameLabel.Text">
-    <value xml:space="preserve">Nome de a pasta</value>
+    <value xml:space="preserve">Nome da pasta</value>
   </data>
   <data name="FolderTypeLabel.Help">
-    <value xml:space="preserve">Este valor indica o tipo de pasta</value>
+    <value xml:space="preserve">Este valor mostra o tipo de pasta</value>
   </data>
   <data name="FolderTypeLabel.Text">
     <value xml:space="preserve">Tipo de pasta</value>
@@ -37,16 +37,16 @@
     <value xml:space="preserve">General</value>
   </data>
   <data name="lblCopyPerm.Help">
-    <value xml:space="preserve">Copia as permissões de a pasta a sus subpastas.</value>
+    <value xml:space="preserve">Cópia as permissões da pasta a sus subpastas.</value>
   </data>
   <data name="lblCopyPerm.Text">
-    <value xml:space="preserve">Copiar permissões a subpastas:</value>
+    <value xml:space="preserve">Cópiar permissões a subpastas:</value>
   </data>
   <data name="PermissionCopyError.Text">
-    <value xml:space="preserve">foi producido um error ao copiar as permissões.</value>
+    <value xml:space="preserve">foi producido um error ao cópiar as permissões.</value>
   </data>
   <data name="PermissionsCopied.Text">
-    <value xml:space="preserve">As permissões foin copiado corretamente.</value>
+    <value xml:space="preserve">As permissões foin cópiado corretamente.</value>
   </data>
   <data name="PermissionsTab.Text">
     <value xml:space="preserve">Permissões</value>
@@ -55,7 +55,7 @@
     <value xml:space="preserve">Guardar</value>
   </data>
   <data name="UserCannotChangePermissionsError.Text">
-    <value xml:space="preserve">Não pode mudar as permissões de a pasta</value>
+    <value xml:space="preserve">Não pode mudar as permissões da pasta</value>
   </data>
   <data name="UserCannotEditFolderError.Text">
     <value xml:space="preserve">Não tem permiso para modificar esta pasta</value>

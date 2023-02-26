@@ -22,28 +22,28 @@
     <value xml:space="preserve">A COMUNIDADE</value>
   </data>
   <data name="Docs" lastModified="2020-05-09 02:38:57">
-    <value xml:space="preserve">DNN Docs tambíen é Open Souce! Aprenda como empezar com DNN, realize tutoriales paso a paso o lea a documentação de a API.</value>
+    <value xml:space="preserve">DNN Docs tambíen é Open Souce! Aprenda como empezar com DNN, realize tutoriales paso a paso o lea a documentação da API.</value>
   </data>
   <data name="Docs.Header" lastModified="2020-05-09 02:38:57">
     <value xml:space="preserve">DOCUMENTAÇÃO</value>
   </data>
   <data name="Error.ACT1.Text">
-    <value xml:space="preserve">Error na activação de a licencia. Os detalles proporcionados não coincidem com uma licencia válida.&lt;br /&gt;&lt;br /&gt;Verifique os detalles de su licencia em &lt;a href="{0}" target="_blank"&gt;sua página de licencias em www.dnnsoftware.com&lt;/a&gt; e inténtelo de novo. Si o error continúa, póngase em contato com o departamento de soporte técnico.</value>
+    <value xml:space="preserve">Error na activação da licencia. Os detalles proporcionados não coincidem com uma licencia válida.&lt;br /&gt;&lt;br /&gt;Verifique os detalles de su licencia em &lt;a href="{0}" target="_blank"&gt;sua página de licencias em www.dnnsoftware.com&lt;/a&gt; e inténtelo de novo. Se o error continúa, póngase em contato com o departamento de soporte técnico.</value>
   </data>
   <data name="Error.ACT2.Text">
-    <value xml:space="preserve">Error na activação de a licencia. Já existe uma activação de produção de {0} em uso.</value>
+    <value xml:space="preserve">Error na activação da licencia. Já existe uma activação de produção de {0} em uso.</value>
   </data>
   <data name="Error.ACT3.Text">
     <value xml:space="preserve">Foi sobrepasado o límite de activações permitidas</value>
   </data>
   <data name="Error.ACT4.Text">
-    <value xml:space="preserve">Error na activação de a licencia. Já existe uma activação de produção de {0} em uso.</value>
+    <value xml:space="preserve">Error na activação da licencia. Já existe uma activação de produção de {0} em uso.</value>
   </data>
   <data name="Error.ACT6.Text">
-    <value xml:space="preserve">Error na activação de a licencia. O período de validez de esta licencia caducó o {0:d}. Póngase em contato com &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+    <value xml:space="preserve">Error na activação da licencia. O período de validez de esta licencia caducó o {0:d}. Póngase em contato com &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
   <data name="Error.ContactServer.activate">
-    <value xml:space="preserve">Não foi podido activar a licencia. A conexión com o servidor de licencias não foi sido possível. Inténtelo de novo más tarde o use a activação manual. Si o error persiste póngase em contato com o departamento de soporte técnico.</value>
+    <value xml:space="preserve">Não foi podido activar a licencia. A conexión com o servidor de licencias não foi sido possível. Inténtelo de novo más tarde o use a activação manual. Se o error persiste póngase em contato com o departamento de soporte técnico.</value>
   </data>
   <data name="Error.ContactServer.canrenew">
     <value xml:space="preserve">A conexión com o servidor de licencias não foi sido possível. Não podrá activar o renovar automáticamente sus licencias, mas pode utilizar a activação manual para activar sus licencias.&lt;br /&gt;&lt;br /&gt;
@@ -147,7 +147,7 @@ Não foi podido adicionar a activação de novo a su factura debido a um problem
     <value xml:space="preserve">Su licencia ampliada de prueba foi sido corretamente instalada.</value>
   </data>
   <data name="Success.TrialExtensionRequest">
-    <value xml:space="preserve">Su solicitud de licencia ampliada de prueba foi enviado. Devería recibir um mensagem em 1 día laborable com as instrucções para ampliar su licencia. Si tem preguntas sobre ampliações de a licencia de prueba, llame ao Departamento Comercial de DotNetNuke Corp. não 650-288-3150.</value>
+    <value xml:space="preserve">Su solicitud de licencia ampliada de prueba foi enviado. Devería recibir um mensagem em 1 día laborable com as instrucções para ampliar su licencia. Si tem preguntas sobre ampliações da licencia de prueba, llame ao Departamento Comercial de DotNetNuke Corp. não 650-288-3150.</value>
   </data>
   <data name="WebLicenseList.url">
     <value xml:space="preserve">http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>

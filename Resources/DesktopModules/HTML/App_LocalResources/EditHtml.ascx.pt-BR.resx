@@ -16,7 +16,7 @@
     <value xml:space="preserve">Adicionar conteúdo</value>
   </data>
   <data name="chkPublish.Text">
-    <value xml:space="preserve">¿Publicar cambios?</value>
+    <value xml:space="preserve">Publicar cambios?</value>
   </data>
   <data name="cmdCancel.Text">
     <value xml:space="preserve">Cancelar</value>
@@ -28,7 +28,7 @@
     <value xml:space="preserve">Ocultar idioma predeterminado</value>
   </data>
   <data name="cmdHistory.Text">
-    <value xml:space="preserve">Historial de versiones</value>
+    <value xml:space="preserve">Historial de versões</value>
   </data>
   <data name="cmdPreview.Text">
     <value xml:space="preserve">Previsualizar</value>
@@ -52,7 +52,7 @@
     <value xml:space="preserve">Eliminar esta versão</value>
   </data>
   <data name="DeleteVersion.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar definitivamente a versão [VERSION] ([STATE]) que fue criada o [DATECREATED] por [USERNAME]?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar definitivamente a versão [VERSION] ([STATE]) que fue criada o [DATECREATED] por [USERNAME]?</value>
   </data>
   <data name="Direct Publish.Text">
     <value xml:space="preserve">Publicação directa</value>
@@ -130,10 +130,10 @@
     <value xml:space="preserve">Versão</value>
   </data>
   <data name="plMaxVersions.Help">
-    <value xml:space="preserve">Número máximo de versiones que se guardarán.</value>
+    <value xml:space="preserve">Número máximo de versões que se guardarán.</value>
   </data>
   <data name="plMaxVersions.Text">
-    <value xml:space="preserve">Número máximo de versiones</value>
+    <value xml:space="preserve">Número máximo de versões</value>
   </data>
   <data name="plPreviewVersion.Help">
     <value xml:space="preserve">Mostrar o número de versão do conteúdo</value>
@@ -142,7 +142,7 @@
     <value xml:space="preserve">Versão</value>
   </data>
   <data name="plPreviewWorkflowInUse.Help">
-    <value xml:space="preserve">Nome de a configuração do fluxo de trabalho que o módulo está usando.</value>
+    <value xml:space="preserve">Nome da configuração do fluxo de trabalho que o módulo está usando.</value>
   </data>
   <data name="plPreviewWorkflowInUse.Text">
     <value xml:space="preserve">fluxo de trabalho utilizado</value>
@@ -154,7 +154,7 @@
     <value xml:space="preserve">Estado do fluxo de trabalho</value>
   </data>
   <data name="plPublish.Help">
-    <value xml:space="preserve">Indica si o conteúdo está listo para su publicação</value>
+    <value xml:space="preserve">Mostra se o conteúdo está listo para su publicação</value>
   </data>
   <data name="plPublish.Text">
     <value xml:space="preserve">Publicar</value>

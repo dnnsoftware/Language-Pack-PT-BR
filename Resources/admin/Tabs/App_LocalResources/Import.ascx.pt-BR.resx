@@ -34,7 +34,7 @@
     <value xml:space="preserve">Antes</value>
   </data>
   <data name="InsertPosition.Help">
-    <value xml:space="preserve">Selecione a página antes o después de a cual se insertará a nova página</value>
+    <value xml:space="preserve">Selecione a página antes o después da cual se insertará a nova página</value>
   </data>
   <data name="InsertPosition.Text">
     <value xml:space="preserve">Insertar página:</value>
@@ -85,10 +85,10 @@
     <value xml:space="preserve">Página madre</value>
   </data>
   <data name="plRedirect.Help">
-    <value xml:space="preserve">Selecione donde quiere ir después de a importação</value>
+    <value xml:space="preserve">Selecione donde quiere ir después da importação</value>
   </data>
   <data name="plRedirect.Text">
-    <value xml:space="preserve">¿Modo de redireção?</value>
+    <value xml:space="preserve">Modo de redireção?</value>
   </data>
   <data name="plTabName.Help">
     <value xml:space="preserve">Entre o nome para a nova página.</value>

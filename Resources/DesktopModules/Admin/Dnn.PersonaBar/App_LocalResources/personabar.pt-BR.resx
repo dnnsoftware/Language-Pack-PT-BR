@@ -139,7 +139,7 @@
     <value xml:space="preserve">&lt; Todos os roles &gt;</value>
   </data>
   <data name="permissiongrid.Copy.Text">
-    <value xml:space="preserve">Copiar</value>
+    <value xml:space="preserve">Cópiar</value>
   </data>
   <data name="permissiongrid.Delete.Text">
     <value xml:space="preserve">Eliminar</value>

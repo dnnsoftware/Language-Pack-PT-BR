@@ -37,7 +37,7 @@
     <value xml:space="preserve">Auto</value>
   </data>
   <data name="AutoAssignment.Help">
-    <value xml:space="preserve">Indica si se deve asignar este rol automáticamente a os usuarios.</value>
+    <value xml:space="preserve">Mostra si se deve asignar este rol automáticamente a os usuarios.</value>
   </data>
   <data name="AutoAssignment.Text">
     <value xml:space="preserve">Asignação automática</value>
@@ -61,7 +61,7 @@
     <value xml:space="preserve">foi producido um error. Cargue a página de novo e vuelva a intentarlo.</value>
   </data>
   <data name="DeleteRole.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este rol?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este rol?</value>
   </data>
   <data name="DeleteRole.Error">
     <value xml:space="preserve">foi producido um error ao eliminar o rol. Vuelva a intentarlo.</value>
@@ -70,7 +70,7 @@
     <value xml:space="preserve">O rol foi eliminado.</value>
   </data>
   <data name="DeleteRoleGroup.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este grupo de roles?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este grupo de roles?</value>
   </data>
   <data name="DeleteRoleGroup.Error">
     <value xml:space="preserve">foi producido um error ao eliminar o grupo de roles. Vuelva a intentarlo.</value>
@@ -79,7 +79,7 @@
     <value xml:space="preserve">O grupo de roles foi eliminado.</value>
   </data>
   <data name="DeleteUser.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este usuario do rol?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este usuario do rol?</value>
   </data>
   <data name="Description.Help">
     <value xml:space="preserve">Introduzca a descripção do rol.</value>
@@ -187,7 +187,7 @@
     <value xml:space="preserve">Elimina definitivamente o rol de DNN. Não se podem eliminar os roles de sistema de Administradores, Usuarios registrados, Suscriptores o Usuarios não verificados. &lt;small&gt;&lt;strong class="text-danger"&gt;Atenção: esta ação não pode ser desfeita&lt;/strong&gt;&lt;/small&gt;</value>
   </data>
   <data name="Prompt_DeleteRole_FlagId.Text" lastModified="2018-03-24 12:59:13">
-    <value xml:space="preserve">O ID do rol que se quiere eliminar. O valor é obrigatório. O nome de a opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
+    <value xml:space="preserve">O ID do rol que se quiere eliminar. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
   </data>
   <data name="Prompt_DeleteRole_ResultHtml.Text" lastModified="2018-03-24 13:00:10">
     <value xml:space="preserve">&lt;h4&gt;Elimina definitivamente um rol de seguridade de DNN&lt;/h4&gt;
@@ -209,7 +209,7 @@
     <value xml:space="preserve">Muestra os detalles do rol de seguridade especificado.</value>
   </data>
   <data name="Prompt_GetRole_FlagId.Text" lastModified="2018-03-24 15:01:30">
-    <value xml:space="preserve">O ID do rol de seguridade. O valor é obrigatório. O nome de a opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
+    <value xml:space="preserve">O ID do rol de seguridade. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
   </data>
   <data name="Prompt_GetRole_ResultHtml.Text" lastModified="2018-03-24 15:01:30">
     <value xml:space="preserve">&lt;h4&gt;Obtiene um rol de seguridade de DNN&lt;/h4&gt;
@@ -388,7 +388,7 @@
     <value xml:space="preserve">Quando tem o valor 'true', os usuarios podrán ver o rol e asignarse a si mismos ao rol.</value>
   </data>
   <data name="Prompt_NewRole_FlagRoleName.Text" lastModified="2018-03-24 18:06:41">
-    <value xml:space="preserve">O nome do rol de seguridade. O valor é obrigatório. O nome de a opção &lt;span class="mono"&gt;--name&lt;/span&gt; é opcional si inclui o nome como primer argumento do comando.</value>
+    <value xml:space="preserve">O nome do rol de seguridade. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--name&lt;/span&gt; é opcional si inclui o nome como primer argumento do comando.</value>
   </data>
   <data name="Prompt_NewRole_FlagStatus.Text" lastModified="2018-03-24 18:06:41">
     <value xml:space="preserve">Estado do rol. Tem que ser uno de estos valores: "approved", "pending" o "disabled".</value>
@@ -523,7 +523,7 @@
     <value xml:space="preserve">Descripção do rol.</value>
   </data>
   <data name="Prompt_SetRole_FlagId.Text" lastModified="2018-03-25 05:13:07">
-    <value xml:space="preserve">O ID do rol de seguridade. O valor é obrigatório. O nome de a opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
+    <value xml:space="preserve">O ID do rol de seguridade. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
   </data>
   <data name="Prompt_SetRole_FlagIsPublic.Text" lastModified="2018-03-25 09:14:01">
     <value xml:space="preserve">Quando tem o valor 'true', os usuarios podrán ver o rol e asignarse a si mismos ao rol.</value>
@@ -584,13 +584,13 @@
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_UnableToParseBool.Text" lastModified="2018-03-25 07:13:53">
-    <value xml:space="preserve">Não foi podido procesar o valor '{1}' de a opção --{0}. O valor tem que ser 'true' o 'false'.</value>
+    <value xml:space="preserve">Não foi podido procesar o valor '{1}' da opção --{0}. O valor tem que ser 'true' o 'false'.</value>
   </data>
   <data name="Public.Text">
     <value xml:space="preserve">Público</value>
   </data>
   <data name="PublicRole.Help">
-    <value xml:space="preserve">Ative esta opção si os usuarios se podem suscribir ao rol em a página de Gestión de servicios de su conta.</value>
+    <value xml:space="preserve">Ative esta opção se os usuarios se podem suscribir ao rol em a página de Gestión de servicios de su conta.</value>
   </data>
   <data name="RoleAdded.Error">
     <value xml:space="preserve">foi producido um error ao criar o rol. Vuelva a intentarlo.</value>

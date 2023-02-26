@@ -217,7 +217,7 @@
     <value xml:space="preserve">Confirmados os cambios em o arquivo de configuração</value>
   </data>
   <data name="CONFIG_RolledBack.Text">
-    <value xml:space="preserve">Reversão de os cambios do arquivo de configuração</value>
+    <value xml:space="preserve">Reversão dos cambios do arquivo de configuração</value>
   </data>
   <data name="CONFIG_Updated.Text">
     <value xml:space="preserve">Arquivo de configuração actualizado</value>
@@ -250,7 +250,7 @@
     <value xml:space="preserve">Formateando a directiva de registro</value>
   </data>
   <data name="CopyPermissionsToChildren.Text">
-    <value xml:space="preserve">Se reemplazarán  as permissões de todas a páginas descendientes. &lt;br/&gt;&lt;br/&gt;¿Está seguro que desea continuar?</value>
+    <value xml:space="preserve">Se reemplazarán  as permissões de todas a páginas descendientes. &lt;br/&gt;&lt;br/&gt;Está seguro que quer continuar?</value>
   </data>
   <data name="CreateAdminUser.Error">
     <value xml:space="preserve">Error creando a conta do usuario administrador</value>
@@ -367,28 +367,28 @@
     <value xml:space="preserve">Borrado</value>
   </data>
   <data name="DeleteItem.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este elemento?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este elemento?</value>
   </data>
   <data name="DeleteItems.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar estos elementos?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar estos elementos?</value>
   </data>
   <data name="DeleteItems.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar estos elementos?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar estos elementos?</value>
   </data>
   <data name="DeleteModule.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este módulo?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este módulo?</value>
   </data>
   <data name="DeleteSharedModule.Confirm">
-    <value xml:space="preserve">Este módulo se comparte com outros portais do mesmo grupo. Si elimina esta instância se borrarán tambien as instâncias compartidas em outros portales. Para ver em que portais se comparte o módulo, vá para Configuração &gt; Configuração do módulo &gt; Agregado a as páginas. ¿Está seguro que desea continuar e eliminar este módulo e todas as instâncias compartidas?</value>
+    <value xml:space="preserve">Este módulo se comparte com outros portais do mesmo grupo. Si elimina esta instância se borrarán tambien as instâncias compartidas em outros portales. Para ver em que portais se comparte o módulo, vá para Configuração &gt; Configuração do módulo &gt; Agregado a as páginas. Está seguro que quer continuar e eliminar este módulo e todas as instâncias compartidas?</value>
   </data>
   <data name="DeletetUser.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este usuario?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este usuario?</value>
   </data>
   <data name="DeleteUploadFolder.Error">
     <value xml:space="preserve">Error eliminando pasta previamente cargada</value>
   </data>
   <data name="DeLocalizeModule.Confirm">
-    <value xml:space="preserve">¿Está seguro que quiere desfazer a tradução deste módulo?</value>
+    <value xml:space="preserve">Está seguro que quiere desfazer a tradução deste módulo?</value>
   </data>
   <data name="DiskSpaceExceeded.Text">
     <value xml:space="preserve">O arquivo {0} excede a cantidade de espaço em disco disponível actualmente. Póngase em contato com su provedor para solicitar um  aumento de espaço em disco de su sitio web.</value>
@@ -607,7 +607,7 @@
     <value xml:space="preserve">Falso</value>
   </data>
   <data name="FILE_CreateBackup.Text">
-    <value xml:space="preserve">Creando copia de seguridade de a versão anterior</value>
+    <value xml:space="preserve">Creando cópia de seguridade da versão anterior</value>
   </data>
   <data name="FILE_Created.Text">
     <value xml:space="preserve">Creado </value>
@@ -631,7 +631,7 @@
     <value xml:space="preserve">O arquivo {0} fue leído corretamente</value>
   </data>
   <data name="FILE_RestoreBackup.Text">
-    <value xml:space="preserve">Restaurar copia de versão anterior - {0}</value>
+    <value xml:space="preserve">Restaurar cópia de versão anterior - {0}</value>
   </data>
   <data name="FileAccess.Error">
     <value xml:space="preserve">Não tem as permissões necessários para acceder a este Arquivo.</value>
@@ -682,7 +682,7 @@
     <value xml:space="preserve">&lt;div class="invalidFiles"&gt;&lt;p&gt;[COUNT] de [TOTAL] Arquivos não foin extraído porqué os tipos de Arquivo não están permitidos não portal:&lt;/p&gt;[FILELIST]&lt;/div&gt;</value>
   </data>
   <data name="FileUpload.UnzipFilePromptTitle.Text">
-    <value xml:space="preserve">Informação de a extração</value>
+    <value xml:space="preserve">Informação da extração</value>
   </data>
   <data name="FileUpload.UnzipFileSuccessPromptBody.Text" lastModified="2018-03-24 02:39:03">
     <value xml:space="preserve">&lt;div class="validFiles"&gt;&lt;p&gt;[TOTAL] de [TOTAL] Arquivos foin extraído corretamente.&lt;/p&gt;&lt;/div&gt;</value>
@@ -820,7 +820,7 @@
     <value xml:space="preserve">Instalação finalizada</value>
   </data>
   <data name="INSTALL_Compatibility.Text">
-    <value xml:space="preserve">Instalação cancelada - O módulo não é compatible com esta versão de DotNetNuke. Se require uma actualizació a versão {0}.</value>
+    <value xml:space="preserve">Instalação cancelada - O módulo não é compatível com esta versão de DotNetNuke. Se require uma actualizació a versão {0}.</value>
   </data>
   <data name="INSTALL_Dependencies.Text">
     <value xml:space="preserve">Instalação cancelada - O módulo requiere componentes adicionales que não están disponívels em su sistema.</value>
@@ -949,7 +949,7 @@
     <value xml:space="preserve">Traduzido</value>
   </data>
   <data name="LocalizeModule.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea traducir este módulo?</value>
+    <value xml:space="preserve">Está seguro que quer traducir este módulo?</value>
   </data>
   <data name="Location.Text">
     <value xml:space="preserve">Informação de localização</value>
@@ -1120,7 +1120,7 @@
     <value xml:space="preserve">Página de sistema {0} eliminada.</value>
   </data>
   <data name="MODULE_InvalidVersion.Text">
-    <value xml:space="preserve">A version {0} não é correta - não se añade a lista de versiones a atualizar</value>
+    <value xml:space="preserve">A version {0} não é correta - não se añade a lista de versões a atualizar</value>
   </data>
   <data name="MODULE_ReadSuccess.Text">
     <value xml:space="preserve">Manifiesto do módulo leído satisfactoriamente</value>
@@ -1132,7 +1132,7 @@
     <value xml:space="preserve">Módulo desregistrado satisfactoriamente - {0}</value>
   </data>
   <data name="ModuleAccess.Error">
-    <value xml:space="preserve">Não tem acceso para ver este módulo do portal.</value>
+    <value xml:space="preserve">Não tem Acesso para ver este módulo do portal.</value>
   </data>
   <data name="ModuleAdd.Error">
     <value xml:space="preserve">Error inesperado ao adicionar o módulo a {0}</value>
@@ -1153,7 +1153,7 @@
     <value xml:space="preserve">Advertencia na carga do módulo</value>
   </data>
   <data name="ModuleLoadWarning.Text">
-    <value xml:space="preserve">Uno o varios módulos nesta página não han podido ser cargados. Isto pode ser um fallo temporal. Actualize a página (pulse a tecla F5) e si o problema continua notifíquelo ao &lt;a href="mailto:{0}"&gt;administrador do portal&lt;/a&gt;.</value>
+    <value xml:space="preserve">Uno o varios módulos nesta página não han podido ser cargados. Isto pode ser um fallo temporal. Actualize a página (pulse a tecla F5) e se o problema continua notifíquelo ao &lt;a href="mailto:{0}"&gt;administrador do portal&lt;/a&gt;.</value>
   </data>
   <data name="ModuleNotIntended.Text">
     <value xml:space="preserve">Este módulo somente se pode utilizar em uma página configurada como a página de perfil do portal.</value>
@@ -1164,8 +1164,8 @@
   <data name="ModuleUnavailable.Text">
     <value xml:space="preserve">Erro: {0} não está disponível ahora.</value>
   </data>
-  <data name="ModuleVisibleAdministrator.Text">
-    <value xml:space="preserve">Visible somente para administradores</value>
+  <data name="ModuleVisívelAdministrator.Text">
+    <value xml:space="preserve">Visível somente para administradores</value>
   </data>
   <data name="Month.Text">
     <value xml:space="preserve">Mes</value>
@@ -1225,10 +1225,10 @@
     <value xml:space="preserve">Activar</value>
   </data>
   <data name="OAuthConfigBase_HostConfig.Help" lastModified="2020-05-08 20:21:48">
-    <value xml:space="preserve">Marque esta opção para guardar a configuração a nivel de sistema de forma que todos os portais web de a instalação compartan a mesma configuração para este provedor de autenticação.</value>
+    <value xml:space="preserve">Marque esta opção para guardar a configuração a nivel de sistema de forma que todos os portais web da instalação compartan a mesma configuração para este provedor de autenticação.</value>
   </data>
   <data name="OAuthConfigBase_HostConfig.Text" lastModified="2020-05-08 20:21:48">
-    <value xml:space="preserve">¿Utilizar configuração de sistema?</value>
+    <value xml:space="preserve">Utilizar configuração de sistema?</value>
   </data>
   <data name="OAuthConfigBase_LoginURL.Help">
     <value xml:space="preserve">Introduzca a URL da página de identificação de su web.</value>
@@ -1252,13 +1252,13 @@
     <value xml:space="preserve">Conectado</value>
   </data>
   <data name="PACKAGE_NoLicense.Text">
-    <value xml:space="preserve">O arquivo de instalação não contém informação de a licencia. Verifique com o vendedor os detalles de a licencia.</value>
+    <value xml:space="preserve">O arquivo de instalação não contém informação da licencia. Verifique com o vendedor os detalles da licencia.</value>
   </data>
   <data name="PACKAGE_NoReleaseNotes.Text">
-    <value xml:space="preserve">Este paquete não tem notas de a versão</value>
+    <value xml:space="preserve">Este paquete não tem notas da versão</value>
   </data>
   <data name="PACKAGE_UnRecognizable.Text">
-    <value xml:space="preserve">Paquete de manifiesto irreconocible</value>
+    <value xml:space="preserve">Paquete de manifiesto irreconocível</value>
   </data>
   <data name="PackageLoad.Error">
     <value xml:space="preserve">Error ao cargar Arquivo de atributos do paquete: ({0})</value>
@@ -1273,7 +1273,7 @@
     <value xml:space="preserve">Página desactivada</value>
   </data>
   <data name="PageDisabled.Text">
-    <value xml:space="preserve">A página está desactivada e somente é visible para os usuarios com permiso de edição.</value>
+    <value xml:space="preserve">A página está desactivada e somente é visível para os usuarios com permiso de edição.</value>
   </data>
   <data name="Pages.Text">
     <value xml:space="preserve">Página {0} de {1}</value>
@@ -1336,7 +1336,7 @@
     <value xml:space="preserve">Rol</value>
   </data>
   <data name="PermissionTypeDeny.Text">
-    <value xml:space="preserve">Permiso denegado</value>
+    <value xml:space="preserve">Permiso negado</value>
   </data>
   <data name="PermissionTypeGrant.Text">
     <value xml:space="preserve">Permiso concedido</value>
@@ -1360,10 +1360,10 @@
     <value xml:space="preserve">Anterior</value>
   </data>
   <data name="PrivateConfirmationMessage.Text" lastModified="2017-04-28 07:20:21">
-    <value xml:space="preserve">&lt;strong&gt;foi enviadao um email com os detalles de su registro ao administrador de a web para su verificação. uma vez que su registro haya sido aprobado se le enviará um email a su direção. Mientras tanto pode continuar navegado pelo sitio.&lt;/strong&gt;</value>
+    <value xml:space="preserve">&lt;strong&gt;foi enviadao um email com os detalles de su registro ao administrador da web para su verificação. uma vez que su registro haya sido aprobado se le enviará um email a su direção. Mientras tanto pode continuar navegado pelo sitio.&lt;/strong&gt;</value>
   </data>
   <data name="PrivateMembership.Text">
-    <value xml:space="preserve">&lt;strong&gt;*Nota:&lt;/strong&gt; O registro em este sitio web é privado. uma vez que envíe su informação o Administrador le notificará si su petição foi sido autorizada. Si su petição se acepta recibirá um correo de notificação com os detalles de acceso ao sitio web.</value>
+    <value xml:space="preserve">&lt;strong&gt;*Nota:&lt;/strong&gt; O registro em este sitio web é privado. uma vez que envíe su informação o Administrador le notificará si su petição foi sido autorizada. Si su petição se acepta recibirá um correo de notificação com os detalles de Acesso ao sitio web.</value>
   </data>
   <data name="ProcessObject.Text">
     <value xml:space="preserve">Procesando objeto incrustado</value>
@@ -1381,7 +1381,7 @@
     <value xml:space="preserve">Público</value>
   </data>
   <data name="PublicMembership.Text">
-    <value xml:space="preserve">&lt;strong&gt;*Nota:&lt;/strong&gt; O registro em este sitio web é público. uma vez que envíe su informação de registro tendrá acceso ao sitio web.</value>
+    <value xml:space="preserve">&lt;strong&gt;*Nota:&lt;/strong&gt; O registro em este sitio web é público. uma vez que envíe su informação de registro tendrá Acesso ao sitio web.</value>
   </data>
   <data name="PURGE.Log">
     <value xml:space="preserve">O registro do portal foi sido vaciado satisfactoriamente</value>
@@ -1408,7 +1408,7 @@
     <value xml:space="preserve">Error </value>
   </data>
   <data name="RegError.Text">
-    <value xml:space="preserve">Foi ocurrido um error inesperado durante o proceso de registro. Póngase em contato com o administrador de a web para más informação.</value>
+    <value xml:space="preserve">Foi ocurrido um error inesperado durante o proceso de registro. Póngase em contato com o administrador da web para más informação.</value>
   </data>
   <data name="Register.Text">
     <value xml:space="preserve">Preferências do usuário</value>
@@ -1432,22 +1432,22 @@
     <value xml:space="preserve">Rechazar o registro do usuário. O usuário se eliminará.</value>
   </data>
   <data name="RemoveItem.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este elemento?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este elemento?</value>
   </data>
   <data name="RemoveItems.Confirm">
-    <value xml:space="preserve">¿Está seguro que desea eliminar estos elementos?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar estos elementos?</value>
   </data>
   <data name="Required.Text">
     <value xml:space="preserve">Todos os campos marcados em rojo son obrigatórios.</value>
   </data>
   <data name="RequiredFields.Text">
-    <value xml:space="preserve">Indica os campos obrigatórios</value>
+    <value xml:space="preserve">Mostra os campos obrigatórios</value>
   </data>
   <data name="ResourceNotFound.Text">
     <value xml:space="preserve">Recurso não encontrado</value>
   </data>
   <data name="RestrictedFileType.Text">
-    <value xml:space="preserve">O arquivo {0} não é de um tipo permitido. As extensiones permitidas incluyen: {1}. Póngase em contato com su provedor de alojamiento si necessita subir um tipo de Arquivo não permitido actualmente.</value>
+    <value xml:space="preserve">O arquivo {0} não é de um tipo permitido. As extensões permitidas incluyen: {1}. Póngase em contato com su provedor de alojamiento si necessita subir um tipo de Arquivo não permitido actualmente.</value>
   </data>
   <data name="RestrictFileMail_Body.Text" lastModified="2018-03-24 00:35:54">
     <value xml:space="preserve">&lt;p&gt;Apreciado administrador,&lt;/p&gt;
@@ -1485,7 +1485,7 @@
     <value xml:space="preserve">Foi ocurrido um error ao intentar guardar o arquivo {0}. Póngase em contato com su provedor para verificar que a configuração de seguridade do servidor é a correta</value>
   </data>
   <data name="ScriptCollision.Text">
-    <value xml:space="preserve">Esta página include más de uma petição a diferentes versiones de uma libreria JavaScript. Pode ver más detalles não visor de eventos.</value>
+    <value xml:space="preserve">Esta página include más de uma petição a diferentes versões de uma libreria JavaScript. Pode ver más detalles não visor de eventos.</value>
   </data>
   <data name="Search.Text" lastModified="2017-04-28 05:19:32">
     <value xml:space="preserve">Buscar</value>
@@ -1503,7 +1503,7 @@
     <value xml:space="preserve">Hace {0} segundos</value>
   </data>
   <data name="SECURITY_Installer.Text">
-    <value xml:space="preserve">Não tem acceso para instalar este componente</value>
+    <value xml:space="preserve">Não tem Acesso para instalar este componente</value>
   </data>
   <data name="SECURITY_NotRegistered.Text">
     <value xml:space="preserve">O tipo de paquete não está registrado</value>
@@ -1593,7 +1593,7 @@
     <value xml:space="preserve">Fin desinstalação SQL</value>
   </data>
   <data name="SQL_Exceptions.Text">
-    <value xml:space="preserve">Como resultado de a ejecução SQL, surgieron as seguintes excepções: {0}{1}</value>
+    <value xml:space="preserve">Como resultado da ejecução SQL, surgieron as seguintes excepções: {0}{1}</value>
   </data>
   <data name="SQL_Executing.Text">
     <value xml:space="preserve">Ejecutando</value>
@@ -1638,7 +1638,7 @@
     <value xml:space="preserve">Predeterminado do sistema</value>
   </data>
   <data name="TabAccess.Error">
-    <value xml:space="preserve">Não tem acceso para ver esta página do portal.</value>
+    <value xml:space="preserve">Não tem Acesso para ver esta página do portal.</value>
   </data>
   <data name="TESTCOMPLETE.Log">
     <value xml:space="preserve">Prueba realizada. Se esperó durante {0} milisegundos.</value>
@@ -1665,7 +1665,7 @@
     <value xml:space="preserve">Propriedade desconocida</value>
   </data>
   <data name="TranslateModule.Confirm">
-    <value xml:space="preserve">¿Está seguro que quiere marcar este módulo como traduzido?</value>
+    <value xml:space="preserve">Está seguro que quiere marcar este módulo como traduzido?</value>
   </data>
   <data name="True.Text">
     <value xml:space="preserve">Verdadero</value>
@@ -1701,10 +1701,10 @@
     <value xml:space="preserve">Desconocido</value>
   </data>
   <data name="UnregisterUser.Text">
-    <value xml:space="preserve">¿Estás seguro que desea anular su registro? Esta ação eliminará su conta do usuário.</value>
+    <value xml:space="preserve">Estás seguro que quer anular su registro? Esta ação eliminará su conta do usuário.</value>
   </data>
   <data name="UnTranslateModule.Confirm">
-    <value xml:space="preserve">¿Está seguro que quiere marcar este módulo como não traduzido?</value>
+    <value xml:space="preserve">Está seguro que quiere marcar este módulo como não traduzido?</value>
   </data>
   <data name="UnverifiedUser.Text" lastModified="2020-05-09 04:28:24">
     <value xml:space="preserve">Está utilizando uma conta sin verificar. Tem que verificar su conta pulsando o enlace que le hemos enviado não email de verificação. Pulse &lt;a href="#" class="send-verification-mail"&gt;aquí&lt;/a&gt; para reenviar o email de verificação.</value>
@@ -1749,7 +1749,7 @@
     <value xml:space="preserve">Já existe um usuario com este mesmo nome. Regístrese novamente utilizando outro nome.</value>
   </data>
   <data name="UserRejected.Text">
-    <value xml:space="preserve">O registro do usuário foi sido rechazado. Póngase em contato com o administrador de a web para obtener más informação.</value>
+    <value xml:space="preserve">O registro do usuário foi sido rechazado. Póngase em contato com o administrador da web para obtener más informação.</value>
   </data>
   <data name="VerificationMailSendSuccessful.Text" lastModified="2020-05-08 20:21:48">
     <value xml:space="preserve">Email de verificação enviado corretamente.</value>

@@ -77,7 +77,7 @@
     &lt;h1&gt;Error de configuraci&amp;oacute;n de DotNetNuke&lt;/h1&gt;
     {0}&lt;br /&gt;
     &lt;br /&gt;
-    Há um error de configuraci&amp;oacute;n de seguridade em su instalaci&amp;oacute;n (probablemente a causa de as permissões). DNN inclui opções de carga de conteúdos, m&amp;oacute;dulos e temas. Estas funções requirem uma configuraci&amp;oacute;n de seguridade espec&amp;iacute;fica para que a aplicaci&amp;oacute;n pueda criar e borrar Arquivos em su web.
+    Há um error de configuraci&amp;oacute;n de seguridade em su instalaci&amp;oacute;n (probablemente a causa das permissões). DNN inclui opções de carga de conteúdos, m&amp;oacute;dulos e temas. Estas funções requirem uma configuraci&amp;oacute;n de seguridade espec&amp;iacute;fica para que a aplicaci&amp;oacute;n pueda criar e borrar Arquivos em su web.
     &lt;br /&gt;
     &lt;br /&gt;
     Com o explorador de Arquivos de Windows, vá para pasta ra&amp;iacute;z de su web (C:\DotNetNuke por omisi&amp;oacute;n). Pulse o bot&amp;oacute;n derecho sobre a pasta e vá para Propriedadees. Selecione a pesta&amp;ntilde;a de Seguridade e a&amp;ntilde;ada as permissões para o usuário que corresponde ao Grupo de Aplicações selecionado para a web.
@@ -99,14 +99,14 @@
             &lt;/ol&gt;
         &lt;/li&gt;
     &lt;/ul&gt;
-    &lt;img src="images/403-3.gif" alt="Imagem que muestra a configuraci&amp;oacute;n de seguridade de a pasta ra&amp;iacute;z de a web. Asigne as permissões de Lectura, Escritura e Modificaci&amp;oacute;n a conta." /&gt;
+    &lt;img src="images/403-3.gif" alt="Imagem que muestra a configuraci&amp;oacute;n de seguridade da pasta ra&amp;iacute;z da web. Asigne as permissões de Lectura, Escritura e Modificaci&amp;oacute;n a conta." /&gt;
 &lt;/div&gt;</value>
   </data>
   <data name="404.Error" lastModified="2020-05-09 04:09:26">
     <value xml:space="preserve">&lt;p style="height: 100%; width: 90%;"&gt;
     &lt;span style="color: red;"&gt;&lt;strong&gt;O dominio {0} não existe na base de datos&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
     &lt;br /&gt;
-        Este sistema soporta m&amp;uacute;ltiples portais em uma mesma instalaci&amp;oacute;n/base de datos. Isto se consigue traduciendo a URL do navegador a um registro v&amp;aacute;lido da tabela Portals de a base de datos. Os pasos seguintes describen o proceso:
+        Este sistema soporta m&amp;uacute;ltiples portais em uma mesma instalaci&amp;oacute;n/base de datos. Isto se consigue traduciendo a URL do navegador a um registro v&amp;aacute;lido da tabela Portals da base de datos. Os pasos seguintes describen o proceso:
     &lt;br /&gt;
     &lt;br /&gt;
 &lt;/p&gt;
@@ -114,7 +114,7 @@
     &lt;li&gt;
         &lt;strong&gt;Proceso não servidor web&lt;/strong&gt;&lt;br /&gt;
         &lt;ul style="list-style-type: disc;"&gt;
-            &lt;li&gt;Quando o servidor recibe uma petici&amp;oacute;n de um cliente a compara a extensi&amp;oacute;n do nome de Arquivo solicitado com as extensiones de aplicaci&amp;oacute;n mapeadas em IIS.&lt;/li&gt;
+            &lt;li&gt;Quando o servidor recibe uma petici&amp;oacute;n de um cliente a compara a extensi&amp;oacute;n do nome de Arquivo solicitado com as extensões de aplicaci&amp;oacute;n mapeadas em IIS.&lt;/li&gt;
             &lt;li&gt;Em base a as coincidencias encontradas, IIS envia a petici&amp;oacute;n ao ejecutable definido (aspnet_asapi.dll não caso de petições de ASP.NET).&lt;/li&gt;
             &lt;li&gt;O proceso aspnet_isapi.dll gestiona a petici&amp;oacute;n medieante um conjunto de eventos ordenados que empiezan com Application_BeginRequest.&lt;/li&gt;
         &lt;/ul&gt;
@@ -169,7 +169,7 @@
     <value xml:space="preserve">{0} quiere ser tu amigo</value>
   </data>
   <data name="ApplicationUpgrades.Text">
-    <value xml:space="preserve">Actualizações de a aplicação</value>
+    <value xml:space="preserve">Actualizações da aplicação</value>
   </data>
   <data name="AspNetHostingPermission.Text">
     <value xml:space="preserve">Esta extensión necessita o permiso "Full Trust"</value>
@@ -269,7 +269,7 @@ Gracias,
 Descripção: [Custom:1]
 Imagen: [Custom:2]
 CPM/Coste: [Custom:3]
-Impresiones: [Custom:4]
+Impresões: [Custom:4]
 Data inicio: [Custom:5]
 Data de expiração: [Custom:6]
 Vistas: [Custom:7]
@@ -615,7 +615,7 @@ Atentamente,
 
 Su web foi creado corretamente. Lea detenidamente a seguinte informação e asegúrese de conservar a buen recaudo este mensagem para futuras consultas.
 
-Direção de a web: [Portal:URL]
+Direção da web: [Portal:URL]
 Usuario: [Membership:UserName]
 Código de verificação: [User:VerificationCode]
 
@@ -640,7 +640,7 @@ Atentamente,
   <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
-Su conta do usuário em [Portal:PortalName] foi sido actualizada para incluir o acceso ao seguinte rol de seguridade:
+Su conta do usuário em [Portal:PortalName] foi sido actualizada para incluir o Acesso ao seguinte rol de seguridade:
 
 Rol: [Custom:0]
 Descripção: [Custom:1]
@@ -657,7 +657,7 @@ Atentamente,
   <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
-Su conta do usuário em [Portal:PortalName] foi sido actualizada para restringir o acceso ao seguinte rol de seguridade:
+Su conta do usuário em [Portal:PortalName] foi sido actualizada para restringir o Acesso ao seguinte rol de seguridade:
 
 Rol: [Custom:0]
 Descripção: [Custom:1]
@@ -672,7 +672,7 @@ Atentamente,
   <data name="EMAIL_ROLE_UPDATE_BODY.Text">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
-Su conta do usuário em [Portal:PortalName] foi sido actualizada para modificar o acceso ao seguinte rol de seguridade:
+Su conta do usuário em [Portal:PortalName] foi sido actualizada para modificar o Acesso ao seguinte rol de seguridade:
 
 Rol: [Custom:0]
 Descripção: [Custom:1]
@@ -703,7 +703,7 @@ Atentamente,
 
 Gracias por registrarse em [Portal:PortalName]. Su registro foi sido aprobado e su conta foi activado.
 
-Direção de a web: [Portal:URL]
+Direção da web: [Portal:URL]
 Usuario: [User:UserName]
 
 Atentamente,
@@ -736,7 +736,7 @@ Email: [User:Email]
 
 Gracias por registrarse em [Portal:PortalName]. Lea detenidamente a seguinte informação e asegúrese de conservar a buen recaudo este mensagem para futuras consultas.
 
-Direção de a web: [Portal:URL]
+Direção da web: [Portal:URL]
 Usuario: [User:UserName]
 
 Os detalles de su conta serán revisadados pelo Administrador do portal e recibirá uma notificação quando se ative su conta.
@@ -753,7 +753,7 @@ Atentamente,
 
 Le comunicamos que foi sido añadido como usuario em  [Portal:PortalName]. Lea detenidamente a seguinte informação e asegúrese de conservar a buen recaudo este mensagem para futuras consultas.
 
-Direção de a web: [Portal:URL]
+Direção da web: [Portal:URL]
 Usuario: [User:UserName]
 
 Atentamente,
@@ -768,7 +768,7 @@ Atentamente,
 
 Le comunicamos que foi sido añadido como usuario registrado em [Portal:PortalName]. Lea detenidamente a seguinte informação e asegúrese de conservar a buen recaudo este mensagem para futuras consultas.
 
-Direção de a web: [Portal:URL]
+Direção da web: [Portal:URL]
 Usuario: [User:UserName]
 
 Pode utilizar o seguinte enlace para verificar su conta:
@@ -786,7 +786,7 @@ Atentamente,
 
 Su conta em [Portal:PortalName] foi sido desautorizada.
 
-Direção de a web: [Portal:URL]
+Direção da web: [Portal:URL]
 Usuario: [User:UserName]
 
 Si tem alguna consulta, póngase em contato com o administrador em [Portal:Email
@@ -821,7 +821,7 @@ Su contrasenha em [Portal:PortalName] foi cambiado.
 
 Pode iniciar a sesión utilizando a seguinte informação:
 
-Direção de a web: [Portal:URL]
+Direção da web: [Portal:URL]
 Usuario:   [User:Username]
 
 Atentamente,
@@ -942,7 +942,7 @@ SOFTWARE.&lt;/p&gt;</value>
         does not read any of your private online communications.&lt;/p&gt;
         &lt;p&gt;[Portal:PortalName] encourages you to review the privacy statements of Web sites
         you choose to link to from [Portal:PortalName] so that you can understand how those
-        Web sites collect, use and share your information. [Portal:PortalName] is not responsible
+        Web sites collect, use and share your information. [Portal:PortalName] is not responsível
         for the privacy statements or other content on Web sites outside of the [Portal:PortalName]
         and [Portal:PortalName] family of Web sites.&lt;/p&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;Use of your Personal Information&lt;/span&gt;&lt;/p&gt;
@@ -1029,9 +1029,9 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         &lt;p&gt;&lt;span class="SubHead"&gt;LINKS TO THIRD PARTY SITES&lt;/span&gt;&lt;/p&gt;
         &lt;p&gt;The [Portal:PortalName] Web Site may contain links to other Web Sites ("Linked Sites").
         The Linked Sites are not under the controle of [Portal:PortalName] and [Portal:PortalName]
-        is not responsible for the contents of any Linked Site, including without limitation
+        is not responsível for the contents of any Linked Site, including without limitation
         any link contained in a Linked Site, or any changes or updates to a Linked Site.
-        [Portal:PortalName] is not responsible for webcasting or any other form of transmission
+        [Portal:PortalName] is not responsível for webcasting or any other form of transmission
         received from any Linked Site. [Portal:PortalName] is providing these links to you
         only as a convenience, and the inclusion of any link does not imply endorsement
         by [Portal:PortalName] of the site or any association with its operators.&lt;/p&gt;
@@ -1093,7 +1093,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         in any Communication Service. Managers and hosts are not authorized [Portal:PortalName]
         spokespersons, and their views do not necessarily reflect those of [Portal:PortalName].&lt;/p&gt;
         &lt;p&gt;Materials uploaded to a Communication Service may be subject to posted limitations
-        on usage, reproduction and/or dissemination. You are responsible for adhering to
+        on usage, reproduction and/or dissemination. You are responsível for adhering to
         such limitations if you download the materials.&lt;/p&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;MATERIALS PROVIDED TO [Portal:PortalName] OR POSTED AT ANY [Portal:PortalName]
             WEB SITE&lt;/span&gt;&lt;/p&gt;
@@ -1175,7 +1175,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         Web Site and it supersedes all prior or contemporaneous communications and proposals,
         whether electronic, oral or written, between the user and [Portal:PortalName] with
         respect to the [Portal:PortalName] Web Site. A printed version of this agreement
-        and of any notice given in electronic form shall be admissible in judicial or administrative
+        and of any notice given in electronic form shall be admissível in judicial or administrative
         proceedings based upon or relating to this agreement to the same extent an d subject
         to the same conditions as other business documents and records originally generated
         and maintained in printed form. It is the express wish to the parties that this
@@ -1295,7 +1295,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value xml:space="preserve">Configuração de indexação</value>
   </data>
   <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-03-16 14:34:37">
-    <value xml:space="preserve">O sitio foi recibido petições de acceso mientras a instação/actualização estaba em proceso.</value>
+    <value xml:space="preserve">O sitio foi recibido petições de Acesso mientras a instação/actualização estaba em proceso.</value>
   </data>
   <data name="SkinLoadError.Text">
     <value xml:space="preserve">Não se pudo cargar o tema: {0},  Erro: {1}&lt;br/&gt;</value>
@@ -1307,13 +1307,13 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value xml:space="preserve">Há uma instalação em proceso. Vuelva a intentarlo em unos minutos.</value>
   </data>
   <data name="TokenReplaceRestrictedProperty.Text">
-    <value xml:space="preserve">Error de acceso [{0}:{1}], o acceso a {1} está restringido para a fonte de datos {0}.</value>
+    <value xml:space="preserve">Error de Acesso [{0}:{1}], o Acesso a {1} está restringido para a fonte de datos {0}.</value>
   </data>
   <data name="TokenReplaceUnknownObject.Text">
-    <value xml:space="preserve">Error de acceso [{0}:{1}], {0} é um token desconocido de origen de objeto.</value>
+    <value xml:space="preserve">Error de Acesso [{0}:{1}], {0} é um token desconocido de origen de objeto.</value>
   </data>
   <data name="TokenReplaceUnknownProperty.Text">
-    <value xml:space="preserve">Error de acceso [{0}:{1}], {1} é desconocido para a fonte de datos {0}.</value>
+    <value xml:space="preserve">Error de Acesso [{0}:{1}], {1} é desconocido para a fonte de datos {0}.</value>
   </data>
   <data name="TrackClicks.Text">
     <value xml:space="preserve">Rastrear o número de veces que se clica o enlace</value>

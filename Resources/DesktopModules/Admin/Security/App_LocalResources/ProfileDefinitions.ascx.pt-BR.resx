@@ -55,7 +55,7 @@
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="ProfilePropertiesHelp.Text">
-    <value xml:space="preserve">Pode mudar o orden de os campos do perfil e indicar cuales son obrigatórios o visibles nesta pantalla. Haga clic em "Aplicar cambios" para guardar cualquier cambio que haga. Para editar os detalles de cada propriedade do perfil haga clic não icone de lápiz na primera columna da tabela.</value>
+    <value xml:space="preserve">Pode mudar o orden dos campos do perfil e indicar cuales son obrigatórios o visívels nesta pantalla. Haga clic em "Aplicar cambios" para guardar cualquier cambio que haga. Para editar os detalles de cada propriedade do perfil haga clic não icone de lápiz na primera columna da tabela.</value>
   </data>
   <data name="Required.Header">
     <value xml:space="preserve">Obrigatório</value>
@@ -63,7 +63,7 @@
   <data name="ValidationExpression.Header">
     <value xml:space="preserve">Expresión de validação</value>
   </data>
-  <data name="Visible.Header">
-    <value xml:space="preserve">Visible </value>
+  <data name="Visível.Header">
+    <value xml:space="preserve">Visível </value>
   </data>
 </root>

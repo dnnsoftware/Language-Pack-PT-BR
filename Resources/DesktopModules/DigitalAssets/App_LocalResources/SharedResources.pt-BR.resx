@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CopyToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Copiar</value>
+    <value xml:space="preserve">Cópiar</value>
   </data>
   <data name="CopyToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Copiar</value>
+    <value xml:space="preserve">Cópiar</value>
   </data>
   <data name="CreateFolderToolBarButtonExtensionPoint.AltText">
     <value xml:space="preserve">criar nova pasta</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">O nome contém caracteres inválidos. Introduzca um nome sin {0}</value>
   </data>
   <data name="FolderNameRequired.ErrorMessage">
-    <value xml:space="preserve">Tem que entrar o nome de a pasta</value>
+    <value xml:space="preserve">Tem que entrar o nome da pasta</value>
   </data>
   <data name="GetUrlToolBarButtonExtensionPoint.AltText">
     <value xml:space="preserve">Obtener URL</value>
@@ -106,7 +106,7 @@
     <value xml:space="preserve">A asignação de pasta não pode ser uma ruta absoluta</value>
   </data>
   <data name="MoveNotAllowedBetweenFolderTypes.Error">
-    <value xml:space="preserve">Não pode ser movida entre pastas de os tipos seleccionados</value>
+    <value xml:space="preserve">Não pode ser movida entre pastas dos tipos seleccionados</value>
   </data>
   <data name="MoveToolBarButtonExtensionPoint.AltText">
     <value xml:space="preserve">Mover</value>
@@ -184,7 +184,7 @@
     <value xml:space="preserve">O usuário não tem permissões para explorar esta pasta</value>
   </data>
   <data name="UserHasNoPermissionToCopyFolder.Error">
-    <value xml:space="preserve">O usuário não tem permissões para copiar de esta pasta</value>
+    <value xml:space="preserve">O usuário não tem permissões para cópiar de esta pasta</value>
   </data>
   <data name="UserHasNoPermissionToDeleteFiles.Error">
     <value xml:space="preserve">O usuário não tem permissões para borrar Arquivos de esta pasta</value>
@@ -214,10 +214,10 @@
     <value xml:space="preserve">Ver propriedadees</value>
   </data>
   <data name="ViewPropertiesToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Ver propriedadees de a pasta</value>
+    <value xml:space="preserve">Ver propriedadees da pasta</value>
   </data>
   <data name="ViewPropertiesToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Ver propriedadees de a pasta</value>
+    <value xml:space="preserve">Ver propriedadees da pasta</value>
   </data>
   <data name="ZoomImage.AltText">
     <value xml:space="preserve">Abrir em uma nova pestaña</value>

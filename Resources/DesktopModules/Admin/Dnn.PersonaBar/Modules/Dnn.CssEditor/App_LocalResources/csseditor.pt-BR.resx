@@ -17,7 +17,7 @@
     <value xml:space="preserve">Não</value>
   </data>
   <data name="ConfirmRestore.Text">
-    <value xml:space="preserve">¿Está seguro que desea restaurar a hoja de estilos predeterminada? Todos os cambios realizados se perderán.</value>
+    <value xml:space="preserve">Está seguro que quer restaurar a hoja de estilos predeterminada? Todos os cambios realizados se perderán.</value>
   </data>
   <data name="nav_CssEditor.Text">
     <value xml:space="preserve">Personalizar CSS</value>

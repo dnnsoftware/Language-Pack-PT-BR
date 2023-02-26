@@ -41,23 +41,23 @@
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;O arquivo de licencia '{1}' não foi podido guardar em a pasta bin de esta web '{2}'. Cree um arquivo de texto com extensión '.lic', copie a clave de licencia em o arquivo e guárdelo em a pasta bin.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationFailureGenericHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;foi producido um error ao activar a licencia. Póngase em &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;contato com nosoutros&lt;/a&gt; com más informação sobre su web para poder ayudarle an a activação de a licencia.&lt;/p&gt;&lt;/div&gt;</value>
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;foi producido um error ao activar a licencia. Póngase em &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;contato com nosoutros&lt;/a&gt; com más informação sobre su web para poder ayudarle an a activação da licencia.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationFailureHttpHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Não foi podido acceder a web de validação de licencias de 51Degrees.mobi em '{1}'. Poder ser debido a uma de as seguintes razones:&lt;/p&gt;
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Não foi podido acceder a web de validação de licencias de 51Degrees.mobi em '{1}'. Poder ser debido a uma das seguintes razones:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 A web se está ejecutando não modo "Medium Trust" e o atributo 
 &lt;a href="http://msdn.microsoft.com/em-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;originUrl&lt;/a&gt; 
-em o arquivo web.config não permite o acceso a '{1}'. Modifique originUrl para incluir '{1}'. Pode incluir múltiples servidores separados pelo símbolo '|'.&lt;/li&gt;
+em o arquivo web.config não permite o Acesso a '{1}'. Modifique originUrl para incluir '{1}'. Pode incluir múltiples servidores separados pelo símbolo '|'.&lt;/li&gt;
 &lt;li&gt;
-O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servidor o ao puerto SSL 443. Verifique a configuração do cortafuegos.
+O cortafuegos do servidor o outro cortafuegos está bloqueando o Acesso ao servidor o ao puerto SSL 443. Verifique a configuração do cortafuegos.
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Quando haya comprobado estos puntos vuelva a intentar a activação de novo.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationFailureInvalidHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;A validação de a licencia falhou. Verifique com su proeedor que a licencia é válida.&lt;/p&gt;&lt;/div&gt;</value>
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;A validação da licencia falhou. Verifique com su proeedor que a licencia é válida.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationStreamFailureHtml.Text">
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Não se pode leer o origen de datos proporcionado.&lt;/p&gt;&lt;/div&gt;</value>
@@ -88,7 +88,7 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servi
   </data>
   <data name="DeviceBrowserUnavailable.Html" lastModified="2015-09-13 20:44:23">
     <value xml:space="preserve">&lt;p&gt;O conjunto de datos de dispositivo utilizado para a deteção não inclui suficiente informação sobre dispositivos com soporte para web, e pelo tanto a pestaña de exploração de dispositivos não está activa.&lt;/p&gt;
-&lt;p&gt;Os dispositivos disponívels nas versiones ampliadas de a deteção de dispositivos pode verse não portal web de 51Degrees.&lt;/p&gt;</value>
+&lt;p&gt;Os dispositivos disponívels nas versões ampliadas da deteção de dispositivos pode verse não portal web de 51Degrees.&lt;/p&gt;</value>
   </data>
   <data name="DeviceBrowserUnavailableButton.Action" lastModified="2015-09-13 20:44:23">
     <value xml:space="preserve">Explorar dispositivos</value>
@@ -116,10 +116,10 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servi
   </data>
   <data name="GetStartedDetail.Html" lastModified="2015-09-13 22:54:54">
     <value xml:space="preserve">&lt;h3&gt;Optimização de imágenes&lt;/h3&gt;
-&lt;p&gt;Garantiza que as imágenes se envían a os visitantes nas medidas exactas añadiendo parámetros nas URLs de as imágenes para devolver imágenes com as dimensiones específicas para o dispositivo. Por ejemplo; &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;&amp;lt;img src="Empty.gif" data-src="/image.png?w=auto"/&amp;gt;&lt;/span&gt; or &lt;a style="font-family: 'Courier New', Courier, monospace; font-weight: bold;" href="/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300" target="_blank"&gt;/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A imágenes com um tamaño maior que o tamaño de a pantalla do dispositvo se redimensionarán automáticamente antes de enviarlas.&lt;/p&gt;
+&lt;p&gt;Garantiza que as imágenes se envían a os visitantes nas medidas exactas añadiendo parámetros nas URLs das imágenes para devolver imágenes com as dimensões específicas para o dispositivo. Por ejemplo; &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;&amp;lt;img src="Empty.gif" data-src="/image.png?w=auto"/&amp;gt;&lt;/span&gt; or &lt;a style="font-family: 'Courier New', Courier, monospace; font-weight: bold;" href="/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300" target="_blank"&gt;/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A imágenes com um tamaño maior que o tamaño da pantalla do dispositvo se redimensionarán automáticamente antes de enviarlas.&lt;/p&gt;
 &lt;h3&gt;Deteção de dispositivos&lt;/h3&gt;
-&lt;h4&gt;Para administradores de a web&lt;/h4&gt;
+&lt;h4&gt;Para administradores da web&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Incluir conteúdo optimizado para navegadores de escritorio (p.ej. Flash o vídeos grandes)  nas mismas páginas com conteúdo para tabletas o móviles.&lt;/li&gt;
 &lt;li&gt;Utilizar "mega menús" para optimizar uma rápida navegação com ratón o teclado mientras se mantiene um menú adaptado para pantallas táctiles.&lt;/li&gt;
@@ -128,12 +128,12 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servi
 &lt;/ul&gt;
 &lt;h4&gt;Para desarrolladores&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Activar o desactivar conteúdo em função de reglas a nivel de servidor. Por ejemplo; &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;Request.Browser["IsTablet"]&lt;/span&gt; para indicar si o dispositivo é uma tableta.&lt;/li&gt;
+&lt;li&gt;Activar o desactivar conteúdo em função de reglas a nivel de servidor. Por ejemplo; &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;Request.Browser["IsTablet"]&lt;/span&gt; para indicar se o dispositivo é uma tableta.&lt;/li&gt;
 &lt;li&gt;Acceder a as capacidades do dispositivo desde JavaScript com &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;http://HOSTNAME/51Degrees.features.js&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</value>
   </data>
   <data name="GetStartedIntro.Html" lastModified="2015-09-14 01:05:22">
-    <value xml:space="preserve">&lt;p&gt;O diseño responsive em cliente implica enviar todo o conteúdo ao cliente e dejar que o navegador redimensione e ajuste o conteúdo. O provedor de funções de cliente de 51Degrees activa a opção de controlar o conteúdo não servidor, incluyendo o envío de imágenes diferentes, navegação e conteúdo diferente según dispositivo. Isto reduce o peso da página para dispositivos móviles e mejora o rendimiento, presenta um interfaz optimizado e mejora a experiencia do usuário.&lt;/p&gt;&lt;p&gt;Más do 85% de as mejores empresas utilizan deteção de dispositivos, incluyendo sectores de comercio electrónico, media, publicidade, finanzas e viajes. Vea o seguinte enlace para más casos de estudio e ideas.&lt;/p&gt;&lt;a href="https://51degrees.com/dnn" title="Find out more about device detection with DNN" class="dnnPrimaryAction" target="_blank"&gt;Ver más&lt;/a&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;O diseño responsive em cliente implica enviar todo o conteúdo ao cliente e dejar que o navegador redimensione e ajuste o conteúdo. O provedor de funções de cliente de 51Degrees activa a opção de controlar o conteúdo não servidor, incluyendo o envío de imágenes diferentes, navegação e conteúdo diferente según dispositivo. Isto reduce o peso da página para dispositivos móviles e mejora o rendimiento, presenta um interfaz optimizado e mejora a experiencia do usuário.&lt;/p&gt;&lt;p&gt;Más do 85% das mejores empresas utilizan deteção de dispositivos, incluyendo sectores de comercio electrónico, media, publicidade, finanzas e viajes. Vea o seguinte enlace para más casos de estudio e ideas.&lt;/p&gt;&lt;a href="https://51degrees.com/dnn" title="Find out more about device detection with DNN" class="dnnPrimaryAction" target="_blank"&gt;Ver más&lt;/a&gt;</value>
   </data>
   <data name="HardwareList.Header">
     <value xml:space="preserve">Hardware</value>
@@ -175,7 +175,7 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servi
     <value xml:space="preserve">Activar/desactivar a actualização automática do arquivo de datos de dispositivos. Quando está activo o sitio web se conectará com 51Degrees para baixar novos Arquivos de datos de dispositivos e aplicarlos automáticamente (sin reiniciar a web). É necessárion datos adicionales para esta opção.</value>
   </data>
   <data name="SettingsAutoUpdates.Text" lastModified="2015-09-14 03:10:57">
-    <value xml:space="preserve">¿Atualizar Arquivos automáticamente?</value>
+    <value xml:space="preserve">Atualizar Arquivos automáticamente?</value>
   </data>
   <data name="SettingsChangeError.Text" lastModified="2015-09-14 03:10:57">
     <value xml:space="preserve">Não foi podido mudar a configuração de deteção de dispositivos. Verifique que as permissões de modificação do arquivo 51Degrees.mobi.config son corretos e reinicie o grupo de aplicações.</value>
@@ -232,7 +232,7 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servi
     <value xml:space="preserve">Activar/desactivar deteção de dispositivos</value>
   </data>
   <data name="SettingsEnabled.Text" lastModified="2015-09-14 09:28:15">
-    <value xml:space="preserve">¿Activar deteção de dispositivos?</value>
+    <value xml:space="preserve">Activar deteção de dispositivos?</value>
   </data>
   <data name="SettingsFactory.Help" lastModified="2015-09-14 09:28:15">
     <value xml:space="preserve">Tipo de gestión de datos activo. "Stream" utiliza menos memoria mas é más lento. Em Memoria é más rápido mas utiliza más memoria.</value>
@@ -244,13 +244,13 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servi
     <value xml:space="preserve">O conjunto de datos se guarda não sistema de Arquivos. Porções pequeñas se cargan em memoria quando se require e se reduce o uso de memoria. Quando não está activo se utiliza o modo "em memoria" que carga todos os datos na memoria do servidor.</value>
   </data>
   <data name="SettingsFileMode.Text" lastModified="2015-09-14 09:28:15">
-    <value xml:space="preserve">¿Activar modo de Arquivo?</value>
+    <value xml:space="preserve">Activar modo de Arquivo?</value>
   </data>
   <data name="SettingsImageOptimiser.Help" lastModified="2015-09-14 09:28:15">
-    <value xml:space="preserve">Quando o optimizador de imágenes e a deteção de dispositivos están activos, DNN não enviará imágenes que sean maiores que os tamaños de pantalla de os dispositivos. Se podem adicionar parámetros a as URLs de as imágenes para redimensionarlas automáticamente para mejorar o rendimiento.</value>
+    <value xml:space="preserve">Quando o optimizador de imágenes e a deteção de dispositivos están activos, DNN não enviará imágenes que sean maiores que os tamaños de pantalla dos dispositivos. Se podem adicionar parámetros a as URLs das imágenes para redimensionarlas automáticamente para mejorar o rendimiento.</value>
   </data>
   <data name="SettingsImageOptimiser.Text" lastModified="2015-09-14 09:28:15">
-    <value xml:space="preserve">¿Activar optimização de imágenes?</value>
+    <value xml:space="preserve">Activar optimização de imágenes?</value>
   </data>
   <data name="SettingsManualUpload.Header" lastModified="2015-09-14 09:28:15">
     <value xml:space="preserve">Carga de datos de dispositivos</value>
@@ -265,7 +265,7 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o acceso ao servi
     <value xml:space="preserve">Activar/Desactivar o envío de datos de uso a 51Degrees.</value>
   </data>
   <data name="SettingsShareUsage.Text" lastModified="2015-09-14 09:28:15">
-    <value xml:space="preserve">¿Compartilhar uso de datos?</value>
+    <value xml:space="preserve">Compartilhar uso de datos?</value>
   </data>
   <data name="SettingsStats.Header" lastModified="2015-09-14 09:28:15">
     <value xml:space="preserve">Informação de datos de dispositivos</value>

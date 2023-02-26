@@ -28,7 +28,7 @@
     <value xml:space="preserve">Adicionar Arquivos</value>
   </data>
   <data name="AreYouSure.Text" lastModified="2015-12-27 09:49:09">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este Arquivo?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este Arquivo?</value>
   </data>
   <data name="BrowserModus.Image.Text" lastModified="2015-12-27 09:49:09">
     <value xml:space="preserve">Imagen</value>
@@ -148,7 +148,7 @@
     <value xml:space="preserve">Enlace de Arquivo</value>
   </data>
   <data name="FileSizeRestriction.Text" lastModified="2015-12-27 11:04:13">
-    <value xml:space="preserve">O límite de carga de Arquivos é {0} MB. &lt;br/&gt; As extensiones permitidas son: "{1}"</value>
+    <value xml:space="preserve">O límite de carga de Arquivos é {0} MB. &lt;br/&gt; As extensões permitidas son: "{1}"</value>
   </data>
   <data name="FileToBig.Text" lastModified="2015-12-27 11:04:13">
     <value xml:space="preserve">Arquivo demasiado grande.</value>
@@ -172,7 +172,7 @@
     <value xml:space="preserve">Imagen original (escalada ao tamaño de pantalla)</value>
   </data>
   <data name="imgResized.Text" lastModified="2015-12-27 11:04:13">
-    <value xml:space="preserve">Previsualização de a imagen redimensionada (escalada ao tamaño de pantalla)</value>
+    <value xml:space="preserve">Previsualização da imagen redimensionada (escalada ao tamaño de pantalla)</value>
   </data>
   <data name="LabelAnchor.Text" lastModified="2015-12-27 11:04:13">
     <value xml:space="preserve">Selecione um enlace da página:</value>
@@ -259,7 +259,7 @@
     <value xml:space="preserve">Nenhum</value>
   </data>
   <data name="OverrideFile.Text" lastModified="2015-12-27 11:04:13">
-    <value xml:space="preserve">¿Quiere sobreescribir o arquivo si já existe? Em outro caso, se criará um arquivo com o mesmo nome añadiendo "_1".</value>
+    <value xml:space="preserve">Quiere sobreescribir o arquivo si já existe? Em outro caso, se criará um arquivo com o mesmo nome añadiendo "_1".</value>
   </data>
   <data name="PageLink.Text" lastModified="2015-12-27 11:04:13">
     <value xml:space="preserve">Enlace de página</value>

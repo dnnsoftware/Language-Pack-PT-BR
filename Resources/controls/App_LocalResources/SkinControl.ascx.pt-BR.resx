@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Application.Text">
-    <value xml:space="preserve">Valor padrão de a aplicação</value>
+    <value xml:space="preserve">Valor padrão da aplicação</value>
   </data>
   <data name="Host.Text">
     <value xml:space="preserve">Sistema</value>

@@ -109,7 +109,7 @@
     <value xml:space="preserve">Ver o historial</value>
   </data>
   <data name="HistoryModalTitle.Text">
-    <value xml:space="preserve">Historial de a tarea:</value>
+    <value xml:space="preserve">Historial da tarea:</value>
   </data>
   <data name="Hour.Text">
     <value xml:space="preserve">Hora</value>
@@ -124,7 +124,7 @@
     <value xml:space="preserve">hora</value>
   </data>
   <data name="InvalidFrequencyAndRetry.Text">
-    <value xml:space="preserve">Os valores de frecuencia e reintentos não son corretos. O valor de a frecuencia tem que ser superior ao de os reintentos.</value>
+    <value xml:space="preserve">Os valores de frecuencia e reintentos não son corretos. O valor da frecuencia tem que ser superior ao dos reintentos.</value>
   </data>
   <data name="lblAtiveThreadsLabel.Text">
     <value xml:space="preserve">Hilos activos:</value>
@@ -241,13 +241,13 @@
     <value xml:space="preserve">Activar</value>
   </data>
   <data name="plFriendlyName.Help">
-    <value xml:space="preserve">Introduzca o nome de a tarea programada.</value>
+    <value xml:space="preserve">Introduzca o nome da tarea programada.</value>
   </data>
   <data name="plFriendlyName.Text">
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="plObjectDependencies.Help">
-    <value xml:space="preserve">Escriba as tablas u objetos de os cuales depende este evento. Ejemplo: "SiteLog,Users,UsersOnline"</value>
+    <value xml:space="preserve">Escriba as tablas u objetos dos cuales depende este evento. Ejemplo: "SiteLog,Users,UsersOnline"</value>
   </data>
   <data name="plObjectDependencies.Text">
     <value xml:space="preserve">Dependencias de objetos</value>
@@ -277,10 +277,10 @@
     <value xml:space="preserve">Modo do programador:</value>
   </data>
   <data name="plScheduleStartDate.Help">
-    <value xml:space="preserve">Introduzca a data/hora de inicio de a tarea. Atenção: Si o servidor não está activo em este momento o há outras tareas ejecutándose, esta tarea se ejecutará tan pronto como o servidor esté disponível de novo.</value>
+    <value xml:space="preserve">Introduzca a data/hora de inicio da tarea. Atenção: Se o servidor não está activo em este momento o há outras tareas ejecutándose, esta tarea se ejecutará tan pronto como o servidor esté disponível de novo.</value>
   </data>
   <data name="plScheduleStartDate.Text">
-    <value xml:space="preserve">Data e hora de inicio de a tarea.</value>
+    <value xml:space="preserve">Data e hora de inicio da tarea.</value>
   </data>
   <data name="plServers.Help">
     <value xml:space="preserve">Filtre as tareas según o servidor o Todas para ver todas as tareas.</value>
@@ -304,7 +304,7 @@
     <value xml:space="preserve">Em proceso...</value>
   </data>
   <data name="Prompt_FetchTaskFailed.Text" lastModified="2018-03-24 13:11:45">
-    <value xml:space="preserve">Não foin podido obtener os detalles de a tarea. Consulte o registro de eventos para ver más detalles.</value>
+    <value xml:space="preserve">Não foin podido obtener os detalles da tarea. Consulte o registro de eventos para ver más detalles.</value>
   </data>
   <data name="Prompt_FlagCantBeEmpty.Text" lastModified="2018-03-25 00:28:13">
     <value xml:space="preserve">Si se inclui, a opção --{0} não pode ser vazia.\n</value>
@@ -322,7 +322,7 @@
     <value xml:space="preserve">Obtiene os detalles de uma tarea específica do programador.</value>
   </data>
   <data name="Prompt_GetTask_FlagId.Text" lastModified="2018-03-24 23:23:17">
-    <value xml:space="preserve">O ID de a tarea que quiere mostrar. Si introduce o ID como primer valor después do nome do comando não tem que utilizar explícitamente o nome de a opção &lt;span class="mono"&gt;--id&lt;/span&gt;.</value>
+    <value xml:space="preserve">O ID da tarea que quiere mostrar. Si introduce o ID como primer valor después do nome do comando não tem que utilizar explícitamente o nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt;.</value>
   </data>
   <data name="Prompt_GetTask_ResultHtml.Text" lastModified="2018-03-24 18:18:25">
     <value xml:space="preserve">&lt;h4&gt;Obtener uma tarea&lt;/h4&gt;
@@ -382,10 +382,10 @@
     <value xml:space="preserve">Obtiene uma lista de tareas do programador según os criterios de busca especificados. </value>
   </data>
   <data name="Prompt_ListTasks_FlagEnabled.Text" lastModified="2018-03-25 00:28:13">
-    <value xml:space="preserve">Si se indica, Prompt obtendrá as tareas que está activas (si a opção é true) o inactivas (si a opção és false). Si a opção não se especifica, Prompt devolverá todas a tareas.</value>
+    <value xml:space="preserve">Si se mostra, Prompt obtendrá as tareas que está activas (se a opção é true) o inactivas (se a opção és false). Se a opção não se especifica, Prompt devolverá todas a tareas.</value>
   </data>
   <data name="Prompt_ListTasks_FlagName.Text" lastModified="2018-03-25 00:28:13">
-    <value xml:space="preserve">Si se indica, Prompt obtendrá as tareas cujo nome coincida com a expresión. Se pode utilizar o comodín asterisco ( &lt;span class="mono"&gt;*&lt;/span&gt; ) para indicar zero (0) o más caracteres.</value>
+    <value xml:space="preserve">Si se mostra, Prompt obtendrá as tareas cujo nome coincida com a expresión. Se pode utilizar o comodín asterisco ( &lt;span class="mono"&gt;*&lt;/span&gt; ) para indicar zero (0) o más caracteres.</value>
   </data>
   <data name="Prompt_ListTasks_ResultHtml.Text" lastModified="2018-03-24 18:18:25">
     <value xml:space="preserve">&lt;h4&gt;Obtener todas as tareas&lt;/h4&gt;
@@ -604,19 +604,19 @@
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_ScheduleFlagRequired.Text" lastModified="2018-03-25 01:28:56">
-    <value xml:space="preserve">Tem que  indicar o ID de a tarea utilizando a opção --{0} o incluyendo o ID como primer argumento do comando.\n</value>
+    <value xml:space="preserve">Tem que  indicar o ID da tarea utilizando a opção --{0} o incluyendo o ID como primer argumento do comando.\n</value>
   </data>
   <data name="Prompt_SchedulerCategory.Text" lastModified="2018-03-24 20:20:15">
     <value xml:space="preserve">Comandos do progamador de tareas</value>
   </data>
   <data name="Prompt_SetTask_Description.Text" lastModified="2018-03-24 21:20:42">
-    <value xml:space="preserve">Establece o actualiza as propriedadees de a tarea especificada.</value>
+    <value xml:space="preserve">Establece o actualiza as propriedadees da tarea especificada.</value>
   </data>
   <data name="Prompt_SetTask_FlagEnabled.Text" lastModified="2018-03-25 00:28:13">
     <value xml:space="preserve">Quando é 'true', a tarea especificada se activará. Quando é 'false', a tarea especificada se desactivará.</value>
   </data>
   <data name="Prompt_SetTask_FlagId.Text" lastModified="2018-03-24 23:23:17">
-    <value xml:space="preserve">O ID de a tarea que quiere atualizar. Si introduce o ID como primer valor después do nome do comando não tem que utilizar explícitamente o nome de a opção &lt;span class="mono"&gt;--id&lt;/span&gt;.</value>
+    <value xml:space="preserve">O ID da tarea que quiere atualizar. Si introduce o ID como primer valor después do nome do comando não tem que utilizar explícitamente o nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt;.</value>
   </data>
   <data name="Prompt_SetTask_ResultHtml.Text" lastModified="2018-03-24 17:14:27">
     <value xml:space="preserve">&lt;h4&gt;Desactivar a tarea &amp;quot;Purge Schedule History&amp;quot;&lt;/h4&gt;
@@ -738,7 +738,7 @@
     <value xml:space="preserve">A tarea foi creado.</value>
   </data>
   <data name="ScheduleItemDeletedWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar esta tarea?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar esta tarea?</value>
   </data>
   <data name="ScheduleItemUpdateError.Text">
     <value xml:space="preserve">Não foi podido atualizar a tarea do programador. Vuelva a intentarlo.</value>
@@ -783,7 +783,7 @@
     <value xml:space="preserve">Configuração</value>
   </data>
   <data name="SettingsRestoreWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea cancelar os cambios?</value>
+    <value xml:space="preserve">Está seguro que quer cancelar os cambios?</value>
   </data>
   <data name="SHUTTING_DOWN.Text">
     <value xml:space="preserve">DETENER</value>
@@ -858,7 +858,7 @@
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="TypeRequired.Text">
-    <value xml:space="preserve">O tipo de a tarea é obrigatório.</value>
+    <value xml:space="preserve">O tipo da tarea é obrigatório.</value>
   </data>
   <data name="Update.Text">
     <value xml:space="preserve">Atualizar</value>

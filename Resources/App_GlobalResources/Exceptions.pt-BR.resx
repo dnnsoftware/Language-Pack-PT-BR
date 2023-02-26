@@ -67,13 +67,13 @@
     <value xml:space="preserve">Não se pode localizar o controlador {0}. espaços de nomes de busca: {1}</value>
   </data>
   <data name="CopyFileNoSpaceAvailable.Text">
-    <value xml:space="preserve">O sitio não tem espaço disponível para guardar o arquivo. O arquivo não foi copiado.</value>
+    <value xml:space="preserve">O sitio não tem espaço disponível para guardar o arquivo. O arquivo não foi cópiado.</value>
   </data>
   <data name="CopyFilePermissionsNotMet.Text">
-    <value xml:space="preserve">Não tem permissões. O arquivo não foi copiado.</value>
+    <value xml:space="preserve">Não tem permissões. O arquivo não foi cópiado.</value>
   </data>
   <data name="CopyFileUnderlyingSystemError.Text">
-    <value xml:space="preserve">O sistema subyacente produziu uma excepção. O arquivo não foi copiado.</value>
+    <value xml:space="preserve">O sistema subyacente produziu uma excepção. O arquivo não foi cópiado.</value>
   </data>
   <data name="CreateValidatorException.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">Não se pode instânciar o validadeor - {0}</value>
@@ -178,7 +178,7 @@
     <value xml:space="preserve">A operação não foi completada.</value>
   </data>
   <data name="MoveFolderUnderlyingSystemError.Text">
-    <value xml:space="preserve">O sistema subyacente produziu uma excepção. A ação de mover não foi completada. É possível que seja necessária uma sincronização de a pasta.</value>
+    <value xml:space="preserve">O sistema subyacente produziu uma excepção. A ação de mover não foi completada. É possível que seja necessária uma sincronização da pasta.</value>
   </data>
   <data name="MsgAttachmentsNotAllowed.Text">
     <value xml:space="preserve">Não se permiten adjuntos.</value>
@@ -199,7 +199,7 @@
     <value xml:space="preserve">Somente os superusuários, administradores o usuarios do grupo podem enviar mensagens ao rol.</value>
   </data>
   <data name="MsgRecipientLimitExceeded.Text">
-    <value xml:space="preserve">Foi sobrepasado o límite permitido de destinatários. Elimine destinatários de a lista para poder enviar a mensagem.</value>
+    <value xml:space="preserve">Foi sobrepasado o límite permitido de destinatários. Elimine destinatários da lista para poder enviar a mensagem.</value>
   </data>
   <data name="MsgRolesOrUsersRequiredError.Text">
     <value xml:space="preserve">Tem que proporcionar uma lista de usuarios o roles.</value>
@@ -325,7 +325,7 @@
     <value xml:space="preserve">O sistema subyacente produziu uma excepção.</value>
   </data>
   <data name="UpdateUserMembershipFailed.Text" lastModified="2015-09-13 20:25:27">
-    <value xml:space="preserve">Falhou a actualização de a conta Asp.net. Possível causa: foi activado "requiresrequiresUniqueEmail" na seção "membership" do arquivo web.config e sin embargo há varios usuarios com o mesmo correo que o usuário atual.</value>
+    <value xml:space="preserve">Falhou a actualização da conta Asp.net. Possível causa: foi activado "requiresrequiresUniqueEmail" na seção "membership" do arquivo web.config e sin embargo há varios usuarios com o mesmo correo que o usuário atual.</value>
   </data>
   <data name="UserCannotReviewWorkflowState.Text">
     <value xml:space="preserve">O usuário não pode modificar o estado do fluxo de trabalho</value>

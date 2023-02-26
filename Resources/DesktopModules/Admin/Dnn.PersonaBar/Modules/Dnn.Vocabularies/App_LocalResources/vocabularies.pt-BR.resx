@@ -31,13 +31,13 @@
     <value xml:space="preserve">Cerrar</value>
   </data>
   <data name="Confirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea adicionar um vocabulario?</value>
+    <value xml:space="preserve">Está seguro que quer adicionar um vocabulario?</value>
   </data>
   <data name="ConfirmDeletion_Term.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar o término "{0}"?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar o término "{0}"?</value>
   </data>
   <data name="ConfirmDeletion_Vocabulary.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar "{0}"?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar "{0}"?</value>
   </data>
   <data name="ControlTitle_.Text">
     <value xml:space="preserve">Vocabularios</value>

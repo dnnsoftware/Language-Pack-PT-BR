@@ -16,7 +16,7 @@
     <value xml:space="preserve">Finalizado</value>
   </data>
   <data name="BackupName.Text">
-    <value xml:space="preserve"> Nome de a copia de seguridade</value>
+    <value xml:space="preserve"> Nome da cópia de seguridade</value>
   </data>
   <data name="BackupSize.Text">
     <value xml:space="preserve">Tamaño (Kb)</value>
@@ -25,7 +25,7 @@
     <value xml:space="preserve">Iniciado</value>
   </data>
   <data name="BackupType.Text">
-    <value xml:space="preserve">Tipo de copia</value>
+    <value xml:space="preserve">Tipo de cópia</value>
   </data>
   <data name="clearCacheButtonLabel.Text">
     <value xml:space="preserve">Limpar a cache</value>
@@ -49,7 +49,7 @@
     <value xml:space="preserve">Service Pack:</value>
   </data>
   <data name="DbInfo_SoftwarePlatform.Help">
-    <value xml:space="preserve">Descripção completa de a plataforma de software de SQL Server instalada.</value>
+    <value xml:space="preserve">Descripção completa da plataforma de software de SQL Server instalada.</value>
   </data>
   <data name="DbInfo_SoftwarePlatform.Text">
     <value xml:space="preserve">Plataforma de software:</value>
@@ -106,7 +106,7 @@
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="GlobalSettings.Text">
-    <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais de a instalação.</value>
+    <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais da instalação.</value>
   </data>
   <data name="GlobalSmtpHostSetting.Text">
     <value xml:space="preserve">Global</value>
@@ -118,7 +118,7 @@
     <value xml:space="preserve">Provedor de cache:</value>
   </data>
   <data name="HostInfo_FriendlyUrlEnabled.Help">
-    <value xml:space="preserve">Indica si as URLs amigables están activadas.</value>
+    <value xml:space="preserve">Mostra se as URLs amigables están activadas.</value>
   </data>
   <data name="HostInfo_FriendlyUrlEnabled.Text">
     <value xml:space="preserve">URLs amigables activadas:</value>
@@ -160,7 +160,7 @@
     <value xml:space="preserve">Modo do programador:</value>
   </data>
   <data name="HostInfo_WebFarmEnabled.Help">
-    <value xml:space="preserve">Esta configuração determina si o sitio opera em modo granja de servidores (web farm).</value>
+    <value xml:space="preserve">Esta configuração determina se o sitio opera em modo granja de servidores (web farm).</value>
   </data>
   <data name="HostInfo_WebFarmEnabled.Text">
     <value xml:space="preserve">Granja de servidores activada:</value>
@@ -187,7 +187,7 @@
     <value xml:space="preserve">Servidores</value>
   </data>
   <data name="NoBackups.Text">
-    <value xml:space="preserve">Esta base de datos não dispone de copia de seguridade.</value>
+    <value xml:space="preserve">Esta base de datos não dispone de cópia de seguridade.</value>
   </data>
   <data name="NoIntegerValueError.Text">
     <value xml:space="preserve">Tem que introducir um valor entero positivo.</value>
@@ -253,10 +253,10 @@
     <value xml:space="preserve">Memoria</value>
   </data>
   <data name="PerformanceTab_MinifactionWarning.Text">
-    <value xml:space="preserve">Nota importante acerca de a configuração de minificação. &lt;br/&gt; Si os ajustes de minificação se cambian quando os Arquivos compuestos están habilitados, primero deve guardar a configuração de minificação haciendo clic em Atualizar e luego incrementar o número de versão. Este emitirá os novos Arquivos compuestos usando a nova configuração de minificação.</value>
+    <value xml:space="preserve">Nota importante acerca da configuração de minificação. &lt;br/&gt; Se os ajustes de minificação se cambian quando os Arquivos compuestos están habilitados, primero deve guardar a configuração de minificação haciendo clic em Atualizar e luego incrementar o número de versão. Este emitirá os novos Arquivos compuestos usando a nova configuração de minificação.</value>
   </data>
   <data name="PerformanceTab_MinifyCss.Help">
-    <value xml:space="preserve">A minificação CSS reducirá o tamaño do código CSS mediante o uso de expresiones regulares para eliminar os comentarios, espaços em branco e css não utilizado. Somente está disponível quando se activa a composição de Arquivos.</value>
+    <value xml:space="preserve">A minificação CSS reducirá o tamaño do código CSS mediante o uso de expresões regulares para eliminar os comentarios, espaços em branco e css não utilizado. Somente está disponível quando se activa a composição de Arquivos.</value>
   </data>
   <data name="PerformanceTab_MinifyCss.Text">
     <value xml:space="preserve">Minificação CSS</value>
@@ -295,8 +295,8 @@
     <value xml:space="preserve">Persistencia do estado de página:</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmMessage.Text">
-    <value xml:space="preserve">Esta ação forzará a todos os visitantes do portal a baixar uma nova versão de os Arquivos CSS e JS. Utilice esta opção quando os Arquivos do servidor hayan cambiado e quiera refrescar os Arquivos de todos clientes.
-¿Está seguro que desea incrementar o número de versão do portal?</value>
+    <value xml:space="preserve">Esta ação forzará a todos os visitantes do portal a baixar uma nova versão dos Arquivos CSS e JS. Utilice esta opção quando os Arquivos do servidor hayan cambiado e quiera refrescar os Arquivos de todos clientes.
+Está seguro que quer incrementar o número de versão do portal?</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmNo.Text">
     <value xml:space="preserve">Não</value>
@@ -320,7 +320,7 @@
     <value xml:space="preserve">Cache usuarios não autenticados</value>
   </data>
   <data name="plBackups.Text">
-    <value xml:space="preserve">Historial de copias de seguridade de a base de datos:</value>
+    <value xml:space="preserve">Historial de cópias de seguridade da base de datos:</value>
   </data>
   <data name="plBatch.Help">
     <value xml:space="preserve">O número de mensagens enviados pelo programador de tareas em cada ejecução.</value>
@@ -329,13 +329,13 @@
     <value xml:space="preserve">Número de mensagens enviados em cada lote:</value>
   </data>
   <data name="plConnectionLimit.Help" lastModified="2018-03-24 17:30:24">
-    <value xml:space="preserve">Número máximo de conexiones permitidas em este ServidePoint. O valor predeterminado é 2 e o máximo 2147483647.</value>
+    <value xml:space="preserve">Número máximo de conexões permitidas em este ServidePoint. O valor predeterminado é 2 e o máximo 2147483647.</value>
   </data>
   <data name="plConnectionLimit.Text">
-    <value xml:space="preserve">Límite de conexiones:</value>
+    <value xml:space="preserve">Límite de conexões:</value>
   </data>
   <data name="plDataProvider.Help">
-    <value xml:space="preserve">O nome do provedor de datos predeterminado de a aplicação.</value>
+    <value xml:space="preserve">O nome do provedor de datos predeterminado da aplicação.</value>
   </data>
   <data name="plDataProvider.Text">
     <value xml:space="preserve">Provedor de datos:</value>
@@ -350,7 +350,7 @@
     <value xml:space="preserve">GUID sistema:</value>
   </data>
   <data name="plHostEmail.Help" lastModified="2020-05-09 09:28:42">
-    <value xml:space="preserve">O email de sistema se utiliza para verificar o servidor de correo. Também é possível que algunas extensiones o utilizen para contactar com o responsable de a instalação.</value>
+    <value xml:space="preserve">O email de sistema se utiliza para verificar o servidor de correo. Também é possível que algunas extensões o utilizen para contactar com o responsable da instalação.</value>
   </data>
   <data name="plHostEmail.Text" lastModified="2020-05-09 09:28:42">
     <value xml:space="preserve">Email de sistema</value>
@@ -419,10 +419,10 @@
     <value xml:space="preserve">foi guardado a configuração</value>
   </data>
   <data name="ServerInfo_Framework.Help">
-    <value xml:space="preserve">Versão de a plataforma .NET.</value>
+    <value xml:space="preserve">Versão da plataforma .NET.</value>
   </data>
   <data name="ServerInfo_Framework.Text">
-    <value xml:space="preserve">Versão de a plataforma .NET:</value>
+    <value xml:space="preserve">Versão da plataforma .NET:</value>
   </data>
   <data name="ServerInfo_HostName.Help">
     <value xml:space="preserve">O nome do servidor.</value>
@@ -449,13 +449,13 @@
     <value xml:space="preserve">Versão do S.O.:</value>
   </data>
   <data name="ServerInfo_PhysicalPath.Help">
-    <value xml:space="preserve">Ubicação física de a raíz do portal não servidor.</value>
+    <value xml:space="preserve">Ubicação física da raíz do portal não servidor.</value>
   </data>
   <data name="ServerInfo_PhysicalPath.Text">
     <value xml:space="preserve">Ruta física:</value>
   </data>
   <data name="ServerInfo_RelativePath.Help">
-    <value xml:space="preserve">Ubicação relativa de a aplicação em relação a raíz do portal.</value>
+    <value xml:space="preserve">Ubicação relativa da aplicação em relação a raíz do portal.</value>
   </data>
   <data name="ServerInfo_RelativePath.Text">
     <value xml:space="preserve">Ruta relativa:</value>
@@ -515,7 +515,7 @@
     <value xml:space="preserve">Web</value>
   </data>
   <data name="UserRestart.Text">
-    <value xml:space="preserve">O usuário foi forzado o reinicio de a aplicação</value>
+    <value xml:space="preserve">O usuário foi forzado o reinicio da aplicação</value>
   </data>
   <data name="VersionIncrementedConfirmation.Text">
     <value xml:space="preserve">foi incrementado o número de versão</value>

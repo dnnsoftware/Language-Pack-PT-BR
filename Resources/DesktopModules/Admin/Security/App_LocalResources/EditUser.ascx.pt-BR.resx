@@ -67,7 +67,7 @@
     <value xml:space="preserve">Atenção: somente pode atualizar uma vez su URL pública de perfil.</value>
   </data>
   <data name="VanityUrlLabel.Help">
-    <value xml:space="preserve">Pode entrar uma URL personalizada para acceder a su perfil público e compartilhar com outros miembros de a comunidade.</value>
+    <value xml:space="preserve">Pode entrar uma URL personalizada para acceder a su perfil público e compartilhar com outros miembros da comunidade.</value>
   </data>
   <data name="VanityUrlLabel.Text">
     <value xml:space="preserve">URL perfil:</value>

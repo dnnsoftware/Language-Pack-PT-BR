@@ -139,7 +139,7 @@
     <value xml:space="preserve">On</value>
   </data>
   <data name="UnauthorizedRequest.Text">
-    <value xml:space="preserve">foi denegado a autorização para esta petição.</value>
+    <value xml:space="preserve">foi negado a autorização para esta petição.</value>
   </data>
   <data name="UserHasNoPermissionToReadFile.Error">
     <value xml:space="preserve">O usuário não tem permiso para leer este Arquivo.</value>
@@ -147,8 +147,8 @@
   <data name="UserHasNoPermissionToReadFolder.Error">
     <value xml:space="preserve">O usuário não tem permiso para ver esta pasta.</value>
   </data>
-  <data name="VisibleOnPage.Header">
-    <value xml:space="preserve">Visible em a página</value>
+  <data name="VisívelOnPage.Header">
+    <value xml:space="preserve">Visível em a página</value>
   </data>
   <data name="WeekAgo.Text">
     <value xml:space="preserve">hace {0} semana</value>

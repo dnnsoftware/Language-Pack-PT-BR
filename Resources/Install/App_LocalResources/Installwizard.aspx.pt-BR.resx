@@ -38,7 +38,7 @@
     
     The mimetype is used for serialized objects, and tells the 
     ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
+    extensível. For a given mimetype the value must be set accordingly:
     
     Note - application/x-microsoft.net.object.binary.base64 is the format 
     that the ResXResourceWriter will generate, however the reader can 
@@ -124,10 +124,10 @@
     <value>Acepto os términos do &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;acuerdo de licencia&lt;/a&gt;</value>
   </data>
   <data name="AccountInfo.Text" xml:space="preserve">
-    <value>Informação de conta de acceso</value>
+    <value>Informação de conta de Acesso</value>
   </data>
   <data name="AccountInfoIntro.Text" xml:space="preserve">
-    <value>Introduzca a seguinte informação para realizar a configuração de a instalação.</value>
+    <value>Introduzca a seguinte informação para realizar a configuração da instalação.</value>
   </data>
   <data name="AdminInfo.Text" xml:space="preserve">
     <value>Informação de administração</value>
@@ -145,7 +145,7 @@
     <value>Confirme a contrasenha introducida na caja inferior.</value>
   </data>
   <data name="Confirm.Required" xml:space="preserve">
-    <value>A confirmação de a contrasenha é obrigatória</value>
+    <value>A confirmação da contrasenha é obrigatória</value>
   </data>
   <data name="Confirm.Text" xml:space="preserve">
     <value>Confirme a contrasenha:</value>
@@ -169,7 +169,7 @@
     <value>Não se pode establecer uma conexión com a base de datos.</value>
   </data>
   <data name="DatabaseFilename.Help" xml:space="preserve">
-    <value>Nome do arquivo de a base de datos.</value>
+    <value>Nome do arquivo da base de datos.</value>
   </data>
   <data name="DatabaseFilename.Required" xml:space="preserve">
     <value>O nome do arquivo de base de datos é obrigatório.</value>
@@ -178,28 +178,28 @@
     <value>Arquivo</value>
   </data>
   <data name="DatabaseInfo.Text" xml:space="preserve">
-    <value>Informação de a base de datos</value>
+    <value>Informação da base de datos</value>
   </data>
   <data name="DatabaseInstallation.Text" xml:space="preserve">
-    <value>Instalação de a base de datos</value>
+    <value>Instalação da base de datos</value>
   </data>
   <data name="DatabaseName.Help" xml:space="preserve">
-    <value>Nome de a base de datos</value>
+    <value>Nome da base de datos</value>
   </data>
   <data name="DatabaseName.Required" xml:space="preserve">
-    <value>O nome de a base de datos é obrigatório.</value>
+    <value>O nome da base de datos é obrigatório.</value>
   </data>
   <data name="DatabaseName.Text" xml:space="preserve">
-    <value>Nome de a base de datos</value>
+    <value>Nome da base de datos</value>
   </data>
   <data name="DatabaseOwner.Text" xml:space="preserve">
     <value>Propietario base de datos</value>
   </data>
   <data name="DatabasePassword.Help" xml:space="preserve">
-    <value>Introduzca o usuário propietario de a base de datos.</value>
+    <value>Introduzca o usuário propietario da base de datos.</value>
   </data>
   <data name="DatabasePassword.Required" xml:space="preserve">
-    <value>A contrasenha de acceso a base de datos é obrigatória.</value>
+    <value>A contrasenha de Acesso a base de datos é obrigatória.</value>
   </data>
   <data name="DatabasePassword.Text" xml:space="preserve">
     <value>Contrasenha</value>
@@ -244,7 +244,7 @@
     <value>Entre o usuário para conectarse a base de datos.</value>
   </data>
   <data name="DatabaseUsername.Required" xml:space="preserve">
-    <value>O usuário de a base de datos é obrigatório</value>
+    <value>O usuário da base de datos é obrigatório</value>
   </data>
   <data name="DatabaseUsername.Text" xml:space="preserve">
     <value>Usuario</value>
@@ -277,7 +277,7 @@
     <value>Foi ocurrido um ERROR - {0}</value>
   </data>
   <data name="ExtensionsInstallation.Text" xml:space="preserve">
-    <value>Instalação de extensiones </value>
+    <value>Instalação de extensões </value>
   </data>
   <data name="FcnMode.Text" xml:space="preserve">
     <value>Añadiendo FcnMode</value>
@@ -286,16 +286,16 @@
     <value>Verificação de permissões de Arquivo e pasta</value>
   </data>
   <data name="FileAndFolderPermissionCheckFailed.Text" xml:space="preserve">
-    <value>&lt;div class="permission"&gt;&lt;img alt="Imagem que muestra a configuração de seguridade de a pasta raíz do web: Leer, Escribir e Modificar, para a conta ASPNET o NT AUTHORITY/SERVICIO DE RED." src="..\403-3.gif" align="right" hspace="10"/&gt;
+    <value>&lt;div class="permission"&gt;&lt;img alt="Imagem que muestra a configuração de seguridade da pasta raíz do web: Leer, Escribir e Modificar, para a conta ASPNET o NT AUTHORITY/SERVICIO DE RED." src="..\403-3.gif" align="right" hspace="10"/&gt;
 &lt;p&gt;&lt;strong&gt;&lt;font color='red'&gt;Su sitio falhou as verificações de permissões.&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
-Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá para as propriedadees de a pasta, e selecione a pestaña Seguridade. Añada as contas e permissões necessários.
+Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá para as propriedadees da pasta, e selecione a pestaña Seguridade. Añada as contas e permissões necessários.
 &lt;br/&gt;&lt;br/&gt;
 &lt;h3&gt;Si utiliza Windows 2000 - IIS5&lt;/h3&gt;
-&lt;p&gt;A conta ASPNET tem que ter permissões de Lectura, Escritura e Modificação em a pasta raíz de a web.&lt;/p&gt;
+&lt;p&gt;A conta ASPNET tem que ter permissões de Lectura, Escritura e Modificação em a pasta raíz da web.&lt;/p&gt;
 &lt;h3&gt;Si utiliza Windows 2003, Windows Vista o Windows Server 2008 e  IIS6 o IIS7&lt;/h3&gt;
-&lt;p&gt;A conta NT AUTHORITY\SERVICIO DE RED tem que ter permissões de Lectura, Escritura e Modificação em a pasta raíz de a web.&lt;/p&gt;
+&lt;p&gt;A conta NT AUTHORITY\SERVICIO DE RED tem que ter permissões de Lectura, Escritura e Modificação em a pasta raíz da web.&lt;/p&gt;
 &lt;h3&gt;Si utiliza Windows 7 o Windows Server 2008 R2 e  IIS7.5&lt;/h3&gt;
-&lt;p&gt;A conta IIS AppPool\DefaultAppPool tem que ter permissões de Lectura, Escritura e Modificação em a pasta raíz de a web.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Verificar de novo&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
+&lt;p&gt;A conta IIS AppPool\DefaultAppPool tem que ter permissões de Lectura, Escritura e Modificação em a pasta raíz da web.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Verificar de novo&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="FileAndFolderPermissionCheckTitle.Text" xml:space="preserve">
     <value>Verificando as permissões de Arquivo e pasta </value>
@@ -379,7 +379,7 @@ Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá 
     <value>O usuário de base de datos não tem suficientes permissões para a instalação (dbo)</value>
   </data>
   <data name="IsAbleToPerformDatabaseActionsCheck.Text" xml:space="preserve">
-    <value>Verificando si o usuário tem suficientes permissões para realizar as acções necessárias</value>
+    <value>Verificando se o usuário tem suficientes permissões para realizar as acções necessárias</value>
   </data>
   <data name="IsSqlServerDbo.Text" xml:space="preserve">
     <value>O usuário de base de datos não tem permissões de dbo</value>
@@ -391,7 +391,7 @@ Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá 
     <value>DotNetNuke necessita a versão SQL Server 2008 (Express o normal)</value>
   </data>
   <data name="IsValidSqlServerVersionCheck.Text" xml:space="preserve">
-    <value>Verificando si a base de datos é SQL Server 2008</value>
+    <value>Verificando se a base de datos é SQL Server 2008</value>
   </data>
   <data name="Language.Help" xml:space="preserve">
     <value>Selecione o idioma que quiere utilizar para su sitio web.</value>
@@ -421,7 +421,7 @@ Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá 
     <value>Iniciar a instalação</value>
   </data>
   <data name="LegacyLangaugePack.Text" xml:space="preserve">
-    <value>Este paquete de idioma é anterior a versão atual de a aplicação:</value>
+    <value>Este paquete de idioma é anterior a versão atual da aplicação:</value>
   </data>
   <data name="LicenseActivation.Text" xml:space="preserve">
     <value>Activando licencia</value>

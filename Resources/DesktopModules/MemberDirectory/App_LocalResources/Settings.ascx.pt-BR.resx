@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="alternateItemTemplateLabel.Help">
-    <value xml:space="preserve">A planilha de elementos alternos se utiliza para representar os detalles de os miembros alternos. Si se deja vazio a planilha do elemento se utiliza para todos os miembros.</value>
+    <value xml:space="preserve">A planilha de elementos alternos se utiliza para representar os detalles dos miembros alternos. Si se deja vazio a planilha do elemento se utiliza para todos os miembros.</value>
   </data>
   <data name="alternateItemTemplateLabel.Text">
     <value xml:space="preserve">planilha de elemento alterno</value>
@@ -43,7 +43,7 @@
     <value xml:space="preserve">Descendente</value>
   </data>
   <data name="disablePagerLabel.Help">
-    <value xml:space="preserve">Ative esta opção para desactivar o botão "Cargar más". Si o hace somente podrá acceder a primera página.</value>
+    <value xml:space="preserve">Ative esta opção para desactivar o botão "Cargar más". Se o hace somente podrá acceder a primera página.</value>
   </data>
   <data name="disablePagerLabel.Text">
     <value xml:space="preserve">Desactivar paginação:</value>
@@ -85,7 +85,7 @@
     <value xml:space="preserve">Fax</value>
   </data>
   <data name="filterBySelectorLabel.Help">
-    <value xml:space="preserve">Si o desea, pode optar por aplicar um filtro a lista de os miembros a mostrar. Selecione o tipo de filtro que desee aplicar y, a continuação, selecione o rol, relação o perfil apropiado de a lista desplegable.</value>
+    <value xml:space="preserve">Se o desea, pode optar por aplicar um filtro a lista dos miembros a mostrar. Selecione o tipo de filtro que desee aplicar y, a continuação, selecione o rol, relação o perfil apropiado da lista desplegable.</value>
   </data>
   <data name="filterBySelectorLabel.Text">
     <value xml:space="preserve">Filtrar por:</value>
@@ -130,7 +130,7 @@
     <value xml:space="preserve">Opções de paginação</value>
   </data>
   <data name="popUpTemplateLabel.Help">
-    <value xml:space="preserve">A planilha emergente que se utiliza para representar um detalle de os distintos miembros dentro de uma ventana emergente.</value>
+    <value xml:space="preserve">A planilha emergente que se utiliza para representar um detalle dos distintos miembros dentro de uma ventana emergente.</value>
   </data>
   <data name="popUpTemplateLabel.Text">
     <value xml:space="preserve">planilha emergente:</value>
@@ -157,31 +157,31 @@
     <value xml:space="preserve">Configuração de buscas</value>
   </data>
   <data name="searchField1Label.Help">
-    <value xml:space="preserve">Selecione o primer campo que desea mostrar na busca avançada</value>
+    <value xml:space="preserve">Selecione o primer campo que quer mostrar na busca avançada</value>
   </data>
   <data name="searchField1Label.Text">
     <value xml:space="preserve">Campo de busca 1:</value>
   </data>
   <data name="searchField2Label.Help">
-    <value xml:space="preserve">Selecione o segundo campo que desea mostrar na busca avançada</value>
+    <value xml:space="preserve">Selecione o segundo campo que quer mostrar na busca avançada</value>
   </data>
   <data name="searchField2Label.Text">
     <value xml:space="preserve">Campo de busca 2:</value>
   </data>
   <data name="searchField3Label.Help">
-    <value xml:space="preserve">Selecione o tercer campo que desea mostrar na busca avançada</value>
+    <value xml:space="preserve">Selecione o tercer campo que quer mostrar na busca avançada</value>
   </data>
   <data name="searchField3Label.Text">
     <value xml:space="preserve">Campo de busca 3:</value>
   </data>
   <data name="searchField4Label.Help">
-    <value xml:space="preserve">Selecione o cuarto campo que desea mostrar na busca avançada</value>
+    <value xml:space="preserve">Selecione o cuarto campo que quer mostrar na busca avançada</value>
   </data>
   <data name="searchField4Label.Text">
     <value xml:space="preserve">Campo de busca 4:</value>
   </data>
   <data name="sortFieldListLabel.Help">
-    <value xml:space="preserve">Selecione o campo de ordenação de a lista</value>
+    <value xml:space="preserve">Selecione o campo de ordenação da lista</value>
   </data>
   <data name="sortFieldListLabel.Text">
     <value xml:space="preserve">Campo de ordenação:</value>

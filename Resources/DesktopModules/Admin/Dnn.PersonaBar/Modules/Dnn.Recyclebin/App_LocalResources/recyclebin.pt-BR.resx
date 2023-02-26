@@ -64,10 +64,10 @@
     <value xml:space="preserve">Elimina definitivamente um módulo. O módulo tem que estar previamente na papelera de reciclagem.</value>
   </data>
   <data name="Prompt_PurgeModule_FlagId.Text" lastModified="2018-03-24 19:44:59">
-    <value xml:space="preserve">Indica explícitamente  o ID do módulo que se quiere eliminar definitivamente. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
+    <value xml:space="preserve">Mostra explícitamente  o ID do módulo que se quiere eliminar definitivamente. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
   </data>
   <data name="Prompt_PurgeModule_FlagPageId.Text" lastModified="2018-03-24 19:44:59">
-    <value xml:space="preserve">Indica explícitamente  o ID da página donde se encontraba o módulo.</value>
+    <value xml:space="preserve">Mostra explícitamente  o ID da página donde se encontraba o módulo.</value>
   </data>
   <data name="Prompt_PurgeModule_ResultHtml.Text" lastModified="2018-03-24 17:41:50">
     <value xml:space="preserve">&lt;h4&gt;Elimina definitivamente um módulo&lt;/h4&gt;
@@ -81,10 +81,10 @@
     <value xml:space="preserve">Elimina definitivamente uma página do portal que foi sido previamente enviada a papelera de reciclagem de DNN.</value>
   </data>
   <data name="Prompt_PurgePage_FlagDeleteChildren.Text" lastModified="2018-03-25 01:53:11">
-    <value xml:space="preserve">Indica si há que eliminar as páginas descendientes em caso que existan. Si há páginas descendientes e não se inclui a opção, se obtendrá um mensagem de error.</value>
+    <value xml:space="preserve">Mostra si há que eliminar as páginas descendientes em caso que existan. Si há páginas descendientes e não se inclui a opção, se obtendrá um mensagem de error.</value>
   </data>
   <data name="Prompt_PurgePage_FlagId.Text" lastModified="2018-03-24 20:45:13">
-    <value xml:space="preserve">Indica explícitamente  o ID da página que se quiere eliminar definitivamente. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
+    <value xml:space="preserve">Mostra explícitamente  o ID da página que se quiere eliminar definitivamente. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
   </data>
   <data name="Prompt_PurgePage_ResultHtml.Text" lastModified="2018-03-24 16:35:44">
     <value xml:space="preserve">&lt;div&gt;
@@ -117,19 +117,19 @@
     &lt;code class="block"&gt;purge-user --id 345&lt;/code&gt;</value>
   </data>
   <data name="Prompt_RecylcleBinCategory.Text" lastModified="2018-03-25 00:50:50">
-    <value xml:space="preserve">Comandos de a papelera de reciclagem</value>
+    <value xml:space="preserve">Comandos da papelera de reciclagem</value>
   </data>
   <data name="Prompt_RestoreModule_Description.Text" lastModified="2018-03-25 01:53:11">
-    <value xml:space="preserve">Recupera um módulo de a papelera de reciclagem.</value>
+    <value xml:space="preserve">Recupera um módulo da papelera de reciclagem.</value>
   </data>
   <data name="Prompt_RestoreModule_FlagId.Text" lastModified="2018-03-24 19:44:59">
-    <value xml:space="preserve">Indica explícitamente  o ID do módulo que se quiere recuperar. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
+    <value xml:space="preserve">Mostra explícitamente  o ID do módulo que se quiere recuperar. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
   </data>
   <data name="Prompt_RestoreModule_FlagPageId.Text" lastModified="2018-03-25 04:56:27">
     <value xml:space="preserve">O ID da página donde se encontraba o módulo antes de eliminarlo.</value>
   </data>
   <data name="Prompt_RestoreModule_ResultHtml.Text" lastModified="2018-03-24 17:41:50">
-    <value xml:space="preserve">&lt;h4&gt;Restaurar um módulo de a papelera de reciclagem&lt;/h4&gt;
+    <value xml:space="preserve">&lt;h4&gt;Restaurar um módulo da papelera de reciclagem&lt;/h4&gt;
         &lt;code class="block"&gt;restore-module 359 --pageid 71&lt;/code&gt;
 
         &lt;h4&gt;Resultado&lt;/h4&gt;
@@ -139,13 +139,13 @@
     <value xml:space="preserve">O usuário não está eliminado. Não hace falta recuperarlo.</value>
   </data>
   <data name="Prompt_RestorePage_Description.Text" lastModified="2018-03-25 01:53:11">
-    <value xml:space="preserve">Recupera uma página de a papelera de reciclagem.</value>
+    <value xml:space="preserve">Recupera uma página da papelera de reciclagem.</value>
   </data>
   <data name="Prompt_RestorePage_FlagId.Text" lastModified="2018-03-24 19:44:59">
-    <value xml:space="preserve">Indica explícitamente  o ID da página que se quiere restaurar. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
+    <value xml:space="preserve">Mostra explícitamente  o ID da página que se quiere restaurar. A opção não é obrigatória, pode incluir o ID do módulo como primer argumento do comando.</value>
   </data>
   <data name="Prompt_RestorePage_FlagName.Text" lastModified="2018-03-25 04:56:27">
-    <value xml:space="preserve">Indica o nome (não o título) da página que se quiere restaurar.  Se pode combinar com &lt;span class="mono"&gt;--parentid&lt;/span&gt; para selecionar uma página que desciende de outra.</value>
+    <value xml:space="preserve">Mostra o nome (não o título) da página que se quiere restaurar.  Se pode combinar com &lt;span class="mono"&gt;--parentid&lt;/span&gt; para selecionar uma página que desciende de outra.</value>
   </data>
   <data name="Prompt_RestorePage_FlagParentId.Text" lastModified="2018-03-25 01:53:11">
     <value xml:space="preserve">Obrigatório se quiser eliminar uma página que é hija de outra. Tem que proporcionar o ID da página madre.</value>
@@ -183,7 +183,7 @@
   </data>
   <data name="Prompt_RestoreUser_ResultHtml.Text" lastModified="2018-03-24 17:41:50">
     <value xml:space="preserve">&lt;h4&gt;Recuperar um usuario eliminado&lt;/h4&gt;
-        &lt;p&gt;Recupera o usuário com o ID 345. Si o usuário não está eliminado recibirá um mensagem comunicando que não há nada que restaurar. Si o usuário já foi eliminado o não existe, recibirá um mensagem do usuário não encontrado.&lt;/p&gt;
+        &lt;p&gt;Recupera o usuário com o ID 345. Se o usuário não está eliminado recibirá um mensagem comunicando que não há nada que restaurar. Se o usuário já foi eliminado o não existe, recibirá um mensagem do usuário não encontrado.&lt;/p&gt;
         &lt;code class="block"&gt;restore-user 345&lt;/code&gt;
         &lt;p&gt;Esta é a forma más explícita do ejemplo anterior.&lt;/p&gt;
         &lt;code class="block"&gt;restore-user --id 345&lt;/code&gt;</value>
@@ -210,7 +210,7 @@
     <value xml:space="preserve">Vaciar a papelera de reciclagem</value>
   </data>
   <data name="recyclebin_EmptyRecycleBinConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar definitivamente todas as páginas e módulos?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar definitivamente todas as páginas e módulos?</value>
   </data>
   <data name="recyclebin_Modules.Text">
     <value xml:space="preserve">Módulos</value>
@@ -240,49 +240,49 @@
     <value xml:space="preserve">Páginas</value>
   </data>
   <data name="recyclebin_RemoveModuleConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar este módulo.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar este módulo.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemoveModulesConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar os módulos seleccionados.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar os módulos seleccionados.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemovePageConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar esta página.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar esta página.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemovePagesConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar as páginas seleccionadas.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar as páginas seleccionadas.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemoveUserConfirm.Text" lastModified="2017-02-04 23:49:00">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar este usuario.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar este usuario.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemoveUsersConfirm.Text" lastModified="2017-02-04 23:49:00">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar os usuarios seleccionados.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar os usuarios seleccionados.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_Restore.Text">
     <value xml:space="preserve">Restaurar</value>
   </data>
   <data name="recyclebin_RestoreModuleConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea restaurar este módulo.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer restaurar este módulo.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestoreModulesConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea restaurar os módulos seleccionados.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer restaurar os módulos seleccionados.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestorePageConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea restaurar as páginas seleccionadas.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer restaurar as páginas seleccionadas.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestorePageInvalid.Text">
     <value xml:space="preserve">Primero tem que restaurar a página madre.</value>
   </data>
   <data name="recyclebin_RestorePagesConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea eliminar este módulo.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer eliminar este módulo.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestorePagesInvalid.Text">
     <value xml:space="preserve">Para restaurar as páginas que foi selecionado tem também que selecionar a página madre.</value>
   </data>
   <data name="recyclebin_RestoreUserConfirm.Text" lastModified="2017-02-04 23:49:00">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea restaurar este usuario.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer restaurar este usuario.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestoreUsersConfirm.Text" lastModified="2017-02-04 23:49:00">
-    <value xml:space="preserve">&lt;p&gt;Confirme que desea restaurar os usuarios seleccionados.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Confirme que quer restaurar os usuarios seleccionados.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_Title.Text">
     <value xml:space="preserve">Papelera de reciclagem</value>
@@ -303,7 +303,7 @@
     <value xml:space="preserve">Sí</value>
   </data>
   <data name="Service_EmptyRecycleBinError.Text">
-    <value xml:space="preserve">Alguno de os elementos não foi eliminado.</value>
+    <value xml:space="preserve">Alguno dos elementos não foi eliminado.</value>
   </data>
   <data name="Service_RemoveTabError.Text" lastModified="2018-03-24 03:12:26">
     <value xml:space="preserve">foi producido um error ao eliminar a página: {0}</value>

@@ -73,7 +73,7 @@
     <value xml:space="preserve">{0}</value>
   </data>
   <data name="UnsubscribeConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que quiere cancelar su suscripção?</value>
+    <value xml:space="preserve">Está seguro que quiere cancelar su suscripção?</value>
   </data>
   <data name="UnsubscribeConfirmTitle.Text">
     <value xml:space="preserve">Cancelar suscripção</value>

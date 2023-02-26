@@ -16,7 +16,7 @@
     <value xml:space="preserve">Configuração básica</value>
   </data>
   <data name="DefaultFolderType.Help">
-    <value xml:space="preserve">Indica o tipo de pasta predeterminada que se utilizará ao criar novas pastas.</value>
+    <value xml:space="preserve">Mostra o tipo de pasta predeterminada que se utilizará ao criar novas pastas.</value>
   </data>
   <data name="DefaultFolderType.Text">
     <value xml:space="preserve">Tipo de pasta predeterminado</value>
@@ -25,7 +25,7 @@
     <value xml:space="preserve">Excluir subpastas</value>
   </data>
   <data name="ExcludeSubfoldersLabel.Help">
-    <value xml:space="preserve">Si está activado, o módulo somente mostrará os Arquivos de a pasta e subpastas, mas não mostrará as subpastas.</value>
+    <value xml:space="preserve">Si está activado, o módulo somente mostrará os Arquivos da pasta e subpastas, mas não mostrará as subpastas.</value>
   </data>
   <data name="FilterByFolder.Text">
     <value xml:space="preserve">Filtrar según pasta</value>
@@ -43,7 +43,7 @@
     <value xml:space="preserve">Incluir subpastas (mostrar estructura de pastas)</value>
   </data>
   <data name="Mode.Help">
-    <value xml:space="preserve">Indica o modo de visualização do módulo</value>
+    <value xml:space="preserve">Mostra o modo de visualização do módulo</value>
   </data>
   <data name="Mode.Text">
     <value xml:space="preserve">Modo</value>

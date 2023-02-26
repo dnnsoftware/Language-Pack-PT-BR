@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllowIndexLabel.Help">
-    <value xml:space="preserve">Esta opção indica si o módulo se indexará nos motores de busca.</value>
+    <value xml:space="preserve">Esta opção mostra se o módulo será indexado nos motores de busca.</value>
   </data>
   <data name="AllowIndexLabel.Text">
     <value xml:space="preserve">Permitir indexação</value>
@@ -31,7 +31,7 @@
     <value xml:space="preserve">Duração de cache (segundos):</value>
   </data>
   <data name="CacheDurationWarning.Text">
-    <value xml:space="preserve">O módulo recommenda desativar armazenamento em cache (selecione NENHUM na lista de Output Cache Provider). A ativação de cache neste módulo não é recomendada e pode fazer com que o módulo exiba dados desatualizados.</value>
+    <value xml:space="preserve">A recomendação para este módulo é desativar o armazenamento em cache (selecione NENHUM na lista de Provedor de Saída de Cache). Não é recomendado ativar o cache neste módulo por poder fazer com que o módulo mostre dados desatualizados.</value>
   </data>
   <data name="CacheInherited.Text">
     <value xml:space="preserve">Herdado</value>
@@ -52,7 +52,7 @@
     <value xml:space="preserve">Limpar a cache para este módulo</value>
   </data>
   <data name="ContainerPreview.Text">
-    <value xml:space="preserve">Previsualizar</value>
+    <value xml:space="preserve">Visualizar</value>
   </data>
   <data name="ControlTitle_module.Text">
     <value xml:space="preserve">Módulo</value>
@@ -61,7 +61,7 @@
     <value xml:space="preserve">Configuração de {0}</value>
   </data>
   <data name="CreateBoundCopies.Text">
-    <value xml:space="preserve">criar copias vinculadas</value>
+    <value xml:space="preserve">Criar cópias vinculadas</value>
   </data>
   <data name="cultureLabel.Help">
     <value xml:space="preserve">Idioma do módulo</value>
@@ -196,7 +196,7 @@
     <value xml:space="preserve">Selecione esta opção se deseja que a configuração de página definida para este módulo, seja usada como configuração padrão quando se agreguen novos módulos. Esta opção somente está disponível para administradores e superusuários.</value>
   </data>
   <data name="plDefault.Text">
-    <value xml:space="preserve">¿Establecer como configuração padrão?</value>
+    <value xml:space="preserve">Establecer como configuração padrão?</value>
   </data>
   <data name="plDisplayPrint.Help">
     <value xml:space="preserve">Selecione esta opção se deseja habilitar a impresión para este módulo</value>
@@ -217,7 +217,7 @@
     <value xml:space="preserve">Mostrar a moldura</value>
   </data>
   <data name="plEndDate.Help" lastModified="2020-05-14 10:02:20">
-    <value xml:space="preserve">Selecione a última data em que deve mostrarse o módulo. Después de esta data o módulo será visible solamente para os usuarios com permissões de gestión sobre o módulo.</value>
+    <value xml:space="preserve">Selecione a última data em que deve mostrarse o módulo. Después de esta data o módulo será visível solamente para os usuarios com permissões de gestión sobre o módulo.</value>
   </data>
   <data name="plEndDate.Text">
     <value xml:space="preserve">Data de expiração:</value>
@@ -340,13 +340,13 @@
     <value xml:space="preserve">Desvincular</value>
   </data>
   <data name="UnTranslated.Text">
-    <value xml:space="preserve">Marcar como traduzido</value>
+    <value xml:space="preserve">Marcar como não traduzido</value>
   </data>
   <data name="valBorder.ErrorMessage">
-    <value xml:space="preserve">Borda incorretamente especificada (tem que ser um número entre 0 e 9)</value>
+    <value xml:space="preserve">Borda inválida (é necessário ser um número entre 0 e 9)</value>
   </data>
   <data name="valCacheTime.ErrorMessage">
-    <value xml:space="preserve">Tempo em cache incorreto</value>
+    <value xml:space="preserve">Tempo em cache inválido</value>
   </data>
   <data name="valEndDate.ErrorMessage">
     <value xml:space="preserve">Data de expiração inválida</value>

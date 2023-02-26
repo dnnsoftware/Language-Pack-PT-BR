@@ -25,7 +25,7 @@
     <value xml:space="preserve">Em uma nova ventana</value>
   </data>
   <data name="plEnableWildSearch.Help">
-    <value xml:space="preserve">Permitir ao indexador hacer buscas parciales de palabras (opção predeterminada). Pode desactivar esta opção si as buscas tardan demasiado.</value>
+    <value xml:space="preserve">Permitir ao indexador hacer buscas parciales de palabras (opção predeterminada). Pode desactivar esta opção se as buscas tardan demasiado.</value>
   </data>
   <data name="plEnableWildSearch.Text">
     <value xml:space="preserve">buscas parciales</value>
@@ -43,13 +43,13 @@
     <value xml:space="preserve">Limitar ámbito según tipo de conteúdo</value>
   </data>
   <data name="plResultsScopeForPortals.Help">
-    <value xml:space="preserve">Pode limitar os resultados de busca em função de os portais web</value>
+    <value xml:space="preserve">Pode limitar os resultados de busca em função dos portais web</value>
   </data>
   <data name="plResultsScopeForPortals.Text">
     <value xml:space="preserve">Limitar ámbito según sitio web</value>
   </data>
   <data name="plResultsScopeForRoles.Help" lastModified="2020-05-09 10:12:24">
-    <value xml:space="preserve">Pode limitar os resultados de busca em função de os roles.</value>
+    <value xml:space="preserve">Pode limitar os resultados de busca em função dos roles.</value>
   </data>
   <data name="plResultsScopeForRoles.Text" lastModified="2020-05-09 10:12:24">
     <value xml:space="preserve">Limitar ámbito según roles</value>
@@ -91,7 +91,7 @@
     <value xml:space="preserve">Mostrar etiquetas</value>
   </data>
   <data name="plTitleLinkTarget.Help">
-    <value xml:space="preserve">Entre si o enlace do resultado se abrirá na mesma ventana do navegador o em uma nova</value>
+    <value xml:space="preserve">Entre se o enlace do resultado se abrirá na mesma ventana do navegador o em uma nova</value>
   </data>
   <data name="plTitleLinkTarget.Text">
     <value xml:space="preserve">Abrir enlaces</value>

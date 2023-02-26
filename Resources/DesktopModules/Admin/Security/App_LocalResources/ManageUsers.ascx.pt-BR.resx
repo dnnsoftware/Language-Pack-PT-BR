@@ -25,7 +25,7 @@
     <value xml:space="preserve">Adicionar novo usuario</value>
   </data>
   <data name="CannotAddUser.Text">
-    <value xml:space="preserve">Su configuração requiere a os usuarios que escriban uma pregunta e respuesta para o recordatorio de contrasenha. Esta configuração é incompatible com que o administrador pueda adicionar usuarios, pelo que esta opção foi sido deshabilitada para este sitio.</value>
+    <value xml:space="preserve">Su configuração requiere a os usuarios que escriban uma pregunta e respuesta para o recordatorio de contrasenha. Esta configuração é incompatível com que o administrador pueda adicionar usuarios, pelo que esta opção foi sido deshabilitada para este sitio.</value>
   </data>
   <data name="cmdLogin.Text">
     <value xml:space="preserve">Proceder ao inicio de sesión</value>
@@ -67,7 +67,7 @@
     <value xml:space="preserve">Não pode registrar uma conta em este momento. Contacte com o administrador do portal para ver quando o registro estará disponível novamente.</value>
   </data>
   <data name="ExceededUserQuota.Text">
-    <value xml:space="preserve">ao adicionar este usuario se excedería a cuota de usuarios para este sitio. Contacte com su provedor de alojamiento para consultas relacionadas com o incremento de a cuota de usuarios.</value>
+    <value xml:space="preserve">ao adicionar este usuario se excedería a cuota de usuarios para este sitio. Contacte com su provedor de alojamiento para consultas relacionadas com o incremento da cuota de usuarios.</value>
   </data>
   <data name="InvalidUser.Text">
     <value xml:space="preserve">Esta conta não pertenece a um usuario deste sitio web.</value>

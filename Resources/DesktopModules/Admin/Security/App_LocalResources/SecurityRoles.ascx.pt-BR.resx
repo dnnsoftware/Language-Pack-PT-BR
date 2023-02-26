@@ -28,10 +28,10 @@
     <value xml:space="preserve">Roles do usuário</value>
   </data>
   <data name="DeleteRoleFromUser.Text">
-    <value xml:space="preserve">¿Está seguro que quiere eliminar o rol '{1}' de '{0}'?</value>
+    <value xml:space="preserve">Está seguro que quiere eliminar o rol '{1}' de '{0}'?</value>
   </data>
   <data name="DeleteUsersFromRole.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar '{0}' do rol '{1}'?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar '{0}' do rol '{1}'?</value>
   </data>
   <data name="EffectiveDate.Header">
     <value xml:space="preserve">Data efectiva</value>
@@ -55,7 +55,7 @@
     <value xml:space="preserve">Não está autorizado para editar este rol.</value>
   </data>
   <data name="plEffectiveDate.Help">
-    <value xml:space="preserve">Especifique a data na que o rol asignado deve começar (opcional). Si não indica um valor o rol tomará efecto inmediatamente.</value>
+    <value xml:space="preserve">Especifique a data na que o rol asignado deve começar (opcional). Si não mostra um valor o rol tomará efecto inmediatamente.</value>
   </data>
   <data name="plEffectiveDate.Text">
     <value xml:space="preserve">Data efectiva</value>
@@ -88,7 +88,7 @@
     <value xml:space="preserve">Rol de seguridade</value>
   </data>
   <data name="SendNotification.Text">
-    <value xml:space="preserve">¿Enviar email?</value>
+    <value xml:space="preserve">Enviar email?</value>
   </data>
   <data name="UpdateRole.Text">
     <value xml:space="preserve">Atualizar rol do usuário</value>

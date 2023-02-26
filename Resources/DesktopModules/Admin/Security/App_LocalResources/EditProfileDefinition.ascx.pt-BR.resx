@@ -37,25 +37,25 @@
     <value xml:space="preserve">Editar definição de propriedade de perfil</value>
   </data>
   <data name="Introduction.Help">
-    <value xml:space="preserve">O primer paso na edição de uma definició de propriedade de perfil consiste em definir os detalles de a propriedade. Haga os cambios necessários na definição e haga clic em "Seguinte" para continuar com o seguinte paso.</value>
+    <value xml:space="preserve">O primer paso na edição de uma definició de propriedade de perfil consiste em definir os detalles da propriedade. Haga os cambios necessários na definição e haga clic em "Seguinte" para continuar com o seguinte paso.</value>
   </data>
   <data name="Introduction.Title">
-    <value xml:space="preserve">Editar detalles de a propriedade</value>
+    <value xml:space="preserve">Editar detalles da propriedade</value>
   </data>
   <data name="Introduction_Add.Help">
-    <value xml:space="preserve">O primer paso na creação de uma definició de propriedade de perfil consiste em definir os detalles de a propriedade. Haga os cambios necessários na definição e haga clic em "Seguinte" para continuar com o seguinte paso. &lt;strong&gt;Atenção:&lt;/strong&gt; todos os campos marcados em rojo son obrigatórios.</value>
+    <value xml:space="preserve">O primer paso na creação de uma definició de propriedade de perfil consiste em definir os detalles da propriedade. Haga os cambios necessários na definição e haga clic em "Seguinte" para continuar com o seguinte paso. &lt;strong&gt;Atenção:&lt;/strong&gt; todos os campos marcados em rojo son obrigatórios.</value>
   </data>
   <data name="Introduction_Add.Title">
     <value xml:space="preserve">Adicionar propriedade nova</value>
   </data>
   <data name="List.Help">
-    <value xml:space="preserve">Os detalles de a propriedade foin guardado. Esta propriedade é de tipo lista, o seguinte paso é definir as entradas de a lista.</value>
+    <value xml:space="preserve">Os detalles da propriedade foin guardado. Esta propriedade é de tipo lista, o seguinte paso é definir as entradas da lista.</value>
   </data>
   <data name="List.Title">
-    <value xml:space="preserve">Administrar entradas de a lista</value>
+    <value xml:space="preserve">Administrar entradas da lista</value>
   </data>
   <data name="Localization.Help">
-    <value xml:space="preserve">O paso seguinte é administrar a tradução de esta propriedade. Selecione o idioma que desea atualizar e añada o texto o modifique o existente e haga clic em "Guardar texto traduzido"</value>
+    <value xml:space="preserve">O paso seguinte é administrar a tradução de esta propriedade. Selecione o idioma que quer atualizar e añada o texto o modifique o existente e haga clic em "Guardar texto traduzido"</value>
   </data>
   <data name="Localization.Title">
     <value xml:space="preserve">Administrar traducções</value>
@@ -64,7 +64,7 @@
     <value xml:space="preserve">Escriba o texto para o nome de categoría e selecione um idioma</value>
   </data>
   <data name="plCategoryName.Text">
-    <value xml:space="preserve">Nome de a categoría:</value>
+    <value xml:space="preserve">Nome da categoría:</value>
   </data>
   <data name="plLocales.Help">
     <value xml:space="preserve">Selecione o idioma</value>
@@ -76,13 +76,13 @@
     <value xml:space="preserve">não idioma selecionado</value>
   </data>
   <data name="plPropertyHelp.Text">
-    <value xml:space="preserve">Ayuda de a propriedade:</value>
+    <value xml:space="preserve">Ayuda da propriedade:</value>
   </data>
   <data name="plPropertyName.Help">
-    <value xml:space="preserve">Escriba o texto para o nome de a propriedade não idioma selecionado.</value>
+    <value xml:space="preserve">Escriba o texto para o nome da propriedade não idioma selecionado.</value>
   </data>
   <data name="plPropertyName.Text">
-    <value xml:space="preserve">Nome de a propriedade:</value>
+    <value xml:space="preserve">Nome da propriedade:</value>
   </data>
   <data name="plPropertyRequired.Help">
     <value xml:space="preserve">Escriba a mensagem de error a mostrar para este campo quando a propriedade não haya sido introducida.</value>
@@ -91,7 +91,7 @@
     <value xml:space="preserve">Mensagem de error de campo obrigatório:</value>
   </data>
   <data name="plPropertyValidation.Help">
-    <value xml:space="preserve">Escriba a mensagem de error a mostrar para este campo quando não se satisfaga a validação de a expresión regular</value>
+    <value xml:space="preserve">Escriba a mensagem de error a mostrar para este campo quando não se satisfaga a validação da expresión regular</value>
   </data>
   <data name="plPropertyValidation.Text">
     <value xml:space="preserve">Mensagem de error de validação:</value>
@@ -109,7 +109,7 @@
     <value xml:space="preserve">Valor padrão:</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Help">
-    <value xml:space="preserve">Pode establecer o valor padrão de a visibilidade do perfil. Este é o valor inicial de visibilidade que se aplicará si o usuário não o modifica quando edite su perfil.</value>
+    <value xml:space="preserve">Pode establecer o valor padrão da visibilidade do perfil. Este é o valor inicial de visibilidade que se aplicará se o usuário não o modifica quando edite su perfil.</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Text">
     <value xml:space="preserve">Visibilidade padrão:</value>
@@ -130,16 +130,16 @@
     <value xml:space="preserve">Categoría:</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Help">
-    <value xml:space="preserve">Nome de a propriedade</value>
+    <value xml:space="preserve">Nome da propriedade</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Required">
-    <value xml:space="preserve">O nome de a propriedade é obrigatório</value>
+    <value xml:space="preserve">O nome da propriedade é obrigatório</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Text">
     <value xml:space="preserve">Propriedade:</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Validation">
-    <value xml:space="preserve">O nome de a propriedade não pode contener espaços em branco</value>
+    <value xml:space="preserve">O nome da propriedade não pode contener espaços em branco</value>
   </data>
   <data name="ProfilePropertyDefinition_ReadOnly.Help">
     <value xml:space="preserve">Pode configurar uma propriedade como de somente lectura. Em este caso a propriedade pode ser editada pelos administradores mas é de somente lecturar para o usuário</value>
@@ -165,11 +165,11 @@
   <data name="ProfilePropertyDefinition_ViewOrder.Text">
     <value xml:space="preserve">Orden:</value>
   </data>
-  <data name="ProfilePropertyDefinition_Visible.Help">
-    <value xml:space="preserve">Si a opção não está activada a propriedade se mostrará solamente a os administradores. Os usuarios não podrán ver ni editar a propriedade.</value>
+  <data name="ProfilePropertyDefinition_Visível.Help">
+    <value xml:space="preserve">Se a opção não está activada a propriedade se mostrará solamente a os administradores. Os usuarios não podrán ver ni editar a propriedade.</value>
   </data>
-  <data name="ProfilePropertyDefinition_Visible.Text">
-    <value xml:space="preserve">Visible: </value>
+  <data name="ProfilePropertyDefinition_Visível.Text">
+    <value xml:space="preserve">Visível: </value>
   </data>
   <data name="RequiredTextBox.Text">
     <value xml:space="preserve">Si usa um campo de texto (TextBox), a longitude requerida deve ser maior que 0.</value>

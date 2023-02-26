@@ -25,10 +25,10 @@
     <value xml:space="preserve">Asignar a usuarios existentes:</value>
   </data>
   <data name="AutoAssignment.Help">
-    <value xml:space="preserve">Indica si se deve asignar este rol automáticamente a os usuarios</value>
+    <value xml:space="preserve">Mostra si se deve asignar este rol automáticamente a os usuarios</value>
   </data>
   <data name="AutoAssignment.Text">
-    <value xml:space="preserve">¿Asignação automática?</value>
+    <value xml:space="preserve">Asignação automática?</value>
   </data>
   <data name="BasicSettings.Text">
     <value xml:space="preserve">Configuração básica</value>
@@ -57,8 +57,8 @@
   <data name="DuplicateRole.Text">
     <value xml:space="preserve">Já existe um rol com o mesmo. O rol não foi adicionado.</value>
   </data>
-  <data name="IncompatibleFee.Text">
-    <value xml:space="preserve">A tarifa introducida "{0}" é incompatible com a frecuencia de facturação "Nenhuma".</value>
+  <data name="IncompatívelFee.Text">
+    <value xml:space="preserve">A tarifa introducida "{0}" é incompatível com a frecuencia de facturação "Nenhuma".</value>
   </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">&lt;h1&gt;Acerca de roles de seguridade&lt;/h1&gt;&lt;p&gt;Os Administradores podem gestionar os distintos roles disponívels não portal.  O módulo provee a funcionalidade para adicionar roles de seguridade, modificar e eliminar roles existentes, así como asignar usuarios a éstos.&lt;/p&gt;</value>
@@ -91,10 +91,10 @@
     <value xml:space="preserve">&lt;strong&gt;ATENCION:&lt;/strong&gt; Deve introducir a configuração do procesador de pagos em Administração do portal, para permitir a os usuarios suscribirse a os roles e servicios de pago.</value>
   </data>
   <data name="PublicRole.Help">
-    <value xml:space="preserve">Indica si o rol é público</value>
+    <value xml:space="preserve">Mostra se o rol é público</value>
   </data>
   <data name="PublicRole.Text">
-    <value xml:space="preserve">¿Rol público?</value>
+    <value xml:space="preserve">Rol público?</value>
   </data>
   <data name="RoleName.Help">
     <value xml:space="preserve">Escriba o nome do rol.</value>
@@ -145,16 +145,16 @@
     <value xml:space="preserve">&lt;br/&gt;O nome não é correto</value>
   </data>
   <data name="valRoleName2.Text">
-    <value xml:space="preserve">&lt;br/&gt;O nome é incorreto. Os nomes de rol não podem incluir os caracteres seguintes: &amp; $ + , / ? ~ # &lt; &gt; ¿ ¡ « » !  . :  * ' [ ]</value>
+    <value xml:space="preserve">&lt;br/&gt;O nome é incorreto. Os nomes de rol não podem incluir os caracteres seguintes: &amp; $ + , / ? ~ # &lt; &gt;  ¡ « » !  . :  * ' [ ]</value>
   </data>
   <data name="valServiceFee1.Text">
-    <value xml:space="preserve">&lt;br/&gt;O valor de a tarifa por servicio não é válido</value>
+    <value xml:space="preserve">&lt;br/&gt;O valor da tarifa por servicio não é válido</value>
   </data>
   <data name="valServiceFee2.Text">
-    <value xml:space="preserve">&lt;br/&gt;O valor de a tarifa por servicio deve ser maior o igual que zero</value>
+    <value xml:space="preserve">&lt;br/&gt;O valor da tarifa por servicio deve ser maior o igual que zero</value>
   </data>
   <data name="valTrialFee1.Text">
-    <value xml:space="preserve">&lt;br/&gt;O valor de a tarifa do período de prueba não é válido</value>
+    <value xml:space="preserve">&lt;br/&gt;O valor da tarifa do período de prueba não é válido</value>
   </data>
   <data name="valTrialFee2.Text">
     <value xml:space="preserve">&lt;br/&gt;A tarifa do período de prueba deve ser maior o igual que zero</value>

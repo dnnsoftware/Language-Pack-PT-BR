@@ -19,7 +19,7 @@
     <value xml:space="preserve">Asociar com uma conta existente</value>
   </data>
   <data name="AssociationFailed.Text">
-    <value xml:space="preserve">foi producido um error ao asociar a identidade com o usuário. Recuerde que os nomes do usuário e contrasenhas son sensibles a mayúsculas e minúsculas.</value>
+    <value xml:space="preserve">foi producido um error ao asociar a identidade com o usuário. Recuerde que os nomes do usuário e contrasenhas son sensívels a mayúsculas e minúsculas.</value>
   </data>
   <data name="AuthenticatedHelp.Text">
     <value xml:space="preserve">Foi sido autenticado satisfactoriamente. Sin embargo, esta identidade de autenticação não é um membro do portal. Pode asociar a identidade com um usuario existente (entrando o nome do usuário e a contrasenha) o pode registrarse como um novo membro.</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">criar uma nova conta</value>
   </data>
   <data name="cmdForgotPassword.Text">
-    <value xml:space="preserve">¿Olvidó su contrasenha?</value>
+    <value xml:space="preserve">Olvidó su contrasenha?</value>
   </data>
   <data name="cmdPassword.Text">
     <value xml:space="preserve">Recordar contrasenha</value>
@@ -70,7 +70,7 @@
     <value xml:space="preserve">Não pode identificarse não portal web desde está direção IP.</value>
   </data>
   <data name="LoginFailed.Text">
-    <value xml:space="preserve">O inicio de sesión falhou. Recuerde que as contrasenhas son sensibles a mayúsculas e minúsculas</value>
+    <value xml:space="preserve">O inicio de sesión falhou. Recuerde que as contrasenhas son sensívels a mayúsculas e minúsculas</value>
   </data>
   <data name="MustConsent.Text" lastModified="2020-05-09 06:31:39">
     <value xml:space="preserve">Tem que aceptar as condições para poder continuar</value>
@@ -82,7 +82,7 @@
     <value xml:space="preserve">Su contrasenha caducará o {0}. Actualice su contrasenha antes de continuar.</value>
   </data>
   <data name="PasswordInvalid.Text">
-    <value xml:space="preserve">Deve indicar uma contrasenha correta. Póngase em contato com o administrador do portal si desconoce os requisitos de seguridade de a contrasenha.</value>
+    <value xml:space="preserve">Deve indicar uma contrasenha correta. Póngase em contato com o administrador do portal si desconoce os requisitos de seguridade da contrasenha.</value>
   </data>
   <data name="PasswordMismatch.Text">
     <value xml:space="preserve">Os valores para as contrasenhas indicados não coincidem.</value>

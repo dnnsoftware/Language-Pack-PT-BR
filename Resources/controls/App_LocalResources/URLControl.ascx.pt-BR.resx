@@ -37,10 +37,10 @@
     <value xml:space="preserve">Imagen de sistema</value>
   </data>
   <data name="Log.Text">
-    <value xml:space="preserve">¿Registrar o usuário, a data e a hora de cada clic não enlace?&lt;br/&gt;</value>
+    <value xml:space="preserve">Registrar o usuário, a data e a hora de cada clic não enlace?&lt;br/&gt;</value>
   </data>
   <data name="NewWindow.Text">
-    <value xml:space="preserve">¿Abrir o enlace em uma nova ventana do navegador?&lt;br/&gt;</value>
+    <value xml:space="preserve">Abrir o enlace em uma nova ventana do navegador?&lt;br/&gt;</value>
   </data>
   <data name="NoneType.Text">
     <value xml:space="preserve">Nenhum</value>
@@ -70,7 +70,7 @@
     <value xml:space="preserve">Página (una página de su sitio)</value>
   </data>
   <data name="Track.Text">
-    <value xml:space="preserve">¿Registrar o número de veces que foice clic em este enlace?&lt;br/&gt;</value>
+    <value xml:space="preserve">Registrar o número de veces que foice clic em este enlace?&lt;br/&gt;</value>
   </data>
   <data name="Type.Text">
     <value xml:space="preserve">Tipo de enlace:</value>

@@ -22,7 +22,7 @@
     <value xml:space="preserve">Tipos de pasta</value>
   </data>
   <data name="DeleteConfirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea borrar o tipo de pasta '{0}'?</value>
+    <value xml:space="preserve">Está seguro que quer borrar o tipo de pasta '{0}'?</value>
   </data>
   <data name="Description.Text">
     <value xml:space="preserve">Gestione os tipos de pastas disponívels não portal web. Os tipos predeterminados (estándar, seguro e base de datos) não se podem editar ni modificar. Os tipos personalizados se podem reordenar seleccionándolos e moviéndolos a posição deseada. O orden se tendrá em conta a hora de resolver possívels conflictos durante a sincronização.</value>

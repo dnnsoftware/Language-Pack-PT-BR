@@ -25,7 +25,7 @@
     <value xml:space="preserve">Miembros</value>
   </data>
   <data name="DeleteItem.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este elemento?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar este elemento?</value>
   </data>
   <data name="EditModule.Text">
     <value xml:space="preserve">Editar o módulo</value>
@@ -82,6 +82,6 @@
     <value xml:space="preserve">Cargar desde mi ordenador</value>
   </data>
   <data name="WhoWillSee.Text">
-    <value xml:space="preserve">¿Quién pode ver a mensagem?</value>
+    <value xml:space="preserve">Quién pode ver a mensagem?</value>
   </data>
 </root>

@@ -13,9 +13,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessDenied.Text">
-    <value xml:space="preserve">Pode que actualmente não esté conectado o que não disponga de acceso a este conteúdo.</value>
+    <value xml:space="preserve">Pode que actualmente não esté conectado o que não dispõe de acesso a este conteúdo.</value>
   </data>
   <data name="ControlTitle_access denied.Text">
-    <value xml:space="preserve">Acceso denegado</value>
+    <value xml:space="preserve">Acesso negado</value>
   </data>
 </root>

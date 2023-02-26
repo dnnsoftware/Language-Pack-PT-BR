@@ -13,9 +13,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AutoResizeHeight.Help">
-    <value xml:space="preserve">O valor de a propriedade AutoResizeHeight indica si o alto de RadEditor mudará automáticamente para que coincida com a altura do conteúdo.
+    <value xml:space="preserve">O valor da propriedade AutoResizeHeight mostra se o alto de RadEditor mudará automáticamente para que coincida com a altura do conteúdo.
 
-Esta propriedade é similar a propriedade de desbordamiento do elemento DIV, que não é compatible com os elementos IFRAME.
+Esta propriedade é similar a propriedade de desbordamiento do elemento DIV, que não é compatível com os elementos IFRAME.
 
 Quando a propriedade AutoResizeHeight se establece em true, então o área do editor de conteúdo cambia de tamaño para que coincida em alto com o conteúdo e não aparezcan barras de desplazamiento.</value>
   </data>
@@ -44,7 +44,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Parámetros de scripts de cliente</value>
   </data>
   <data name="cmdCopy.Text">
-    <value xml:space="preserve">Copiar</value>
+    <value xml:space="preserve">Cópiar</value>
   </data>
   <data name="cmdCreate.Text">
     <value xml:space="preserve">criar</value>
@@ -83,7 +83,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Parámetros do gestor de documentos</value>
   </data>
   <data name="DocumentsFilters.Help">
-    <value xml:space="preserve">Una lista separada por punto e comas de as possívels extensiones que se utilizarán não gestor de documentos. As extensiones também devnestar na lista de anfitriones (host) de a configuração de as extensiones permitidas. Utilice o seguinte formato: *.extensión</value>
+    <value xml:space="preserve">Una lista separada por punto e comas das possívels extensões que se utilizarán não gestor de documentos. As extensões também devnestar na lista de anfitrões (host) da configuração das extensões permitidas. Utilice o seguinte formato: *.extensión</value>
   </data>
   <data name="DocumentsFilters.Text">
     <value xml:space="preserve">Filtros:</value>
@@ -100,19 +100,19 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
   <data name="EditModes.Help">
     <value xml:space="preserve">RadEditor ofrece tres modods diferentes Diseño, Html e Previsualizar:
 
-&lt;ul&gt; &lt;li&gt; Diseño: Não modo de diseño se pode editar e formatear o conteúdo mediante o uso de os botones de a barra de herramientas de RadEditor, menús desplegables e cuadros de diálogo. &lt;/ li&gt; Html: o modo HTML proporciona acceso directo a os conteúdos HTML. Este modo se utiliza com maior frecuencia pelos usuarios avanzados &lt;/ li&gt; Vista previa: Muestra cómo se verá o conteúdo antes de atualizar a página &lt;/ li&gt; &lt;/ ul&gt;</value>
+&lt;ul&gt; &lt;li&gt; Diseño: Não modo de diseño se pode editar e formatear o conteúdo mediante o uso dos botones da barra de herramientas de RadEditor, menús desplegables e cuadros de diálogo. &lt;/ li&gt; Html: o modo HTML proporciona Acesso directo a os conteúdos HTML. Este modo se utiliza com maior frecuencia pelos usuarios avanzados &lt;/ li&gt; Vista previa: Muestra cómo se verá o conteúdo antes de atualizar a página &lt;/ li&gt; &lt;/ ul&gt;</value>
   </data>
   <data name="EditModes.Text">
     <value xml:space="preserve">Modos de edição:</value>
   </data>
   <data name="EnableResize.Help">
-    <value xml:space="preserve">Obtiene o establece o valor que indica si os usuarios serán capaces de mudar o tamaño do controle de RadEditor não cliente.</value>
+    <value xml:space="preserve">Obtiene o establece o valor que mostra se os usuarios serán capaces de mudar o tamaño do controle de RadEditor não cliente.</value>
   </data>
   <data name="EnableResize.Text">
     <value xml:space="preserve">Permitir redimensionar:</value>
   </data>
   <data name="FileBrowserContentProviderTypeName.Help">
-    <value xml:space="preserve">O provedor de conteúdo é uma classe que se encarga de a cantidade de Arquivos e pastas nos diálogos do administrador de Arquivos se manejan. Anule esta configuração si tem outro provedor de conteúdo em su lugar.</value>
+    <value xml:space="preserve">O provedor de conteúdo é uma classe que se encarga da cantidade de Arquivos e pastas nos diálogos do administrador de Arquivos se manejan. Anule esta configuração si tem outro provedor de conteúdo em su lugar.</value>
   </data>
   <data name="FileBrowserContentProviderTypeName.Text">
     <value xml:space="preserve">Provedor do examinador de Arquivos:</value>
@@ -121,7 +121,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Parámetros de gestor de Flash</value>
   </data>
   <data name="FlashFilters.Help">
-    <value xml:space="preserve">Una lista separada por punto e coma de possívels extensiones a utilizar não administrador de Flash. As extensiones devnestar em a configuração do sistema na lista de extensiones permitidas. Utilice o seguinte formato: *.extensión</value>
+    <value xml:space="preserve">Una lista separada por punto e coma de possívels extensões a utilizar não administrador de Flash. As extensões devnestar em a configuração do sistema na lista de extensões permitidas. Utilice o seguinte formato: *.extensión</value>
   </data>
   <data name="FlashFilters.Text">
     <value xml:space="preserve">Filtros:</value>
@@ -148,7 +148,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Parámetros de gestor de imágenes</value>
   </data>
   <data name="ImagesFilters.Help">
-    <value xml:space="preserve">Una lista separada por punto e coma de as possívels ampliações que se utilizarán não gestor de imágenes. As extensiones devnestar em a configuração do sistema na lista de extensiones permitidas. Utilice o seguinte formato: *.extensión</value>
+    <value xml:space="preserve">Una lista separada por punto e coma das possívels ampliações que se utilizarán não gestor de imágenes. As extensões devnestar em a configuração do sistema na lista de extensões permitidas. Utilice o seguinte formato: *.extensión</value>
   </data>
   <data name="ImagesFilters.Text">
     <value xml:space="preserve">Filtros:</value>
@@ -160,7 +160,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Ruta:</value>
   </data>
   <data name="Language.Help">
-    <value xml:space="preserve">Si se establece, anulará o idioma do contexto do portal. Padrão se utiliza o idioma activo, pelo que na maioría de os casos usted deve dejar o campo vazio</value>
+    <value xml:space="preserve">Si se establece, anulará o idioma do contexto do portal. Padrão se utiliza o idioma activo, pelo que na maioría dos casos usted deve dejar o campo vazio</value>
   </data>
   <data name="Language.Text">
     <value xml:space="preserve">Idioma:</value>
@@ -214,7 +214,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Enlazar a página</value>
   </data>
   <data name="LinksType.Help">
-    <value xml:space="preserve">Indica o formato de os enlaces a páginas do portal: &lt;br/&gt;"Nome de página": default.aspx?TabName=Home&lt;br/&gt;"Id de página": default.aspx?TabId=100&lt;br/&gt;"Normal": os enlaces tienen o formato normal.</value>
+    <value xml:space="preserve">Mostra o formato dos enlaces a páginas do portal: &lt;br/&gt;"Nome de página": default.aspx?TabName=Home&lt;br/&gt;"Id de página": default.aspx?TabId=100&lt;br/&gt;"Normal": os enlaces tienen o formato normal.</value>
   </data>
   <data name="LinksType.Text">
     <value xml:space="preserve">Formato de enlaces:</value>
@@ -274,7 +274,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Parámetros de gestor de medios</value>
   </data>
   <data name="MediaFilters.Help">
-    <value xml:space="preserve">Una lista separada por punto e coma de as possívels extensiones que se utilizará não administrador de media (imágenes/videos). As extensiones devnestar em a configuração do sistema na lista de extensiones permitidas. Utilice o seguinte formato: *.extensión</value>
+    <value xml:space="preserve">Una lista separada por punto e coma das possívels extensões que se utilizará não administrador de media (imágenes/videos). As extensões devnestar em a configuração do sistema na lista de extensões permitidas. Utilice o seguinte formato: *.extensión</value>
   </data>
   <data name="MediaFilters.Text">
     <value xml:space="preserve">Filtros:</value>
@@ -286,7 +286,7 @@ Quando a propriedade AutoResizeHeight se establece em true, então o área do ed
     <value xml:space="preserve">Ruta:</value>
   </data>
   <data name="NewLineBr.Help">
-    <value xml:space="preserve">A propriedade NewLineBr especifica si o editor deve insertar uma nova línea (etiqueta &lt;br/&gt;) o um novo párrafo (&lt;p&gt;) quando se pulsa a tecla Intro. O valor predeterminado é verdadero (etiqueta &lt;br/&gt;) com o fin de reflejar fielmente o comportamiento do escritorio de tratamiento de textos. Em este caso se podem insertar as etiquetas de párrafo pulsando Ctrl + M o o botão de novo párrafo.
+    <value xml:space="preserve">A propriedade NewLineBr especifica se o editor deve insertar uma nova línea (etiqueta &lt;br/&gt;) o um novo párrafo (&lt;p&gt;) quando se pulsa a tecla Intro. O valor predeterminado é verdadero (etiqueta &lt;br/&gt;) com o fin de reflejar fielmente o comportamiento do escritorio de tratamiento de textos. Em este caso se podem insertar as etiquetas de párrafo pulsando Ctrl + M o o botão de novo párrafo.
 
 Si se establece a propriedade NewLineBr em falso, uma etiqueta de párrafo se incluirá em cada retorno de carro (pulsando Intro). Então, ao clicar May + Intro se insertará uma etiqueta &lt;br/&gt;.
 
@@ -297,7 +297,7 @@ As listas son tipos de párrafos e aceptan os mismos atributos que as etiquetas 
     <value xml:space="preserve">Novas lineas como saltos de linea:</value>
   </data>
   <data name="NotCurrentProvider.Text">
-    <value xml:space="preserve">RadEditorProvider não é o provedor html padrão. Os cambios não se aplicarán ao provedor html atual. Se deseja establecer esta configuração primero tem que selecionar 'DotNetNuke.RadEditorProvider' na lista desplegable de a izquierda.</value>
+    <value xml:space="preserve">RadEditorProvider não é o provedor html padrão. Os cambios não se aplicarán ao provedor html atual. Se deseja establecer esta configuração primero tem que selecionar 'DotNetNuke.RadEditorProvider' na lista desplegable da izquierda.</value>
   </data>
   <data name="OnClientCommandExecuting.Help">
     <value xml:space="preserve">Establece um nome de função que se llamará quando o editor ative o evento OnExecute não cliente (lanzado justo antes de ejecutar um comando). A função se podem colocar em o arquivo js definido em a configuração ScriptToLoad. Este evento é muy útil se deseja incluir emoticonos, por ejemplo. (Lea &lt;a href="http://radeditor.codeplex.com/Thread/View.aspx?ThreadId=231612" target="_blank"&gt; este mensagem não foro &lt;/ a&gt; para más informação)</value>
@@ -306,7 +306,7 @@ As listas son tipos de párrafos e aceptan os mismos atributos que as etiquetas 
     <value xml:space="preserve">Comando em ejecução:</value>
   </data>
   <data name="OnClientPasteHtml.Help">
-    <value xml:space="preserve">Establece um nome de função que se llamará quando o editor ative o evento OnPaste (cada vez que algo se pega em o código html de a zona de editores de a edição de HTML). A função se podem colocar em o arquivo js definido em a configuração ScriptToLoad.
+    <value xml:space="preserve">Establece um nome de função que se llamará quando o editor ative o evento OnPaste (cada vez que algo se pega em o código html da zona de editores da edição de HTML). A função se podem colocar em o arquivo js definido em a configuração ScriptToLoad.
 
 &lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt; Vea este ejemplo para um ejemplo detallado&lt;/ a&gt;</value>
   </data>
@@ -336,7 +336,7 @@ Deve configurar a herramienta CustomLinks em su barra de herramientas de configu
     <value xml:space="preserve">Parámetros do gestor de Silverlight</value>
   </data>
   <data name="SilverlightFilters.Help">
-    <value xml:space="preserve">Una lista separada por punto e coma de as possívels extensiones que se utilizarán não administrador de Silverlight. As extensiones devnestar em a configuração do sistema na lista de extensiones permitidas. Utilice o seguinte formato: *.extensión</value>
+    <value xml:space="preserve">Una lista separada por punto e coma das possívels extensões que se utilizarán não administrador de Silverlight. As extensões devnestar em a configuração do sistema na lista de extensões permitidas. Utilice o seguinte formato: *.extensión</value>
   </data>
   <data name="SilverlightFilters.Text">
     <value xml:space="preserve">Filtros:</value>
@@ -408,15 +408,15 @@ Deve configurar a herramienta CustomLinks em su barra de herramientas de configu
     <value xml:space="preserve">Opções de palabras ignoradas de correção:</value>
   </data>
   <data name="StripFormattingOptions.Help">
-    <value xml:space="preserve">Os desarrolladores podem aplicar o formato de conteúdo mediante a propriedade StripFormattingOptions. Como resultado, o formato de extração se aplicará a todo o conteúdo que os usuarios están tratando de pegar. O ajuste EditorStripFormattingOptions pode ter cualquiera o uma combinação de os seguintes valores:
+    <value xml:space="preserve">Os desarrolladores podem aplicar o formato de conteúdo mediante a propriedade StripFormattingOptions. Como resultado, o formato de extração se aplicará a todo o conteúdo que os usuarios están tratando de pegar. O ajuste EditorStripFormattingOptions pode ter cualquiera o uma combinação dos seguintes valores:
 &lt;ul&gt;
 &lt;li&gt; Nenhum: pega o conteúdo do portapapeles como é. &lt;/ li&gt;
 &lt;li&gt; NoneSupressCleanMessage: Não tira nada sobre a pasta e não hacer preguntas. &lt;/ li&gt;
-&lt;li&gt; MSWord: As tiras de a Palabra de etiquetas específicas em Pegar, a preservação de as fuentes e tamaños de texto. &lt;/ li&gt;
-&lt;li&gt; MSWordNoFonts: As tiras de a Palabra de etiquetas específicas em Pegar, a preservação de os tamaños de somente texto. &lt;/ li&gt;
-&lt;li&gt; MSWordRemoveAll: Word específicos de as tiras de etiqueta em Pegar, a eliminação de ambos tipos de letra e tamaños de texto. &lt;/ li&gt;
+&lt;li&gt; MSWord: As tiras da Palabra de etiquetas específicas em Pegar, a preservação das fuentes e tamaños de texto. &lt;/ li&gt;
+&lt;li&gt; MSWordNoFonts: As tiras da Palabra de etiquetas específicas em Pegar, a preservação dos tamaños de somente texto. &lt;/ li&gt;
+&lt;li&gt; MSWordRemoveAll: Word específicos das tiras de etiqueta em Pegar, a eliminação de ambos tipos de letra e tamaños de texto. &lt;/ li&gt;
 &lt;li&gt; Css: tiras de estilos CSS em Pegar. &lt;/ li&gt;
-Fonte &lt;li&gt;: etiquetas de as tiras de a Fonte em Pegar. &lt;/ li&gt;
+Fonte &lt;li&gt;: etiquetas das tiras da Fonte em Pegar. &lt;/ li&gt;
 Span &lt;li&gt;: tiras de etiquetas Span em Pegar. &lt;/ li&gt;
 Todos os &lt;li&gt;: tiras de todo o formato HTML e texto plano pegado. &lt;/ li&gt;
 AllExceptNewLines &lt;li&gt;:. Borra todas as variables, excepto "br" e as novas líneas (\ n) na pasta &lt;/ li&gt; &lt;/ ul&gt;</value>
@@ -428,7 +428,7 @@ AllExceptNewLines &lt;li&gt;:. Borra todas as variables, excepto "br" e as novas
     <value xml:space="preserve">Parámetros de gestor de planilhas</value>
   </data>
   <data name="TemplateFilters.Help">
-    <value xml:space="preserve">Una lista separada por punto e coma de as possívels extensiones que se utilizarán não gestor de planilhas. As extensiones devnestar em a configuração do sistema na lista de extensiones permitidas. Utilice o seguinte formato: *.extensión</value>
+    <value xml:space="preserve">Una lista separada por punto e coma das possívels extensões que se utilizarán não gestor de planilhas. As extensões devnestar em a configuração do sistema na lista de extensões permitidas. Utilice o seguinte formato: *.extensión</value>
   </data>
   <data name="TemplateFilters.Text">
     <value xml:space="preserve">Filtros:</value>
@@ -443,10 +443,10 @@ AllExceptNewLines &lt;li&gt;:. Borra todas as variables, excepto "br" e as novas
     <value xml:space="preserve">Parámetros de barras de botones</value>
   </data>
   <data name="ToolbarConfigTab.Text">
-    <value xml:space="preserve">Configuração de a barra de herramientas</value>
+    <value xml:space="preserve">Configuração da barra de herramientas</value>
   </data>
   <data name="ToolbarMode.Help">
-    <value xml:space="preserve">RadEditor para ASP.NET AJAX inclui uma propriedade denominada ToolbarMode, que especifica o comportamiento de a barra de herramientas. Tem as seguintes opções para o ToolbarMode:&lt;ul&gt;&lt;li&gt;Default - a barra de herramientas é estática e se sitúa sobre o área de conteúdo
+    <value xml:space="preserve">RadEditor para ASP.NET AJAX inclui uma propriedade denominada ToolbarMode, que especifica o comportamiento da barra de herramientas. Tem as seguintes opções para o ToolbarMode:&lt;ul&gt;&lt;li&gt;Default - a barra de herramientas é estática e se sitúa sobre o área de conteúdo
 &lt;/li&gt;&lt;li&gt;PageTop - em este modo, quando um determinado editor capta o enfoque su barra de herramientas aparecerá fijada a parte superior da página
 &lt;/li&gt;&lt;li&gt;ShowOnFocus - a barra de herramientas aparecerá justo sobre o editor quando éste capta o enfoque.
 &lt;/li&gt;&lt;li&gt;Floating - a barra de herramientas aparecerá em uma ventana e permitirá que o usuário a mueva sobre a página
@@ -456,7 +456,7 @@ AllExceptNewLines &lt;li&gt;:. Borra todas as variables, excepto "br" e as novas
     <value xml:space="preserve">Modo:</value>
   </data>
   <data name="ToolsWidth.Help">
-    <value xml:space="preserve">Establece o ancho de a barra de herramientas do editor, isto somente se deve utilizar quando o modo de barra de herramientas não esté establecido como predeterminado.</value>
+    <value xml:space="preserve">Establece o ancho da barra de herramientas do editor, isto somente se deve utilizar quando o modo de barra de herramientas não esté establecido como predeterminado.</value>
   </data>
   <data name="ToolsWidth.Text">
     <value xml:space="preserve">Ancho:</value>

@@ -40,7 +40,7 @@
     <value xml:space="preserve">Script: </value>
   </data>
   <data name="scriptsLabel.Help">
-    <value xml:space="preserve">Selecione o script que quiera editar de a lista.</value>
+    <value xml:space="preserve">Selecione o script que quiera editar da lista.</value>
   </data>
   <data name="scriptsLabel.Text">
     <value xml:space="preserve">Selecione o script:</value>

@@ -46,7 +46,7 @@
     <value xml:space="preserve">Enviar</value>
   </data>
   <data name="ClearLog.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar todas as entradas do registro?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar todas as entradas do registro?</value>
   </data>
   <data name="ClickRow.Text">
     <value xml:space="preserve">Haga clic em uma fila para ver os detalles.</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">foi borrado a configuração do registro seleccionada.</value>
   </data>
   <data name="ConfigDeletedWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar está configuração de registro?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar está configuração de registro?</value>
   </data>
   <data name="ConfigDeleteInconsistency.Text">
     <value xml:space="preserve">foi producido um error. Carge a página de novo e vuelva a intentarlo.</value>
@@ -124,7 +124,7 @@
     <value xml:space="preserve">Error</value>
   </data>
   <data name="ExceptionsWarning.Text">
-    <value xml:space="preserve">&lt;strong&gt;Atenção&lt;/strong&gt;: Si utiliza esta opção, &lt;em&gt;podría&lt;/em&gt; estar enviando informação sensible pela red  &lt;em&gt;sin&lt;/em&gt; cifrar. Antes de enviar as excepções revise o conteúdo do registro de excepções para que não contenga informação confidencial. Solamente se enviarán as entradas do registro seleccionadas.</value>
+    <value xml:space="preserve">&lt;strong&gt;Atenção&lt;/strong&gt;: Si utiliza esta opção, &lt;em&gt;podría&lt;/em&gt; estar enviando informação sensível pela red  &lt;em&gt;sin&lt;/em&gt; cifrar. Antes de enviar as excepções revise o conteúdo do registro de excepções para que não contenga informação confidencial. Solamente se enviarán as entradas do registro seleccionadas.</value>
   </data>
   <data name="FailureCode.Text">
     <value xml:space="preserve">Fallo na operação</value>
@@ -154,13 +154,13 @@
     <value xml:space="preserve">Elemento actualizado</value>
   </data>
   <data name="Legend.Text">
-    <value xml:space="preserve">Leyenda de a codificação de colores</value>
+    <value xml:space="preserve">Leyenda da codificação de colores</value>
   </data>
   <data name="LogCleared.Text">
     <value xml:space="preserve">O registro foi sido vaciado.</value>
   </data>
   <data name="LogDeleteWarning.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar todas as entradas do registro seleccionadas?</value>
+    <value xml:space="preserve">Está seguro que quer eliminar todas as entradas do registro seleccionadas?</value>
   </data>
   <data name="LogEntries.Text">
     <value xml:space="preserve"> entradas de registro</value>
@@ -202,7 +202,7 @@
     <value xml:space="preserve"> repetições</value>
   </data>
   <data name="plEmailAddress.Help" lastModified="2018-03-24 12:15:17">
-    <value xml:space="preserve">Introduzca o email de a persona que quiere que reciba o registro de eventos. Pode introducir múltiples emails separados por coma (,) or punt e coma (;).</value>
+    <value xml:space="preserve">Introduzca o email da persona que quiere que reciba o registro de eventos. Pode introducir múltiples emails separados por coma (,) or punt e coma (;).</value>
   </data>
   <data name="plEmailAddress.Text">
     <value xml:space="preserve">Direção de email </value>
@@ -229,19 +229,19 @@
     <value xml:space="preserve">Guardar registros recientes</value>
   </data>
   <data name="plLogType.Help">
-    <value xml:space="preserve">Selecione o tipo de eventos que desea ver</value>
+    <value xml:space="preserve">Selecione o tipo de eventos que quer ver</value>
   </data>
   <data name="plLogType.Text">
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="plLogTypeKey.Help">
-    <value xml:space="preserve">Indica o tipo de evento que corresponde a este registro.</value>
+    <value xml:space="preserve">Mostra o tipo de evento que corresponde a este registro.</value>
   </data>
   <data name="plLogTypeKey.Text">
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="plLogTypePortalID.Help">
-    <value xml:space="preserve">Indica com que sitio está relacionado este evento do registro</value>
+    <value xml:space="preserve">Mostra com que sitio está relacionado este evento do registro</value>
   </data>
   <data name="plLogTypePortalID.Text">
     <value xml:space="preserve">Sitio</value>
@@ -259,7 +259,7 @@
     <value xml:space="preserve">Direção de email de destino</value>
   </data>
   <data name="plPortalID.Help">
-    <value xml:space="preserve">Selecione o sitio que desea ver</value>
+    <value xml:space="preserve">Selecione o sitio que quer ver</value>
   </data>
   <data name="plPortalID.Text">
     <value xml:space="preserve">Sitio</value>
@@ -271,7 +271,7 @@
     <value xml:space="preserve">Mostrar registros</value>
   </data>
   <data name="plSubject.Help">
-    <value xml:space="preserve">Indica o assunto para o email.</value>
+    <value xml:space="preserve">Mostra o assunto para o email.</value>
   </data>
   <data name="plSubject.Text">
     <value xml:space="preserve">Assunto</value>

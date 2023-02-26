@@ -89,13 +89,13 @@
     <value xml:space="preserve">[DisplayName] quiere unirse a [groupitem:GroupName]</value>
   </data>
   <data name="GroupMemberRejectedNotification.Body">
-    <value xml:space="preserve">Sentimos informarle que su solicitud de unirse a &lt;a href="[groupitem:URL]"&gt;[groupitem:GroupName]&lt;/a&gt; foi denegado.</value>
+    <value xml:space="preserve">Sentimos informarle que su solicitud de unirse a &lt;a href="[groupitem:URL]"&gt;[groupitem:GroupName]&lt;/a&gt; foi negado.</value>
   </data>
   <data name="GroupMemberRejectedNotification.Subject">
     <value xml:space="preserve">Respuesta a su solicitud de unirse a [groupitem:GroupName]</value>
   </data>
   <data name="GroupName.Invalid">
-    <value xml:space="preserve">&lt;br/&gt;O nome é incorreto. Os nomes de grupo não podem incluir os caracteres seguintes: &amp; $ + , / ? ~ # &lt; &gt; ( ) ¿ ¡ « » !  . :  * ' [ ]</value>
+    <value xml:space="preserve">&lt;br/&gt;O nome é incorreto. Os nomes de grupo não podem incluir os caracteres seguintes: &amp; $ + , / ? ~ # &lt; &gt; ( )  ¡ « » !  . :  * ' [ ]</value>
   </data>
   <data name="GroupName.Required">
     <value xml:space="preserve">O nome do grupo é obrigatório.</value>
@@ -122,7 +122,7 @@
     <value xml:space="preserve">Não foi podido aprobar a petição do grupo em este momento.</value>
   </data>
   <data name="GroupRejectedNotification.Subject">
-    <value xml:space="preserve">foi denegado a petição de creação do grupo.</value>
+    <value xml:space="preserve">foi negado a petição de creação do grupo.</value>
   </data>
   <data name="GroupSearch.Required">
     <value xml:space="preserve">O término de busca é obrigatório.</value>
@@ -182,7 +182,7 @@
     <value xml:space="preserve">mensagens</value>
   </data>
   <data name="Private.Help">
-    <value xml:space="preserve">(somente visible para miembros)</value>
+    <value xml:space="preserve">(somente visível para miembros)</value>
   </data>
   <data name="Private.Text">
     <value xml:space="preserve">Privado</value>
@@ -203,7 +203,7 @@
     <value xml:space="preserve">Eliminar</value>
   </data>
   <data name="RequiredFields.Text">
-    <value xml:space="preserve">Indica campos obrigatórios</value>
+    <value xml:space="preserve">Mostra campos obrigatórios</value>
   </data>
   <data name="Sample_RoleDescription.Text">
     <value xml:space="preserve">Esta é a descripção do grupo de ejemplo.  Este grupo não existe realmente. Está vendo este mensagem porque está configurando o módulo por primera vez o é um administrador e foi navegado a esta página sin um ID de grupo</value>
@@ -218,6 +218,6 @@
     <value xml:space="preserve">Configuração de grupos</value>
   </data>
   <data name="SetupIntro.Text">
-    <value xml:space="preserve">O módulo de grupos sociales permite a os usuarios explorar, ver e criar novos grupos. A mejor forma de configurar o módulo é criar uma página para a lista de grupos e outra página para o detalle de os grupos. Pode acceder a configuração do módulo o bién selecionar a opção de configuração automática. &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Le recomendamos que utilice a opção de configuração automática si não está familiarizado com o módulo.&lt;/strong&gt;</value>
+    <value xml:space="preserve">O módulo de grupos sociales permite a os usuarios explorar, ver e criar novos grupos. A mejor forma de configurar o módulo é criar uma página para a lista de grupos e outra página para o detalle dos grupos. Pode acceder a configuração do módulo o bién selecionar a opção de configuração automática. &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Le recomendamos que utilice a opção de configuração automática si não está familiarizado com o módulo.&lt;/strong&gt;</value>
   </data>
 </root>

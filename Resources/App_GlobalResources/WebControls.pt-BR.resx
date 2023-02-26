@@ -79,7 +79,7 @@
     <value xml:space="preserve">Error na carga</value>
   </data>
   <data name="FileUpload.InvalidFileExtensions.Error">
-    <value xml:space="preserve">Algunos Arquivos com extensiones não permitidas não se podem cargar. somente pode cargar Arquivos com as seguintes extensiones: {0}</value>
+    <value xml:space="preserve">Algunos Arquivos com extensões não permitidas não se podem cargar. somente pode cargar Arquivos com as seguintes extensões: {0}</value>
   </data>
   <data name="FileUpload.KeepButton.Text">
     <value xml:space="preserve">Mantener</value>

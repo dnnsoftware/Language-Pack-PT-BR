@@ -25,9 +25,9 @@
     <value xml:space="preserve">disponível</value>
   </data>
   <data name="Remove.Text">
-    <value xml:space="preserve">Eliminar elemento selecionado de a lista de asignados</value>
+    <value xml:space="preserve">Eliminar elemento selecionado da lista de asignados</value>
   </data>
   <data name="RemoveAll.Text">
-    <value xml:space="preserve">Eliminar todos os elementos de a lista de asignados</value>
+    <value xml:space="preserve">Eliminar todos os elementos da lista de asignados</value>
   </data>
 </root>
