@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Cancelar</value>
+  </data>
+  <data name="cmdNewMapping.Text">
+    <value xml:space="preserve">Adicionar novo tipo</value>
+  </data>
+  <data name="ControlTitle_foldermappings.Text">
+    <value xml:space="preserve">Tipos de pasta</value>
+  </data>
+  <data name="DeleteConfirm.Text">
+    <value xml:space="preserve">Está seguro que quer borrar o tipo de pasta '{0}'?</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Gestione os tipos de pastas disponívels não portal web. Os tipos predeterminados (estándar, seguro e base de datos) não se podem editar ni modificar. Os tipos personalizados se podem reordenar seleccionándolos e moviéndolos a posição deseada. O orden se tendrá em conta a hora de resolver possívels conflictos durante a sincronização.</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="TableHeader.Text">
+    <value xml:space="preserve">Definições de tipos de pastas</value>
+  </data>
+  <data name="Type.Header">
+    <value xml:space="preserve">Fornecedor de pastas</value>
+  </data>
+</root>

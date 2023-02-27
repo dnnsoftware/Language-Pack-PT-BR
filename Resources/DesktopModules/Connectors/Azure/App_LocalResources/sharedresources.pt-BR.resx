@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccessDenied.ErrorMessage" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">foi negado o Acesso.</value>
+  </data>
+  <data name="AccountKey.Text" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">Clave de conta:</value>
+  </data>
+  <data name="AccountKeyCannotBeEmpty.ErrorMessage" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">A clave é obrigatória.</value>
+  </data>
+  <data name="AccountName.Text" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">Nome de conta:</value>
+  </data>
+  <data name="AccountNameCannotBeEmpty.ErrorMessage" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">O nome de conta é obrigatório.</value>
+  </data>
+  <data name="AccountNotFound.ErrorMessage" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">A conta indicada não foi encontrado.</value>
+  </data>
+  <data name="AuthenticationFailure.ErrorMessage" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">foi producido um error de autenticação.</value>
+  </data>
+  <data name="Moldura.Text" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">Nome da moldura:</value>
+  </data>
+  <data name="ErrorInvalidContainerName.Text" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">O nome de moldura introducido não é válido.</value>
+  </data>
+  <data name="ErrorMappingNameExists.Text" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">O nome de conexión já existe.</value>
+  </data>
+  <data name="ErrorRequiredFields.Text" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">A clave e nome de conta son obrigatórios.</value>
+  </data>
+  <data name="InvalidAccountKey.ErrorMessage" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">O valor introducido não é uma clave válida.</value>
+  </data>
+  <data name="InvalidAccountName.ErrorMessage" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">O valor introducido não é um nome de conta válido.</value>
+  </data>
+  <data name="SelectContainer.Text" lastModified="2018-03-24 10:11:45">
+    <value xml:space="preserve">- Selecione uma moldura -</value>
+  </data>
+</root>

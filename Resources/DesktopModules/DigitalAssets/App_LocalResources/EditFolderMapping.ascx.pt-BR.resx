@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle.Text">
+    <value xml:space="preserve">Tipo de pasta {0}</value>
+  </data>
+  <data name="ControlTitle_editfoldermapping.Text">
+    <value xml:space="preserve">Editar asignação de pasta</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Utilice este diálogo para definir um novo tipo de pasta</value>
+  </data>
+  <data name="DuplicateMappingName.Text">
+    <value xml:space="preserve">Já existe uma asignação com o mesmo nome. Não foin guardado os cambios.</value>
+  </data>
+  <data name="FolderProviderLabel.Help">
+    <value xml:space="preserve">Selecione o fornecedor de pastas que quiere utilizar.</value>
+  </data>
+  <data name="FolderProviderLabel.Text">
+    <value xml:space="preserve">Fornecedor de pastas</value>
+  </data>
+  <data name="FolderProviderSettings.Text">
+    <value xml:space="preserve">Configuração do fornecedor de pastas</value>
+  </data>
+  <data name="FolderProviderValidator.ErrorMessage">
+    <value xml:space="preserve">Tem que selecionar o fornecedor de pastas</value>
+  </data>
+  <data name="GeneralSettings.Text">
+    <value xml:space="preserve">Configuração general</value>
+  </data>
+  <data name="NameLabel.Help">
+    <value xml:space="preserve">Introduzca o nome de esta asignação.</value>
+  </data>
+  <data name="NameLabel.Text">
+    <value xml:space="preserve">Nome</value>
+  </data>
+  <data name="NameValidator.ErrorMessage">
+    <value xml:space="preserve">Tem que entrar o nome</value>
+  </data>
+  <data name="RequiredFields.Text">
+    <value xml:space="preserve">Mostra os campos obrigatórios</value>
+  </data>
+  <data name="SelectFolderProvider.Text">
+    <value xml:space="preserve">- Selecione um fornecedor -</value>
+  </data>
+  <data name="SyncWarning.Text">
+    <value xml:space="preserve">Después de guardar um tipo de pasta, se ejecutará uma sincronização nas pastas deste tipo. Isto pode llevar algún tempo, dependiendo do número de pastas que coincidan com os criterios.</value>
+  </data>
+  <data name="Update.Text">
+    <value xml:space="preserve">Guardar</value>
+  </data>
+</root>

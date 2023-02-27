@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btn_Cancel.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Cancelar</value>
+  </data>
+  <data name="btn_Checking.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Comprobando...</value>
+  </data>
+  <data name="btn_Connect.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Conectar</value>
+  </data>
+  <data name="btn_Edit.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Editar</value>
+  </data>
+  <data name="btn_Save.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Guardar</value>
+  </data>
+  <data name="ErrConnectorNotFound.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Não foi encontrado o conector.</value>
+  </data>
+  <data name="nav_Connectors.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Conectores</value>
+  </data>
+  <data name="Save.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Guardar</value>
+  </data>
+  <data name="title_Connections.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Configurar conexões</value>
+  </data>
+  <data name="txt_AddNew.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Adicionar nova</value>
+  </data>
+  <data name="txt_clickToEdit.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Clicar para editar o nome do conector</value>
+  </data>
+  <data name="txt_Deleted.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">foi eliminado o elemento.</value>
+  </data>
+  <data name="txt_DisplayNameIsNotUnique.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">O nome tem que ser único.</value>
+  </data>
+  <data name="txt_DisplayNameIsNotValid.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">O nome somente pode contener letras e números.</value>
+  </data>
+  <data name="txt_Saved.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">foi guardado o elemento.</value>
+  </data>
+  <data name="txt_SetupConnections.Text" lastModified="2018-03-24 06:31:48">
+    <value xml:space="preserve">Configure sus conexões para compartilhar conteúdo más fácilmente.</value>
+  </data>
+</root>
