@@ -16,13 +16,13 @@
     <value xml:space="preserve">Módulo</value>
   </data>
   <data name="InheritPermissions.Text">
-    <value xml:space="preserve">Herdar as permissões para &lt;strong&gt;Ver&lt;/strong&gt; a &lt;strong&gt;página&lt;/strong&gt;</value>
+    <value xml:space="preserve">Herdar permissões de &lt;strong&gt;Visualização da Página&lt;/strong&gt;</value>
   </data>
   <data name="Permissions.Text">
     <value xml:space="preserve">Permissões</value>
   </data>
   <data name="plPermissions.Help" lastModified="2015-12-28 06:50:12">
-    <value xml:space="preserve">Selecione as permissões de Ver e Editar marcando o desmarcando as opções de verificação da tabela. Ative a opção "Herdar as permissões para Ver a página" se quiser herdar as permissões de visualização da página para este módulo.</value>
+    <value xml:space="preserve">Selecione as permissões de Visualização e Edição marcando/desmarcando as caixas na grade. Marque a caixa "Herdar Permissões de Visualização" para permitir que o módulo herde as permissões da página.</value>
   </data>
   <data name="plPermissions.Text">
     <value xml:space="preserve">Permissões:</value>

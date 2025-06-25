@@ -19,34 +19,34 @@
     <value xml:space="preserve">Importar Módulo</value>
   </data>
   <data name="Error.Text" lastModified="2015-12-28 06:50:26">
-    <value xml:space="preserve">Houve um erro durante a importação.</value>
+    <value xml:space="preserve">Um erro ocorreu durante a importação.</value>
   </data>
   <data name="ImportFile.Text">
-    <value xml:space="preserve">Importar arquivo</value>
+    <value xml:space="preserve">Importar Arquivo</value>
   </data>
   <data name="ImportNotSupported.Text" lastModified="2015-12-28 06:50:26">
-    <value xml:space="preserve">O módulo selecionado não suporta a importação de conteúdo.</value>
+    <value xml:space="preserve">O módulo selecionado não suporta importação de conteúdo.</value>
   </data>
   <data name="ModuleContent.Text">
     <value xml:space="preserve">Conteúdo do Módulo</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Importar Módulo&lt;/h1&gt;&lt;p&gt;Importar conteúdo exportado anteriormente para o módulo especificado.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Importar Módulo&lt;/h1&gt;&lt;p&gt;Importar conteúdo previamente exportado para o módulo especificado.&lt;/p&gt;</value>
   </data>
   <data name="NotCorrectType.Text" lastModified="2015-12-28 06:50:26">
     <value xml:space="preserve">O conteúdo do módulo não é do tipo correto para este módulo.</value>
   </data>
   <data name="NotValidXml.Text" lastModified="2015-12-28 06:50:26">
-    <value xml:space="preserve">O arquivo selecionado não contém a correta estrutura de XML.</value>
+    <value xml:space="preserve">O conteúdo do módulo não tem a estrutura XML correta</value>
   </data>
   <data name="plFile.Help">
-    <value xml:space="preserve">Selecione o arquivo para importação</value>
+    <value xml:space="preserve">Selecione o arquivo de importação</value>
   </data>
   <data name="plFile.Text">
     <value xml:space="preserve">Arquivo</value>
   </data>
   <data name="plFolder.Help">
-    <value xml:space="preserve">Selecione a pasta para importação</value>
+    <value xml:space="preserve">Selecione a pasta de importação</value>
   </data>
   <data name="plFolder.Text">
     <value xml:space="preserve">Pasta</value>

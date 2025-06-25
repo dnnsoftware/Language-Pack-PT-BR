@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BindConfirm.Text">
-    <value xml:space="preserve">A vinculação a versão do idioma padrão eliminará o conteúdo das demás versões. Esta ação é irreversível. Está seguro que quer continuar?</value>
+    <value xml:space="preserve">Ao vincular à versão do idioma padrão, o conteúdo das outras versões será apagado. Esta ação é irreversível. Tem certeza de que quer continuar?</value>
   </data>
   <data name="bindModule.Text">
-    <value xml:space="preserve">Referência ao idioma padrão</value>
+    <value xml:space="preserve">Referência do Idioma Padrão</value>
   </data>
   <data name="Edit.Header">
     <value xml:space="preserve">Editar</value>
@@ -25,10 +25,10 @@
     <value xml:space="preserve">Idioma</value>
   </data>
   <data name="markModuleTranslated.Text">
-    <value xml:space="preserve">Marcar como traduzido</value>
+    <value xml:space="preserve">Marcar como Traduzido</value>
   </data>
   <data name="markModuleUnTranslated.Text">
-    <value xml:space="preserve">Marcar como não traduzido</value>
+    <value xml:space="preserve">Marcar como Não Traduzido</value>
   </data>
   <data name="ModuleTitle.Header">
     <value xml:space="preserve">Título do Módulo</value>
@@ -40,12 +40,12 @@
     <value xml:space="preserve">N/A</value>
   </data>
   <data name="Translated.Header">
-    <value xml:space="preserve">Foi traduzido?</value>
+    <value xml:space="preserve">Traduzido?</value>
   </data>
   <data name="unbindModule.Text">
-    <value xml:space="preserve">Desvincular do idioma padrão</value>
+    <value xml:space="preserve">Desanexar do Idioma Padrão</value>
   </data>
   <data name="UnBound.Header">
-    <value xml:space="preserve">Está desvinculado?</value>
+    <value xml:space="preserve">Está Desanexado?</value>
   </data>
 </root>
